@@ -1,0 +1,3663 @@
+A
+ADP (automatic data processing)   processamento (m) automático de
+                                   dados
+absenteeism                       absenteísmo (m)
+absorption costing                custeio (f) de absorção
+abandonment:
+ product -                        retirada (f) de um produto
+above par                         com ágio; acima da paridade
+acceleration clause               cláusula (f) de aceleração
+acceptance:                       aceitação (f)
+ brand -                          aceitação (f) de uma marca
+ consumer -                       aceitação (f) por parte do consumidor
+access:
+ multi -                          acesso (m) múltiplo
+ random -                         acesso (m) casual
+account:
+ bank -                           conta (f) bancária
+ joint -                          conta (f) conjunta
+accountability                    responsabilidade (f) sujeita a
+                                   prestação de contas
+accountant:
+
+chief                             chefe (m) de contabilidade
+accounting:
+ - department                     departamento (m) de contabilidade,
+                                   contadoria (f)
+ - model                          modelo (m) contábil
+ - period                         exercício (m) contábil
+ - ratio                          índice (m) contábil
+ cost -                           contabilidade (f) de custo
+ management -                     contabilidade (f) gerencial
+ profit centre -                  contabilidade (f) por centros de lucro
+ responsibility -                 custeio (m) por responsabilidade
+accounts:
+ consolidated -                   contas (fpl) consolidadas
+ group -                          contas (fpl) de grupo
+accretion                         aumento (m); acréscimo (m)
+accrual                           acumulação (f)
+acid test ratio                   índice (m) de liquidez geral
+acquisition:                      aquisição (f)
+ - profile                        perfil (m) de aquisição
+ data -                           aquisição (f) de dados
+action plan                       plano (m) de ação
+activate (to -)                   ativar
+activity:                         ramo (m) de negócios
+ - chart                          gráfico (m) de atividades
+ - sampling                       amostragem (f) de atividades 
+ support -              atividade (f) de apoio
+actualisation:
+ self -                 auto-realização (f)
+adaptive control        controle (m) adaptativo
+added:
+
+    value -             valor (m) agregado
+    value - tax (VAT)   imposto (m) sobre circulação de
+                         mercadorias (ICM)
+administration:         administração (f)
+ financial -            administração (f) financeira
+administrative:
+ - control procedure    procedimento (m) de controle
+                          administrativo
+ - overheads            despesas (fpl) de administração
+ - theory               teoria (f) da administração
+advancement:
+ executive -            promoção (f) de executivos
+advantage:
+ competitive -          vantagem (f) competitiva
+advertisement           anúncio (m)
+advertiser              anunciante (m)
+advertising:
+
+    - agent             agente (m) de publicidade
+    - appropriation     verba (f) publicitária
+    - budget            orçamento (m) publicitário
+    - campaign          campanha (f) de publicidade
+    - drive             esforço (m) publicitário
+    - effectiveness     eficácia (f) de publicidade
+    - manager           gerente (m) de publicidade
+    - media             mídia (f) de publicidade
+    - message           mensagem (m) publicitária
+    - research          pesquisa (f) publicitária
+    - theme             tema (m) publicitário
+    corporate -         publicidade (f) empresarial
+    product -           publicidade (f) de produtos
+    subliminal -        publicidade (f) subliminar
+advisory services       serviços (mpl) de assessoramento
+affidavit               depoimento (m) juramentado
+affiliate company       companhia (f) filiada
+after sales service     serviço (m) pós-venda
+agent:
+ advertising -          agente (m) de publicidade
+ sole -                 agente (m) exclusivo
+agreement:
+ collective -           acordo (m) coletivo
+ bargaining -           convênio (m) (de barganha)
+ productivity -         acordo (m) de produtividade
+algorithm               algoritmo (m) 
+all risks                      todos os riscos (mpl),
+                                cobertura (f) total
+allocation:
+ - of costs                    distribuição (f) de custos
+ - of responsibilities         distribuição (f) de responsabilidades
+ resource -                    distribuição (f) de recursos
+allowance:
+ depreciation -                abatimento (m) de depreciação, reser
+                                (f) paia depreciação
+amalgamation                   fusão (f), união (f)
+analogue:
+ - computer                    computador (m) analógico
+ - representation              representação (f) analógica
+analysis:
+ breakeven -                   análise (f) do ponto de equilíbrio
+ competitor -                  análise (f) da concorrência
+ contribution -                análise (f) de contribuições
+ cost -                        análise (f) de custos
+ cost-benefit - (CBA)          análise (f) de custos e benefícios
+ cost-volume-profit -          análise (f) de custo, volume e lucro
+ critical path - (CPA)         análise (f) do caminho crítico
+ decision -                    análise (f) de decisão
+ depth -                       análise (f) em profundidade
+ financial -                   análise (f) financeira
+ functional -                  análise (f) funcional
+ input-output -                análise (f) de entrada e saída
+ investment -                  análise (f) de investimentos
+ job -                         avaliação (f) de cargo
+ marginal -                    análise (f) marginal
+ media -                       análise (f) de mídia
+ morphological -               análise (f) morfológica
+ needs -                       análise (f) de necessidades
+ network -                     análise (f) de rede
+ problem -                     análise (f) de problemas
+ product -                     análise (f) de produto
+ profit factor -               análise (f) de elementos de lucro
+ profitability -               análise (f) de rentabilidade
+ project -                     análise (f) de projeto
+ regression -                  análise (f) de regressão
+ multiple regression - (MPA)   análise (f) de regressão múltipla
+ risk -                        análise (f) de riscos
+ sales -                       análise (f) de vendas
+ sensitivity -                 análise (/) de sensibilidade
+ sequential -                  análise (f) seqüencial
+ skill-                        análise (f) de habilidades
+ systems -                     análise (f) de sistemas
+ value -                       análise (f) de valores
+ variance -                    análise (f) de variação 
+analytical training      treinamento (m) analítico
+ancillary operations     operações (fpl) periféricas
+anticipatory response    resposta (f) antecipada
+appeal:
+ sales -                 atração (f) comercial, garra (f)
+                          comercial
+apportionment            distribuição (f)
+appraisal:
+ capital expenditure -   avaliação (f) de dispêndio de capital
+ financial -             avaliação (f) financeira
+ investment -            avaliação (f) de investimentos
+ market -                avaliação (f) de mercado
+ performance -           avaliação (f) de desempenho
+ self-                   auto-avaliação (f)
+approach:
+
+    systems -            abordagem (f) segundo a teoria
+                          dos sistemas
+ top management -        abordagem (f) da diretoria
+appropriation:
+ account -               conta (f) de apropriação
+ advertising -           verba (f) publicitária
+ budget -                verba (f) orçamentária
+ marketing -             verba (f) para marketing
+aptitude test            teste (m) de aptidão
+arbitrage                arbitragem (f)
+arbitration              arbitragem (f)
+area:
+ growth -                área (f) de crescimento
+ product -               setor (f) de produtos
+ problem -               área (f) problemática
+ sales -                 área (f) de vendas
+ trading -               área (f) comercial
+assembly line            linha (f) de montagem
+assessment:              avaliação (f)
+ demand -                avaliação (f) de demanda
+ project -               avaliação (f) de projeto
+ risk -                  avaliação (f) de riscos
+asset:
+ - turnover              movimento (m) do ativo
+ - value                 valor (m) do ativo
+assets:
+ capital -               ativo (m) imobilizado, ativo (m)
+                          fixo, bens (mpl) de capital
+    current -            ativo (m) corrente
+    net current -        ativo (m) corrente líquido
+    earnings on -        rendimento (m) do ativo
+    fixed -              ativo (m) fixo, ativo (m) imobilizado
+    intangible           ativo (m) intangível 
+ liquid -             ativo (m) líquido
+ net -                patrimônio (m) líquido, ativo (m)
+                       líquido
+ quick -              ativo (m) de realização imediata
+ revaluation of -     reavaliação (f) do ativo
+ tangible -           ativo (m) tangível
+assignment:
+ job -                designação (f) de tarefas
+assistant:
+ - manager            gerente-adjunto (m)
+ - to manager         assistente (m) do gerente
+ line -               assistente (m) de linha
+ staff-               assistente (m) consultivo
+associate company     companhia (f) associada
+association:
+ trade -              associação (f) comercial
+at sight              à vista
+attitude:
+ - survey             levantamento (m) de opiniões
+ user -               atitude (f) do consumidor
+audit (to -)          examinar (livros contábeis), realizar
+                       auditoria
+audit:                auditoria (f)
+ - report             parecer (m) de auditoria
+ internal -           auditoria (f) interna
+ management -         parecer (m) para gerência
+ manpower -           análise (f) de mão-de-obra
+ operations -         avaliação (f) de operações
+auditing:
+ balance sheet -      auditoria (f) de balanço
+auditor               auditor (m)
+authorised capital    capital (m) autorizado
+authority:
+ - structure          estrutura (f) de autoridade
+ contraction of -     diminuição (f) de autoridade
+ line -               autoridade (f) de linha
+automatic data:
+ - processing (ADP)   processamento (m) automático de
+                       dados (PAD)
+automation            automação (f)
+average cost          custo (m) médio
+awareness:
+ brand -              conhecimento (m) de marca
+ cost -               consciência (f) de custos 
+B
+backdate to              antecipar, pré-datar
+bad debt                 dívida (f) duvidosa, dívida (f)
+                          incobrável, empréstimo (m) em
+                          liquidação
+balance:
+ - sheet                 balanço (m) geral
+ debit -                 saldo (m) devedor
+ gross -                 resultado (m) bruto
+ outstanding -           saldo (m) a receber, saldo (m) a pagar
+balance sheet auditing   auditoria (f) de balanço
+bank:
+ - account               conta (f) bancária
+ - deposit               depósito (m) bancário
+ - draft                 saque (m)
+ - overdraft             conta (f) bancária a descoberto
+ - statement             extrato (m) bancário
+ computer -              banco (m) de dados de computador
+ data -                  banco (m) de dados
+ safety -                reserva (/) para imprevistos
+bankers'draft            saque (m) bancário
+bargain                  permuta (f), barganha (f), pechincha (f)
+bargaining:
+ collective -            negociação (f) coletiva
+ plant -                 negociação (f) a nível de fábrica
+ productivity -          negociação (f) de produtividade
+bankruptcy               falência (/), quebra (f) financeira,
+                          bancarrota (f)
+base:
+ -pay                    salário-base (m)
+ - year                  ano-base (m)
+batch:
+ - control               controle (m) por batelada, por lote
+ - processing            processamento (m) por batelada,
+                          em lote
+ - production            produção (f) por batelada, por lote
+economic-quantity        tamanho (m) do lote econômico
+bear:
+ - market                mercado (m) com perspectiva de baixa
+behaviour:
+ buying -                comportamento (m) de compra
+ consumer -              comportamento (m) do consumidor
+behavioural science      ciência (f) do comportamento
+below:
+ - par                   com desconto ou desígio, abaixo do
+                          valor par
+ - the line (figures)    lucro (m) 
+benchmark                padrão (m)
+benefit:
+ cost - analysis (CBA)   análise de custos e benefícios
+benefits:
+ fringe -                recompensas (fpl) não assalariadas,
+                          vantagens (fpl) adicionais
+bid:
+ takeover -              oferta (f) de compra (de uma
+                           companhia)
+bidder                   licitante (m), proponente
+bill:
+ - of exchange           letra (f) de câmbio
+ - of lading             conhecimento (m) de embarque
+ - of sale               fatura (f)
+ airway -                conhecimento (m) de embarque aéreo
+billing                  faturamento
+black:
+ - cash                  caixa (f) preta; caixa (f) 2
+ - market                mercado (m) negro, mercado (m)
+                          paralelo
+blocked currency         moeda (f) bloqueada por controle
+                          cambial
+board:
+ - control               controle (m) de diretoria
+ - meeting               reunião (f) de diretoria
+ - of directors          diretoria (/), conselho (m)
+                          de administração
+ - room                  sala (f) da diretoria
+ executive -             diretoria (f) executiva, junta (f)
+                          executiva
+bond:                    bônus (m); obrigação (f); debênture
+                          (f); fiança (f); garantia (f)
+ guarantee -             obrigação (f) garantida
+ in -                    não desembaraçado da alfândega
+bonded warehouse         entreposto (m) aduaneiro
+bonus:
+ - scheme                bonificação (f) em prêmios
+ share -                 bonificação (f) em ações
+ stock -                 prêmio (m) em ações
+ group -                 prêmio (m) coletivo
+ premium -               brinde (m)
+book value               valor (m) contábil
+boom                     alta(/)
+booster training         reciclagem (m)
+borrowing facility       linha (f) de crédito
+bottom line              lucro (m) final
+bounced cheque           cheque (m) sem fundos
+bouncing cheque          cheque (m) sem fundos 
+branch office                    filial (f)
+brand:                           marca (f)
+ - acceptance                    aceitação (f) de marcas
+ - awareness                     conhecimento (m) de marca
+ - image                         imagem (f) de uma marca
+ - loyalty                       lealdade (f) a uma marca
+ - manager                       gerente (m) de uma marca
+ - recognition                   identificação (f) de marca
+ - strategy                      estratégia (f) de uma marca
+breach of contract               inadimplemento (m), inadimplência
+                                  (m) a um contrato, quebra (f)
+                                  de contrato
+breakdown:
+ - of accounts                   desdobramento (m) de contas
+ operations -                    desdobramento (m) de operações
+breakeven:
+ - analysis                      análise (f) do ponto de equilíbrio
+ - chart                         gráfico (m) do ponto de equilíbrio
+ - point                         ponto (m)de equilíbrio
+break-through                    avanço (m) importante, brecha (f)
+break-up value                   valor (m) de liquidação forçada
+briefing                         reunião (f) para dar informações
+                                  resumidas, relato (m)
+broker:                          corretor (m)
+ software -                      corretor (m) de sistemas
+budget:                          orçamento (m)
+ - appropriation                 verba ff) orçamentária
+ - constraint                    limitação (f) orçamentária
+ - forecasting                   previsão (f) orçamentária
+ - standard                      padrão (m), standard (m),
+                                   norma (f) de orçamento
+ - advertising -                 orçamento (m) de publicidade
+ capital -                       orçamento (m) patrimonial
+ cash -                          orçamento (m) de caixa
+ flexible -                      orçamento (m) flexível
+ investment -                    orçamento (m) de investimentos
+ marketing -                     orçamento (m) de marketing
+ sales -                         orçamento (m) de vendas
+budgetary control                controle (m) orçamentário
+budgeting:                       contabilidade (f) orçamentária
+ - control                       controle (m) orçamentário
+ capital -                       controle (m) orçamentário de capital
+ cash -                          controle (m) orçamentário de caixa
+ output -                        controle (m) orçamentário de produção
+ performance -                   controle (m) orçamentário de rendimen-
+                                 to
+ planning programming - system   sistema (m) orçamentário de
+ (PPBS)                           programação e planejamento 
+ programme -                        sistema (m) de orçamentos
+                                     programados
+buffer:                             memória (f) auxiliar, buffer (m)
+ - stock                            inventário (m) para imprevistos,
+                                     estoque (m) regulador
+built-in-obsolescence               obsolescência (f) planejada
+bull:                               especulador (m) que espera
+                                      uma alta no mercado
+ - market                           mercado (m) com perspectiva de alta
+burning ratio                       taxa (f) de sinistros de incêncio
+business:
+ - cycle                            ciclo (m) econômico
+ - day                              dia (m) útil
+ - economist                        economista (m) empresarial
+ - forecasting                      previsão (m) comercial, prognóstico
+                                      (m) comercial
+ - game                             jogo (m) empresarial, simulação (f)
+                                      de direção
+ - management                       administração (f) de empresas
+ - policy                           política (f) de negócios
+ - relations                        relações (fpl) comerciais
+ - strategy                         estratégia (f) comercial
+buyer:
+ chief -                            chefe (m) de compras
+ potential -                        comprador (m) em potencial
+buyers's market                     mercado (m) do comprador
+buying behaviour                    comportamento (m) de compra
+by-product                          derivado (m), subproduto (m)
+
+
+
+c
+C and F (cost and freight)          custo (m) e frete (m)
+CBA (cost-benefit analysis)         análise (f) de custos e benefícios
+CIF (cost, insurence and freight)   custo (m) + seguro (m) + frete (m)
+COBOL (comon business
+ oriented language)                 Cobol, linguagem (f) comum para
+                                     negócios
+COD (cash on delivery)              pagamento (m) contra entrega
+COINS (computerised information
+ system)                        sistema (m) computadorizado de dados
+CPA (critical path analysis)    análise (m) do caminho crítico
+CPM (critical path method)      método (m) do caminho crítico
+CWM (clerical work              medição (f) de trabalho
+                                   administrativo
+measurement)
+call loan                       empréstimo (m) sujeito a rescisão
+                                 imediata por qualquer das partes 
+campaign:
+ advertising -          campanha (f) de publicidade
+ productivity -         campanha (f) de produtividade
+canvass (to -)          solicitar, buscar opiniões
+capacity:
+ - utilisation          utilização (f) de capacidade total
+ excess -               capacidade (f) excessiva
+ manufacturing -        capacidade (f) de fabricação
+ idle -                 capacidade (f) ociosa
+ plant -                capacidade (f) das instalações
+capital:
+ - assets               ativo (m) fixo, bens (mpl) de capital,
+                         ativo (m) imobilizado
+ - budget               orçamento (m) patrimonial
+ - budgeting            controle (m) orçamentário de capital
+ - commitment           designação (f) de capital
+ - employed             capital (m) investido
+ return on -
+   employed (ROCE)      rendimento (m) do capital investido
+ - expenditure          dispêndio (m) de capital
+ - formation            agrupamento (m) de capital
+ - goods                ativo (m) fixo, bens (mpl)
+                         imobilizados, bens (mpl) de capital
+ - gains                lucros (mpl) na venda de
+                         investimentos
+ - intensive            com predomínio (m) de capital
+ - output ratio         índice (m) rendimento/capital
+ - project evaluation   avaliação (f) de projetos de
+                         investimentos
+ - raising              aumento (m) de capital
+ - rationing            racionamento (m) de capital
+ - structure            estrutura (f) de capital
+ authorised -           capital (m) autorizado
+ circulating -          capital (m) circulante, capital
+                         (m) de giro
+ declared -             capital (m) declarado
+ issued -               capital (m) em ações
+ legal -                capital (m) legal
+ loan -                 capital (m) tomado por empréstimo
+ return on -            rendimento (m) de capital
+ risk -                 capital (m) de risco
+ share -                capital (m) social, capital
+                         (m) em ações
+venture -               capital (m) de risco
+ working -              capital (m) circulante, capital
+                         (m) de giro
+capitalisation          capitalização (f)
+capitalise (to)         capitalizar 
+capitalised:
+ over -                  sobrecapitalizado
+ under -                 subcapitalizado
+career planning          planejamento (m) de desenvolvimento
+                          profissional
+cargo                    carga (f)
+camet                    camê (m)
+cartel                   cartel (m)
+case study               estudo (m) de caso
+cash:
+ - against documents     pago (m) contra apresentação
+                           de documentos
+ - budget                orçamento (m) de caixa
+ - budgeting             controle (m) orçamentário de caixa
+ - discount              desconto (m) para pagamento à vista
+ - flow                  fluxo (m) de caixa
+ discounted-flow (DCF)   relação (f) entre receita e
+                           investimento, menos impostos
+ - management            controle (m) de caixa
+ - on delivery           pagamento (m) contra entrega
+ - ratio                 índice (m) de dinheiro em caixa
+ - transaction           operação (f) à vista
+ hard -                  dinheiro (m) vivo, espécie (f)
+ near -                  valores (mpl) rapidamente
+                          conversíveis
+ceiling price            preço-teto (m)
+centralisation           centralização (f)
+centre:
+ computer -              centro (m) de computação
+ cost -                  centro (m) de custo
+ profit -                centro (m) de lucro
+profit - accounting      contabilidade (f) por centros de lucro
+certificate:
+ - of origin             certificado (m) de origem
+ - of registry           certificado (m) de registro
+ - of shipment           certificado (m) de embarque
+chain:
+ - of command            linha (/) de comando
+ - of distribution       cadeia (f) de distribuição
+ - store                 rede (f) de lojas
+chairman:                presidente (m)
+ deputy -                vice-presidente (m)
+ vice -                  vice-presidente (m)
+challenge:
+ job -                   desafio (m) do cargo
+chamber of commerce      câmara (f) de comércio
+change:
+ organisational -        transformação (f) da organização 
+channels:
+ - of communication         meios (mpl) de comunicação
+ - of distribution          canais (mpl) de distribuição
+charges:
+ handling -                 taxas (fpl) de serviço
+charm price                 chamariz (m)
+chart:
+ activity -                 gráfico (m) de atividades
+ bar -                      gráfico (m) de barras
+ flow -                     fluxograma (m)
+ Gantt -                    quadro (m) de Gantt
+ management -               organograma (m) de direção
+ organisation -             organograma (m)
+ pie -                      gráfico (m) circular em setores
+ Z-                         gráfico (m) Z
+charter (to)                fretar
+chartered ship              navio (m) fretado
+chattel                     bem (m) móvel
+cheque                      cheque(m)
+chief:
+ - accountant               chefe (m) de contabilidade
+ - buyer                    chefe (m) de compras
+ - executive                diretor-presidente (m), gerente (m)
+                             geral, chefe (m) executivo
+circulating capital         capital (m) circulante.de giro (m)
+classification:
+ job -                      classificação (f) de cargos
+clearing:
+ - dollar                   dólar (m) convênio
+ - house                    câmara (f) de compensação
+ sale                       venda (f) de liquidação
+clerical work measurement   medição (f) de trabalho administrativo
+ (CWM)
+close corporation           sociedade (f) anônima de capital
+                             fechado
+closed loop                 ciclo (m) fechado
+closed shop                 fábrica (f) com operários sindicaliza-
+                             dos exclusivamente
+closing down cost           custo (m) de liquidação
+collateral loan             empréstimo (m) sob garantia
+collective bargaining       negociação (f) coletiva
+collusion                   colusão (f), conivência (f)
+command:
+ chain of -                 linha (f) de comando
+ line of -                  linha (f) de comando
+commission                  comissão (f)
+commitment:
+ capital -                  designação (f) de capital 
+commodity             bem (m), produto (m), mercadoria (f)
+common language       linguagem (f) comum
+communication:
+ - theory             teoria (f) da comunicação
+ channels of -        canais (mpl) de comunicação
+communications:
+ - network            rede (f) de comunicação
+company:
+ - goal               objetivo (m) da empresa
+ - philosophy         filosofia empresarial
+ - objectives         objetivos (mpl) empresariais
+ - planning           planejamento (m) empresarial
+ - policy             política (f) empresarial
+ - profile            perfil (m) da empresa
+ - reconstruction     reconstrução (f) da empresa
+ holding -            companhia (f) matriz,
+                       empresa holding (m)
+ investment -         empresa (f) de investimentos
+ joint stock -        sociedade (f) anônima por ações
+ joint venture -      sociedade (f) em conta de participação
+ limited -            companhia (f) limitada, sociedade (f)
+                       de responsabilidade limitada
+ parent -             companhia (f) matriz
+ stock -              companhia (f) por ações
+ subsidiary -         companhia (f) subsidiária
+ system managed -     empresa (f) dirigida de forma
+                       sistematizada
+comparison:
+ interfirm -          comparação (f) interempresarial
+compensation:
+ executive -          compensação (f) de executivos
+competence:
+ executive -          competência (f) do executivo
+ job -                competência (f) no cargo
+competitive:
+ - advantage          vantagem (f) competitiva
+ - edge               vantagem (f) sobre a concorrência
+ - position           posição (f) competitiva
+ - price              preço (m) competitivo
+ - stimulus           estímulo (m) competitivo
+ - strategy           estratégia (f) competitiva
+ - tactics            tática (f) competitiva
+ - thrust             ímpeto (m) competitivo
+competitor analysis   análise (f) da concorrência
+complex:
+ production -         complexo (m) de produção
+comptroller           superintendente (m) fiscal (m),
+                      inspetor (m), controlador (m) 
+computer:                         computador (m)
+ - bank                           banco (m) de dados de computador
+ - centre                         centro (m) de computação
+ - input                          entrada (f) de computador
+ - language                       linguagem (f) de computador
+ - output                         saída (f) de computador
+ - programming                    programação (f) de computador
+ - services                       serviços (mpl) de computação
+ - services bureau                departamento (m) de serviços de
+                                    computação
+ - simulation                     simulação (f) de computação
+ - storage                        memória (f)
+ analogue -                       computador (m) analógico
+ digital -                        computador (m) digital
+computerise (to -)                computadorizar
+computerised information systen   sistema (m) computadorizado de
+                                   dados
+conception:
+ product -                        concepção (f) de produtos
+conciliation                      conciliação (f)
+conditions of employment          termos (mpl) de emprego
+conference line vessel            embarcação pertencente a uma
+                                   companhia que faz parte de
+                                   uma conferência
+conglomerate                      conglomerado (m)
+consciousness:
+ cost -                           consciência (f) de custos
+consignment                       consignação (f)
+consolidated accounts             contas (fpl) consolidadas
+consolidation                     consolidação
+consortium                        consórcio
+constraint:
+ budgetary -                      limitação (f) orçamentária
+consultancy                       consultoria (m)
+consultant:                       consultor (m)
+ management -                     consultor (m) de gerência
+consultation:
+ joint -                          consulta (f) conjunta
+consumer:
+ - acceptance                     aceitação (f) por parte do consumidor
+ - behaviour                      comportamento (m) do consumidor
+ - goods                          bens (mpl) de consumo
+ - durables                       bens (mpl) duráveis de consumo
+ - research                       pesquisa (f) de consumidores
+ - resistance                     resistência (f) por parte do consumidor
+ - satisfaction                   satisfação (f) por parte do consumidor
+consumers'panel                   quadro (m) de consumidores
+consumption                       consumo (m) 
+containerisation              sistema (m) de embalagem em
+                                conte iner
+contango                      juros (mpl) por transferência
+content:
+ work -                       atribuições (fpl) no trabalho
+contingency reserve           reserva (f) para contingências
+continuous:
+ - flow production            produção (f) contínua
+ - stocktaking                inventário (m) contínuo
+contract:
+ draft -                      esboço (m) de contrato
+ forward -                    contrato (m) a termo
+ lease -                      contrato (m) de arrendamento
+ work by -                    trabalho (m) à base de contrato
+contraction of authority      diminuição (f) de autoridade
+contribution analysis         análise (m) de contribuições
+control:                      controle (m)
+ - information                dados (mpl) de controle
+ adaptive -                   controle (m) adaptativo
+ administrative - procedure   procedimento (m) de controle
+                                administrativo
+ batch -                      controle (m) de lote
+ board -                      controle (m) de diretoria
+ budgetary -                  controle (m) orçamentário
+ budgeting -                  controle (m) orçamentário
+ cost -                       controle (m) de custos
+ credit -                     controle (m) de crédito
+ exchange -                   controle (m) de câmbio
+ financial -                  controle (m) financeiro
+ inventory -                  controle (m) de inventário
+ managerial -                 controle (m) gerencial
+ manufacturing -              controle (m) de fabricação
+ numerical -                  controle (m) numérico
+ process -                    controle (m) de processo
+ production -                 controle (m) de produção
+ production, planning and -   planejamento (m) e controle de
+                               produção
+ progress -                   controle (m) de progresso
+ quality (QC) -               controle (m) de qualidade
+ total quality -              controle (m) geral de
+                               qualidade
+ span of -                    esfera (f) de controle
+ statistical -                controle (m) estatístico
+ stock-                       controle (m) de estoque
+controller                    controlador (m)
+convertible currency          moeda (f) conversível
+copyright                     direitos (mpl) reservados, direito
+                               (m) autoral 
+ - advertising              publicidade (f) empresarial
+ - growth                   crescimento (m) da empresa
+ - image                    imagem (f) da companhia
+ - model                    modelo (m) da empresa
+ - planning                 planejamento (m) empresarial
+ - strategy                 estratégia (f) empresarial
+ -structure                 estrutura (f) da empresa
+corporation:
+ - tax                      imposto (m) sobre a empresa
+ public -                   pessoa (f) jurídica de direito público
+cost:
+ - accounting               contabilidade (m) de custo
+ - analysis                 análise (f) de custos
+ - awareness                consciência (f) de custos
+ - benefit analysis (CBA)   análise (f) de custos e benefícios
+ - centre                   centro (m) de custo
+ - consciousness            consciência (m) de custo
+ - control                  controle (m) de custos, centro
+                             (m) de cargas
+ - effectiveness            custo (m) da eficácia
+ - factor                   fator (m) de custo
+ -, insurance and freight   custo (m), seguro e frete
+ - of production            custo (m) de produção
+ - of living index          índice (m) de custo de vida
+ - reduction                redução (f) de custos, remarcação (f)
+ - standards                standards ou padrões (mpl) de custos
+ - variance                 divergência (f) de custo
+ - volume-profit-analysis   análise (f) de custo, volume e lucro
+ average -                  custo (m) médio
+ closing down -             custo (m) de liquidação
+ direct -                   custo (m) direto
+ economic -                 custo (m) econômico, custo (m)
+                             corrente
+ historical -               custo (m) histórico
+ incidental -               custo (m) adicional
+ indirect -                 custo (m) indireto
+ maintenance -              custo (m) de manutenção
+ manufacturing -            custo (m) de fabricação
+ marginal -                 custo (m) marginal
+ operating -                custo (m) operacional
+ opportunity -              custo (m) de oportunidade
+ replacement -              custo (m) de substituição
+ retail -                   custo (m) de varejo
+costs:
+ allocation of -            distribuição (f) de custos
+ distribution -             custos (mpl) de distribuição
+ fixed -                    custos (mpl) fixos, despesas (fpl) fixas
+ estimating systems -       avaliação (f) de custos de sistemas 
+ managed -                 custos    (mpl)   controlados
+ set-up -                  custos    (mpl)   de fundação
+ standard -                custos    (mpl)   padrão
+ variable -                custos    (mpl)   variáveis
+ semi-variable -           custos    (mpl)   semi-variáveis
+costing:
+ absorption -              custeio   (m)   de absorção
+ direct -                  custeio   (m)   direto
+ functional -              custeio   (m)   funcional
+ marginal -                custeio   (m)   marginal
+ product -                 custeio   (m)   do produto
+ standard -                custeio   (m)   padrão
+ variable -                custeio   (m)   variável
+council:
+ works -                   conselho (m) de fábrica
+counselling:
+ employee -                aconselhamento (m) do quadro
+                            de empregados
+country of origin          país (m) de origem
+cover ratio                índice (m) de cobertura
+coverage:
+ sales -                   alcance (m) do serviço de vendas
+creative:
+ - marketing               marketing (m) criativo
+ - thinking                espírito (m) criativo
+credit:
+ - balance                 saldo (m) credor
+ - control                 controle (m) de crédito
+ - management              administração (f) de crédito
+ - rating                  avaliação (f) de solvência
+ - squeeze                 aperto (m) de crédito
+ - terms                   condições (fpl) de crédito
+ export -                  crédito (m) para exportação
+ import -                  crédito (m) para importação
+ irrevocable letter of -   carta (f) de crédito irrevogável
+ line of -                 linha (f) de crédito
+criteria:
+ investment -              normas (fpl) para investimentos
+critical:
+ - mass                    massa (f) crítica
+ - path analysis (CPA)     análise (f) do caminho crítico (CPA)
+ - path method (CPM)       método (m) do caminho crítico (CPM)
+crosslicensing             concessão (f) recíproca de licenças
+currency:                  moeda (m) corrente
+ - rate                    taxa (f) de câmbio
+ free -                    moeda (f) conversível
+ foreign -                 moeda (f) estrangeira
+ hard -                    moeda (f) forte 
+corporate:
+current:
+ - assets                        ativo (m) corrente
+ - net assets                    ativo (m) corrente líquido
+ - expenditure                   despesa (f) corrente
+ - liabilities                   passivo (m) corrente, passivo (m)
+                                  exigível a curto prazo
+curve:
+                                 curva (f) de distribuição normal,
+ bell-shaped -                    curva (f) de Gauss
+                                 curva (f) de Gauss, curva (f)
+ Gaussian -                       de distribuição normal
+                                 curva ff) de aprendizagem
+ learning -                      curva (f) de incremento de salários
+ salary progression -
+customer:                        orientação (f) do consumidor
+ - orientation                   perfil (m) de consumidores
+ - profile                       serviço (m) ao consumidor
+ - service                       alfândega (f)
+customs:                         desembaraço (m) aduaneiro
+ - clearance                     impostos (mpl) aduaneiros, gravames
+ - duties                         (mpl) alfandegários
+                                 fatura (f) aduaneira
+cut prices (to -)                reduzir preços (mpl)
+cutting:
+ price -                         redução (f) de preços
+ cybernetics                     cibernética (f)
+cycle:
+ business -                      ciclo (m) econômico
+ life - (of a product)           ciclo (m) de vida (de um produto),
+                                  vida (f) útil
+ trade -                         ciclo (m) comercial
+ work -                          ciclo (m) de trabalho
+
+
+D
+DCF (discounted cash flow)       relação (f) entre receita e
+                                  investimento, menos impostos
+data:
+ - acquisition                   aquisição (f) de dados
+ - bank                          banco (m) de dados
+ - gathering                     coleta (f) de dados
+ - processing                    processamento (m) de dados
+ automatic - processing (ADP)    processamento (m) automático de dados
+ electronic - processing (EDP)   processamento (m) eletrônico de dados
+deal:
+ package -                       oferta (f) combinada, pacote (m) de
+                                  negociações 
+debentures                  debentures (fpl), obrigações (fpl)
+debit balance               saldo (m) devedor
+debt:                       dívida (f), débito (m)
+ - ratio                    índice (m) de endividamento
+ doubtful -                 dívida (f) duvidosa
+debtors                     devedores (mpl)
+debug (to -)                corrigir
+decentralisation            descentralização (f)
+decision:
+ - analysis                 análise (f) de decisão
+ - making                   processo (m) de tomar decisões
+ - model                    modelo (m) de decisões
+ - process                  processo (m) de decisões
+ - theory                   teoria (f) de decisões
+ - tree                     árvore (f) de decisão
+declared
+ - capital                  capital (m) declarado
+ - dividend                 dividendo (m) declarado
+deed                        escritura (f)
+default                     falta (f), falha (f), negligência (f).
+defensive strategy          estratégia (f) defensiva
+deferred dividend           dividendo (m) de pagamento futuro
+deficit                     déficit (m)
+defray (to -)               custear
+delegation                  delegação (f)
+delivery:
+ - against payment          entrega (f) contra pagamento
+ - note                     nota (f) de entrega
+demand:
+ - deposit                  depósito (m) à vista
+democracy:
+ industrial -               democracia (f) industrial
+demurrage                   compensação (f) pela demora de
+                             um navio no porto
+departament:
+ accounting -               contadoria (f), departamento (m)
+                             de contabilidade
+ engineering and design -   departamento (m) técnico e
+                             de projetos
+ personnel -                departamento (m) de pessoal
+ research -                 departamento (m) de pesquisa
+ sales -                    departamento (m) de vendas
+departmental planning       planejamento (m) departamental
+departmentalisation         organização (f) por setores
+deployment                  desdobramento (m)
+deposit                     depósito (m), sinal (m)
+deposit (to -)              depositar
+depreciable                 depreciável 
+depreciation                     depreciação (f), desvalorização (f)
+depreciation allowance           reserva (f) para depreciação,
+                                  abatimento (m) de depreciação
+depression                       depressão (f)
+depth:
+ - analysis                      análise (f) em profundidade
+ - interview                     entrevista (f) em profundidade
+deputy:
+ - chairman                      vice-presidente (m)
+ - manager                       sub-gerente (m)
+ - managing director             sub-diretor (m)
+description
+ job -                           descrição (f) das atribuições do cargo
+design:
+ - engineering                   estudo (m) de projetos
+ engineering and - departament   departamento (m) técnico e de projetos
+ job-                            delineação (m) de tarefas
+ product -                       planejamento (m) de produtos
+ systems -                       planejamento (m) de sistemas
+desk research                    investigação (f) de gabinete
+determination:
+ price -                         determinação (f) de preços
+devaluation                      desvalorização (f)
+devalue (to-)                    desvalorizar
+development:
+ - potential                     potencial (m) de desenvolvimento
+ - programme                     programa (m) de desenvolvimento
+ executive -                     formação (f) de executivos
+ management -                    formação (f) de direção
+ organisational -                desenvolvimento (m) da organização
+ product -                       desenvolvimento (m) de produtos
+ new product -                   desenvolvimento (m) de novos
+                                  produtos
+ research and - (R and D)        pesquisa (f) e desenvolvimento
+deviate from                     afastar-se de
+deviation:
+ standard -                      desvio-padrão (m)
+diagnostic routine               rotina (f) de diagnóstico
+diagram:
+ scatter -                       diagrama fm) de dispersão
+differential:
+ price -                         disparidade (f) de preços
+ wage -                          disparidade (f) de salários
+differentiation:
+ product -                       diferenciação (f) entre produtos
+digital computer                 computador (m) digital
+dilution:
+ - of equity                     diluição (f) do patrimônio líquido 
+ - of labour             diluição (f) da mão-de-obra
+direct:
+ - bill of lading        conhecimento (m) sem transbordo
+ - cost                  disto (m) direto
+ - costing               custeio (m) direto
+ - expenses              despesas (fpl) diretas
+ - labour                mão-de-obra (f) direta
+ - mail                  mala (f) direta
+ - purchasing            compra (f) direta do produto
+ - selling               venda (f) direta
+ - shipment              embarque (m) direto
+director:                diretor (m)
+ executive -             diretor (m) executivo
+ non-executive -         diretor (m) sem poder executivo
+ financial -             diretor (m) financeiro
+ managing -              diretor-presidente (m)
+ deputy managing -       sub-diretor (m)
+ outside -               diretor (m) externo, diretor (m)
+                          suplente
+directorate:
+ interlocking -          diretoria (f) entrosada
+directors:
+ board of -              diretoria (f), conselho (m)
+                          de administração
+disbourse (to -)         desembolsar
+discard (to)             excluir
+discharge                descarregamento (m), quitação (f)
+discount:                desconto (m)
+ - rate                  taxa (f) de desconto
+discounted cash flow     relação (f) entre receita e
+                           investimento, menos impostos
+discretion:
+ time span of -          tempo (m) máximo discrecional
+diseconomy of scale -    deseconomia (f) de escala
+disembark (to -)         desembarcar
+dishonor (to -)          deixar de pagar uma letra
+dishonored bill          letra (f) não paga
+disincentive             desincentivo (m)
+dismissal                demissão (f), exoneração (f)
+dispatching              despacho (m), expedição (f)
+disposition:
+ source and - of funds   origem (m) e aplicação (f) de recursos
+dispute:
+ labour -                conflito (m) trabalhista
+dissolution              dissolução (f)
+distribution:
+ - costs                 custos de distribuição
+ - manager               gerente (m) de distribuição 
+ - network               rede (f) de distribuição
+ - planning              planejamento (m) de distribuição
+ chain of -              cadeia (f) de distribuição
+ channels of -           canais (mpl) de distribuição
+ frequency -             distribuição (f) por freqüência
+ normal -                distribuição (f) normal
+ physical - management   controle (m) da distribuição física
+distributor              distribuidor (m), atacadista (m)
+diversification:         diversificação (f)
+ - strategy              estratégia (f) de diversificação
+ product -               diversificação (f) de produtos
+diversify (to -)         diversificar
+divestment               redução (f) do ativo, desinvestimento (m)
+dividend:
+ - warrant               fiança (f) de dividendo
+ declared -              dividendo (m) declarado
+ deferred -              dividendo (m) de pagamento futuro
+ interim -               dividendo (m) preliminar
+dividends:
+
+  - policy               política (f) de dividendos
+division:
+ operating -             divisão (f) operacional
+divisional management    controle (m) por setores
+dock                     doca (f)
+documents available      documentos (mpl) disponíveis
+dole                     auxílio desemprego (m)
+door to door             de porta (f) em porta (f), porta (f)
+                          a porta (f)
+double:
+ - entry                 partidas (fpl) dobradas
+ - entry bookkeeping     escrituração (f) por partidas dobradas
+ - taxation relief       descarga (f) de impostos duplicados
+doubtful debts           dívidas (fpl) duvidosas
+down payment             sinal (m), entrada (f)
+down the line            subordinados (mpl)
+down time                tempo (m) ocioso
+draft:                   saque (m), letra (f) de câmbio,
+                          rascunho (m)
+ - contract              esboço (m) de contrato
+drive:
+ advertising -           esforço (m) publicitário
+ productivity -          esforço (m) para aumentar produtividade
+ sales -                 empurrão (m) de vendas
+due date                 data (f) de vencimento
+dumping                  venda (f) a preço abaixo do normal
+duplicate                duplicata (f)
+duties:
+ - customs               impostos (mpl) alfandegários 
+ import -                          taxas (fpl) de importação
+duty-free                          isento de impostos
+dynamic:
+ - evaluation                      avaliação (f) dinâmica
+ - management model                modelo (m) dinâmico de administração
+ - programming                     programação (f) dinâmica
+dynamics:
+ group -                           dinâmica   (f)   de grupo
+ industrial -                      dinâmica   (f)   industrial
+ market -                          dinâmica   (f)   do mercado
+ product -                         dinâmica   (f)   do produto
+
+
+
+E
+EDP (electronic data processing)   processamento (m) eletrônico de dados
+                                    (PED)
+EEC (European Economic Com-        Mercado (m) Comum Europeu (MCE)
+munity)
+EFTA (European Free Trade          Associação (f) Européia de Livre
+Association)                        Comércio
+earn (to -)                        ganhar
+ - income                          salário (m)
+  - surplus                        lucro (m) excedente
+earning:
+ - power                           capacidade (f) de lucro,
+                                    rentabilidade (f)
+ gross -                           renda (f) bruta
+earnings:
+ - on assets                       rendimento (f) do ativo
+ - per share                       lucro (m) por ação
+ - performance                     rentabilidade (f)
+ - yield                           taxa (f) de rendimento
+                                   índice (m) de capitalização
+ price - ratio (P/E)                 de benefícios
+                                   lucros (mpl) não distribuídos,
+ retained -                         lucros (mpl) suspensos
+economic:
+ - batch quantity                  tamanho (mpl) do lote econômico
+ - cost                            custo (m) econômico, custo (m)
+                                   corrente
+ - intelligence                    informações (fpl) econômicas
+ -life                             vida (f) econômica
+ - lot size                        tamanho (m) do lote econômico
+ - manufacturing quantity          tamanho (m) do lote econômico
+                                    de fabricação
+ - mission                         missão (f) econômica
+ - order quantity                  tamanho (m) econômico de pedidos 
+ - research                pesquisa (f) econômica
+ - trend                   tendência (f) econômica
+economist:
+ business -                economista (m) empresarial
+economy:
+ - of scale                economia (f) de escala
+ motion -                  economia (f) de movimentos
+edge:
+ competitive -             vantagem (f) sobre a concorrência
+effective:
+ - management              administração (f) eficaz
+ - rate                    taxa (f) efetiva
+effectiveness:
+ advertising -             eficácia (f) da publicidade
+ cost -                    custo (m) da eficácia
+ managerial -              eficácia (f) gerencial
+ organisational -          eficácia (f) da organização
+effects                    bens (mpl) móveis, títulos (mpl)
+efficiency                 eficiência (f)
+effort:
+ sales expansion -         esforço (m) para aumentar vendas
+elasticity                 elasticidade (f)
+eliminate (to -)           eliminar
+embargo                    embargo (m), interdição (f)
+embark (to -)              embarcar
+embezzlement               desfalque (m), extravio (m)
+employed:
+ capital -                 capital (m) investido
+ return on - (ROCE)        rendimento (m) do capital investido
+employee:
+ - counselling             aconselhamento (m) ao quadro de
+                            empregados
+ - relations               relações (fpl) com o quadro de
+                            empregados
+employment:
+ conditions of -           termos (mpl) de emprego
+employer                   empregador (m), patrão (m)
+enclosure                  inclusão (f), anexo (m)
+encouraging market         mercado (m) encorajador
+endorsement                endosso (m)
+engineering:
+ - and design department   departamento (m) técnico e de
+                           projetos
+ design -                  estudo (m) de projetos
+ human -                   adaptação (f) do trabalho ao homem
+ industrial -              organização (f) industrial, engenharia
+                            (f) industrial
+ methods -                 estudo (m) de métodos 
+ production -                 técnicas (fpl) de produção
+ systems -                    elaboração (f) de sistemas
+ value -                      análise (f) de custos, análise (f)
+                               de valores
+enlargement:
+ job -                        ampliação (f) de tarefas
+enterprise                    empreendimento (m)
+entrepreneurial spirit        espírito (m) empreendedor
+entry                         lançamento (m)
+environment                   meio ambiente (m)
+environmental
+ forecasting                  previsão (f) sobre o meio ambiente
+equipment:
+ - leasing                    aluguel (m) de equipamento
+ peripheral -                 equipamento (m) periférico
+ process - layout             esquema (m) da instalação de
+                              produção
+equity:
+ dilution of -                diluição (f) do patrimônio líquido
+ return on -                  rendimento (m) de ações
+ergonometrics                 medição (f) do trabalho
+ergonomics                    ergonomia (f), relação (f) do homem
+                               com o trabalho
+escalation:
+ price -                      escalada (f) de preços
+escalator clause              cláusula (f) de reajuste
+espionage:
+ industrial -                 espionagem (f) industrial
+estate                        bem imóvel (m), espólio (m)
+estimate:
+ sales -                      estimativa (f) de vendas
+estimated time of arrival     data/hora (f) provável de chegada
+estimated time of departure   data/hora (f) provável de partida
+estimating systems costs      avaliação (f) de custos de
+                               sistemas
+eurobond                      eurobônus (m)
+eurodollar                    eurodólar (m)
+European Economic Community   Mercado (m) Comum Europeu
+(EEC)                         (MCE)
+evaluation:
+ capital project -            avaliação (f) de projetos de
+                               investimentos
+ dynamic -                    avaliação (f) dinâmica
+ job-                         avaliação (f) de cargos e tarefas
+ performance -                avaliação (f) de desempenho
+ex - dock                     posto na doca (f)
+ex - factory                  posto na fábrica (f)
+ex - warehouse                posto no depósito (m) 
+exception:
+ management by -          direção (f) por exceção
+excess:
+ - capacity               capacidade (f) excessiva
+ - profits                lucros (mpl) excessivos
+exchange:
+ - at par                 taxa (f) de câmbio ao par
+ - broker                 corretor (m) de câmbio
+ - control                controle (m) de câmbio
+ - operations             operações (fpl) de câmbio
+ - rate                   taxa (f) de câmbio
+ foreign -                câmbio (m)
+ free -                   câmbio (m) livre
+ stock -                  bolsa (f) de valores
+excise                    imposto (m), taxa (f), I.P.I.
+execute an order (to -)   atender um pedido
+execution:
+ policy -                 realização (f) de uma política
+executive:
+ - board                  junta (f), diretoria (f) executiva
+ -   competence           competência (f) do executivo
+ -   development          formação (f) de executivos
+ -   director             diretor (m) executivo
+ -   manpower strategy    estratégia (f) para o
+                           quadro executivo
+ - search                 recrutamento (m) de executivos
+ chief -                  diretor-presidente (m), gerente (m)
+                           geral, chefe (m) executivo
+ line -                   executivo (m) de linha
+exempt                    isento, livre
+expand (to)               ampliar
+expansion:
+ - strategy               estratégia (f) de desenvolvimento
+ sales - effort           esforço (m) para aumentar vendas
+expectations:
+ job -                    expectativas (fpl) do cargo
+ sales -                  expectativas (fpl) de vendas
+expedite (to)             expedir
+expenditure:
+ current -                despesa (f) corrente
+expense:
+ operating -              despesa (f) operacional
+expenses:
+ direct -                 despesas (fpl) diretas
+ general -                despesas (fpl) gerais
+ indirect -               despesas (fpl) indiretas
+ overhead -               despesas (fpl) gerais
+ recovery of -            recuperação (f) de despesas 
+ running -                  despesas (fpl) operacionais
+expire (to)                 vencer
+expiry date                 data (f) de vencimento
+exploitation                exploração (f)
+exploration:
+ market -                   investigação (f) de mercado
+exponential:
+ - trends                   tendências (fpl) exponenciais
+ - smoothing                aproximação (f) exponencial
+export:
+ - credit                   crédito (m) para exportação
+expropriation               expropriação (f)
+extension services          serviços (mpl) logísticos
+external:
+ - audit                    exame (m) por auditores externos
+  - relations               relações (fpl) externas
+
+
+
+F
+FAS (free alongside ship)   despesas (fpl) pagas até a doca
+FOB (free on board)         FOB
+factor:
+ cost -                     fator (m) de custo
+ load -                     fator (m) de utilização de
+                             capacidade produtiva
+ profit - analysis          análise (f) de elementos de lucro
+factoring                   descontó (m) de duplicatas
+factory overheads           despesas (f) gerais de fábrica
+family tree                 árvore (f) genealógica
+feasibility study           estudo (m) de viabilidade
+featherbedding              contratação (f) de número excessivo
+                             de empregados
+feedback                    dados (mpl) do mercado
+fiduciary                   administrador (m) de um espólio
+field:
+ - research                 pesquisa (f) no campo de operações
+ - testing                  provas (fpl) de mercado,
+                             de funcionamento, etc.
+financial:
+
+  - administration          administração (f) financeira
+  - analysis                análise (f) financeira
+  - appraisal               avaliação (f) financeira
+  - control                 controle (m) financeiro
+  - director                diretor (m) financeiro
+  - management              administração (f) financeira
+  -planning                 planejamento (m) financeiro
+  - ratio                   índice (m) financeiro 
+ - review                  análise (f) financeira
+ - standards               padrões (mpl) financeiros, normas
+                            (fpl) financeiras
+ - strategy                estratégia (f) financeira
+ - year                    exercício (m) financeiro,
+                            ano contábil
+financing:
+
+  self-                    auto-financiamento (m)
+fine                       multa (f)
+firm                       firma (f), companhia (f),
+                             empresa (f)
+first-line manager         gerente (m) de primeira linha
+fiscal year                exercício (m) financeiro, ano (m)
+                             contábil
+fixed:
+
+  - assets                 ativo (m) fixo, ativo (m)
+                            imobilizado
+  - cost                   custos (m) fixos, despesas (f) fixas
+   - term deposits         depósitos (mpl) a prazo fixo
+flat:
+
+  - fee                    taxa (f) fixa
+  - rate                   taxa (f) sem juros constantes
+flexible budget            orçamento (m) flexível
+float (to -)               colocar no mercado
+floating:
+ - capital                 capital (mj de giro, capital (m)
+                             circulante
+  - exchange rate          taxa (f) de câmbio flutuante
+flotation                  flutuação (f), levantar empréstimo (m)
+flow:
+
+  - chart                  fluxograma (m)
+  - line                   linha (f) de fluxo
+  - process chart          gráfico (m) de fluxo de processo
+  - production             produção (f) em cadeia
+  continuous -             fluxo (mj contínuo
+  cash -                   fluxo (m) em caixa
+ discounted cash - (DCF)   relação (f) entre receita e
+                             investimento, menos impostos
+ incremental cash -        fluxo (m) de caixa adicional
+ funds flows               movimento (m)de recursos
+ information flows         fluxo (m) de dados
+follow-up                  seguimento (m), acompanhamento
+force:
+ sales -                   equipe (f) de vendas
+ task -                    grupo (m) de trabalho, grupo (mj
+                            de estudos
+forces:
+ market -                  tendências (Jpl) do mercado 
+forecast:
+ market -                   previsão (f) do mercado
+ sales -                    previsão (f) de vendas
+ technological -            previsão (f) tecnológica
+ budget -                   previsão (f) orçamentária
+ business -                 previsão (f) comercial, prognóstico
+                             (m) comercial
+ environmental -            previsão (f) sobre o meio ambiente
+ manpower -                 previsão (f) de mão-de-obra
+foreign:
+ - currency                 moeda (f) estrangeira
+ - exchange                 câmbio (m)
+foreman                     capataz (m), contramestre (m),
+                             chefe (m) de seção
+formation:
+ capital -                  formação (f) de capital
+formulation:
+ policy -                   formulação (f) de política
+  strategy -                formulação (f) de estratégia
+forward:
+
+  - contract                contrato (m) a termo
+  - planning                planejamento (m) para o futuro
+free:
+
+  - along side ship (FAS)   despesas (fpl) pagas até a doca
+  - currency                moeda (f) conversível
+  - exchange                câmbio (m) livre
+  - o n board (F.O.B.)      FOB
+freelance                   colaborador (m) independente,
+                              autônomo (m)
+freight                     frete (m)
+frequency distribution      distribuição (f) de freqüência
+fringe:
+
+  - benefits                recompensas (fpl) não assalariadas,
+                             vantagens (fpl) adicionais
+ - market                   mercado (m) marginal
+full time                   tempo (m) integral
+function:
+ managerial -               função (f) administrativa
+functional:
+ - analysis                 análise (f) funcional
+ - costing                  custeio (m) funcional
+ - layout                   esquema (m) funcional
+ - management               administração (f) funcional
+  - organisation            organização (f) funcional
+  - relations               relações (fpl) funcionais
+ - responsibility           responsabilidade (f) funcional
+fund:
+ loan -                     fundo (m) para empréstimos 
+
+  sinking -                   fundo (m) para amortização
+funds:
+
+  - flows                     movimento (m) de recursos
+  source and disposition of   origem (m) e aplicação (f) de recursos
+future price                  preço (m) de venda ou compra a termo
+future (s)                    futuros (mpl)
+
+
+G
+gain:                         ganho (m), lucro (m)
+ - or loss                    lucro (m) ou perda (f)
+ capital -                    lucro (m) na venda de investimentos
+game:
+ - theory                     teoria (f) dos jogos
+ business -                   jogo (m) empresarial, simulação (f)
+                                de direção
+ management -                 simulação (f) de direção
+Gantt chart                   quadro (m) de Gantt
+gathering:
+ data -                       coleta de dados
+gap study                     estudo (m) de intervalos
+Gaussian curve                curva (f) de Gauss, curva (f) de
+                               distribuição normal
+gearing                       engrenagem (f) financeira de uma
+                               companhia
+general expenses              despesas (fpl) gerais
+give notice (to -)            demitir, pedir demissão (f)
+go on strike (to -)           fazer greve (f)
+go public (to -)              lançar uma oferta (f) pública de ações
+go slow                       operação (f) tartaruga
+goal:                         objetivo (m), meta (f)
+ - seeking                    identificação (f) de objetivos
+ - setting                    estabelecimento (m) de objetivos
+ company -                    objetivo (m) da empresa
+ profit -                     objetivo (m) de lucro, meta (f)
+                               de lucro
+ sales -                      objetivo (m) de vendas, meta (f)
+                               de vendas
+goals:
+ hierarchy of -               hierarquia (f) de objetivos
+gold standard                 padrão (m) ouro
+goods:                        bens (mpl)
+ capital -                    bens (mpl) de capital, ativo (m)
+                               fixo, bens (mpl) imobilizados
+ consumer -                   bens (mpl) de consumo
+ industrial -                 bens (mpl) industriais
+goodwill                      fundo (m) de comércio 
+grant (to)            conceder
+gratuity              gratificação (f), gorjeta (f)
+grid:
+ - structure          estrutura (f) de grade
+ managerial -         grade (f) administrativa
+grievance procedure   procedimento (m) para atender queixas
+gross:
+ - balance            resultado (m) bruto
+ - earning            renda (f) bruta
+ - income             renda (f) bruta
+ - loss               perda (f) bruta
+ - margin             margem (f) bruta, lucro (m) bruto
+ - profit             lucro (m) bruto
+group:
+ - accounts           contas (fpl) de grupo
+ - bonus              prêmio (m) coletivo
+ - dynamics           dinâmica (f) de grupo
+ - incentive          incentivo (m) coletivo
+ - training           treinamento (m) em grupo
+ T - training         diagnóstico (m) de grupo
+ - product -          grupo (m) de produtos
+groupage              sistema (m) de consolidação de
+                        pedidos
+growth:               crescimento (m)
+ - area               área (f) de crescimento
+ - index              índice (m) de crescimento
+ - industry           indústria (f) em crescimento
+ - potential          potencial (m) de crescimento
+ - rate               índice (m) de crescimento
+ - strategy           estratégia (f) de crescimento
+ corporate -          crescimento (m) da empresa
+guarantee:
+ - bond               obrigação (f) garantida
+guarantor             fiador (m), avalista (m)
+guesstimate           estimativa (f) aproximada
+
+
+H
+handling:
+ - charges            taxas (fpl) de serviço
+ information -        manipulação (m) de dados
+ materials -          manuseio (m) de materiais
+hard:
+ - cash               dinheiro (m) vivo, espécie (m)
+ - currency           moeda (f) forte
+ - selling            venda (f) agressiva
+hardware              componentes (mpl) físicos de
+                      equipamento de computação 
+head office                     sede (f), matriz (f)
+hedge (to -)                    cobrir-se contra perdas
+hedging operation               operação (f) de cobertura
+heuristics                      heurística (f)
+hierarchy of goals              hierarquia (f) de objetivos
+high market                     mercado (m) em alta
+hire:                           contratar, admitir
+ plant -                        aluguel (m) de equipamento
+ - purchase                     compra (f) a prazo, compra (f) a
+                                 prestação
+historical cost                 custo (m) histórico
+hold margins (to -)             manter as margens, manter a
+                                 lucratividade
+holding company                 companhia (f) holding, matriz (f)
+holdings                        participação (f)
+holidays:
+ sataggered -                   férias (fpl) escalonadas
+horizontal integration          integração (f) horizontal
+human:
+ - engineering                  adaptação (f) do trabalho ao
+                                 homem
+ - relations                    relações (fpl) humanas
+hypermarket                     hipermercado (m)
+
+
+
+
+I.O.U. (I owe you)              compromisso (m) escrito de pagamen
+                                 to, promissória (f), vale (m).
+IPM (integrated project         gestão (f) integrada de projetos
+management)
+IRR (internal rate of return)   taxa (f) de rendimento interno
+idle:
+
+  - capacity                    capacidade (f) ociosa
+  - time                        tempo (m) ocioso
+image:
+ brand -                        imagem (f) de uma marca
+ corporate -                    imagem (f) da companhia
+ product -                      imagem (f) do produto
+impact:
+ profit -                       incidência (f) sobre o lucro
+implementation:
+ strategy -                     execução (f) da estratégia
+implication:
+ profit -                       implicação (f) sobre o lucro
+import:
+ - credit                       crédito (m) para importação
+ - duties                       taxas (fpl) de importação 
+ - licence              licença (f) de importação
+ - permit               permissão (f) de importação
+ - tariff               tarifa (f) de importação
+impound (to -)          apreender judicialmente
+improvement:
+ job -                  aperfeiçoamento (m) do cargo
+ product -              aperfeiçoamento (m) do produto
+ profit -               melhora (f) do lucro
+in bond                 não desembaraçado da alfândega
+in bulk                 a granel (m)
+in-plant training       treinamento (m) interno
+incentive:
+ - scheme               sistema (m) de incentivos
+ group -                incentivo (m) coletivo
+incidental costs        custos (mpl) adicionais
+income:
+ - bond                 debenture (m) que paga juro
+                         se houver lucro
+ - per head             renda (f) per capita
+ - statement            demonstração (f) de lucros e
+                          perdas
+ - tax                  imposto (m) de renda
+ - tax return           declaração (f) de renda
+ national -             renda (f) interna
+ net -                  renda (f) líquida
+ operating -            renda (f) operacional
+incorporate (to -)      formar uma sociedade
+incremental cash flow   fluxo (m) de caixa marginal
+indemnification         indenização (f)
+indemnify               indenizar
+indemnity               indenização (f)
+index:
+ cost of living -       índice (m) de custo de vida
+ growth -               índice (m) de crescimento
+indirect:
+ - cost                 custo (m) indireto
+ - expenses             despesas (fpl) indiretas
+ - labour               mão-de-obra (f) indireta
+industrial:
+ - democracy            democracia (f) industrial
+ - dynamics             dinâmica (f) industrial
+ - engineering          organização (f) industrial,
+                         engenharia (f) industrial
+ -   espionage          espionagem (f) industrial
+ -   goods              bens (mpl) industriais
+ -   psychology         psicologia (f) industrial
+ -   relations          relações (fpl) industriais
+ -   security           contra-espionagem (f) industrial 
+industry:
+ growth -                        indústria, (f) em crescimento
+ nationalized -                  indústria (f) estatal, indústria
+                                 (f) nacionalizada
+ training within (TWI)           treinamento (m) dentro da indústria
+inequality                       desigualdade (f)
+inflation                        inflação (f)
+informal organisation            organização (f) informal
+information:
+
+  - flows                        fluxo (m) de dados
+  - handling                     manipulação (f) de dados
+  - network                      rede (f) de informações
+  - processing                   processamento (m) de dados
+  - retrieval                    recuperação (f) de dados
+  - systems                      sistema (m) de dados
+  management - system (MIS)      sistema (m) de dados para gestão
+ computerised - system (COINS)   sistema (m) computadorizado de dados
+ - technology                    tecnologia (f) da informação
+ - theory                        teoria (f) da informação
+ - control                       dados (mpl) de controle
+ management -                    dados (mpl) para gestão
+infringe (to -)                  violar
+input:                           insumo
+ computer -                      entrada (f) de computador
+input-output:
+ - analysis                      análise de entrada e saída
+ - table                         tabela (f) de entrada e saída
+insolvency                       insolvência (f), falência (f)
+inspection:
+ staff -                         vistoria (f) ao quadro de empregados
+instalment:
+ - payment                       parcela (f), prestação (f)
+ - plan                          plano (m) de pagamento em prestações
+ - sale                          venda (f) a prestação
+insurable value                  valor (m) segurável
+insurance:
+ - against all risks             seguro (m) contra todos os riscos
+ - premium                       prêmio (m) de seguro
+intangible assets                ativo (m) intangível
+integrated:
+ - management system             sistema (m) integrado de gestão
+ - project management (IPM)      gestão (f) integrada de projetos
+interbank rate                   taxa (f) interbancária
+intercompany profit              lucro (m) sobre transações entre
+                                  companhias associadas
+interest:
+ job -                           atração (f) do cargo
+ majority -                      participação (f) majoritária 
+ minority -                    participação (f) minoritária
+ rate of -                     taxa (f) de juros
+interface                      ponto (m) em comum entre sistemas
+                                de processamento
+interfirm comparison           comparação (f) interempresarial
+interim:
+
+  - dividend                   dividendo (m) preliminar
+interlocking directorate       diretoria (f) entrosada
+internal:
+
+  - audit                      auditoria (f) interna
+  - rate of return (IRR)       taxa (f) de rendimento interno
+interview:
+ depth -                       entrevista (f) em profundidade
+in transit -                   em trânsito (m)
+intuitive management           gestão (f) intuitiva
+inventory:
+ - control                     controle (m) de inventário
+ - turnover                    giro (m) do estoque, rotação (f)
+                                do estoque
+ perpetual -                   registro (m) permanente de estoque
+invest (to -)                  investir
+investment:
+
+  - analysis                   análise (f) de investimentos
+  - appraisal                  avaliação (f) de investimentos
+  - budget                     orçamento (m) de investimentos
+  - company                    empresa (f) de investimentos
+  - criteria                   normas (fpl) para investimentos
+  - management                 administração (f) de investimentos
+  - mix                        combinação (f) de investimentos
+  - policy                     política (f) de investimentos
+  - programme                  plano (m) de investimentos
+  - trust                      traste (m) de investimentos
+  return on -                  rendimento (m) de investimentos
+invoice                        fatura (f)
+invoice (to-)                  faturar
+irrevocable letter of credit   carta (f) de crédito irrevogável
+issue                          emissão (f)
+issued capital                 capital (f) em ações
+issuing house                  emissor (m)
+
+
+J
+job:
+
+  - analysis                   avaliação (f) de cargo
+  - assignment                 designação (f) de tarefas
+  - challenge                  desafio (m) de cargo
+  - classification             classificação (f) de tarefas
+ - competence                  competência (f) no cargo 
+ - description                  descrição (f) das atribuições
+                                 do cargo
+ - design                       delineação (f) de tarefas
+ -   enlargement                ampliação (f) de tarefas
+ -   enrichment                 enriquecimento (m) do trabalho
+ -   evaluation                 avaliação (f) de cargos e tarefas
+ -   expectations               expectativas (fpl) do cargo
+ -   improvement                aperfeiçoamento (m) do cargo
+ -   interest                   atração (f) do cargo
+ -   performance                desempenho (m) do cargo
+ -   rotation                   rotação (f) de cargos
+ -   satisfaction               satisfação (f) no trabalho
+ -   simplification             simplificação (f) de tarefas
+ -   specification              descrição (f) das atribuições do
+                                 cargo
+  - stability                   estabilidade (f) de emprego
+jobber                          agiota (m), empreiteiro (m)
+jobbing                         agiotagem (m)
+joint:
+
+  - account                     conta (f) conjunta
+  - consultation                consulta (f) conjunta
+  - liability                   responsabilidade (f) conjunta
+  - negotiation                 negociação (f) conjunta
+  - ownership                   propriedade (f) conjunta
+  - representation              representação (f) conjunta
+  - stock company               sociedade (f) anônima por ações
+  - venture company             sociedade (f) em conta de
+                                 participação
+jurisdiction                    alçada (f), área de competência
+
+
+
+K
+key money                       luvas (fpl)
+know-how                        experiência (f), perícia
+
+
+
+L
+LAFTA (Latin American Free      ALALC (Associação Latino-
+           Trade Association)   Americana de Livre Comércio)
+LTD (limited)                   Ltda. (limitada)
+labour:
+ - dispute                      conflito (m) trabalhista
+ - intensive                    com predomínio (m) de mão-de-
+ - mobility                     mobilidade (f) da mão-de-obra
+  - relations                   relações (fpl) trabalhistas
+ - turnover                     rotação (f) da mão-de-obra 
+
+  direct -                  mão-de-obra (f) direta
+  indirect -                mão-de-obra (f) indireta
+lag                         defasagem (m), retardo (m)
+lag response                resposta (f) retardada
+landing charges             despesas (fpl) de desembarque
+languague:
+ common -                   linguagem (f) comum
+ computer -                 linguagem (f) de computador
+ machine -                  linguagem (f) de máquina
+Latin American Free Trade   Associação (f) Latino-Americana de
+  Association (LAFTA)         Livre Comércio (ALALC)
+launching                   lançamento (m)
+lay days                    demora (f) para carga ou descarga
+lay-out :
+
+  functional -              esquema (m) funcional
+  plant - study             estudo (m) do esquema de uma
+                             instalação
+ process equipament -       esquema (m) da instalação
+                             de produção
+lead time                   prazo (m) de entrega, prazo (m) de
+                             execução
+leader:
+ - merchandising            comercialização (f) com produto
+                            chave
+ loss -                     produto (m) vendido com perda,
+                              para atrair o consumidor
+ market -                   líder (m) do mercado
+ price -                    pauta (f) de preço
+leadership                  liderança (f)
+learning:
+ - curve                    curva (f) de aprendizagem
+ programmed -               aprendizagem (f) programada
+lease contract              contrato (m) de arrendamento
+lease or buy                aluguel (m) ou compra
+leasing:                    arrendamento (m), aluguel (m)
+ equipment -                aluguel (m) de equipamento
+ledger                      livro-razão (m)
+legal:
+
+  - capital                 capital (m) legal, capital (m)
+                             registrado
+  - entity                  pessoa (f) jurídica
+  - tender                  pagamento (m) garantido por lei
+letter:
+
+  - of credit               carta (f) de crédito
+  - of introduction         carta (f) de apresentação
+leverage                    influência (f) econômica, ação (f)
+                              de alavanca
+levy                        tributo (m), arrecadação (f) 
+liability                  obrigação (f), passivo (m) exigível
+liabilities:
+
+  current -                passivo (m) exigível a curto prazo,
+                             passivo (m) corrente
+  long-term -              passivo (m) exigível a longo prazo
+licence                    licença (f), autorização (f)
+licensing:
+
+  crosslicensing           concessão (f) recíproca de licenças
+life:
+
+  - cycle (of a product)   ciclo (m)de vida (de um produto),
+                            vida (f) útil
+ economic -                vida (f) econômica
+ product -                 vida (f) do produto
+ product - expectancy      previsão (f) de vida do produto
+ limited company           companhia (f) limitada, sociedade
+                             (f) de responsabilidade limitada
+line:                      linha (f)
+  - and staff              quadros (mpl) inferiores e gerência
+  - assistant              assistente (mj de linha
+  - authority              autoridade (f) de linha
+  - executive              executivo (m) de linha
+  - management             estrutura (f) de linhas de
+                             administração
+  - manager                gerente (m) de linha
+  - of command             linha (f) de comando
+  - of credit              linha (f) de crédito
+  - organisation           organização (f) linear
+  - production             produção (f) em linha
+  assembly -               linha (f) de montagem
+  down.the -               em níveis (mpl) mais baixos
+  flow -                   linha (f) de fluxo
+  on -                     em linha (f), em execução (f)
+  product -                linha (f) de produtos
+linear:
+
+  - programming            programação (f) linear
+  - responsibility         responsabilidade (f) linear
+liquid assets              ativo (m) líquido
+liquidation                liquidação (f)
+liquidating:
+
+  self-                    auto-amortizável
+liquidity ratio            índice (m) de liquidez
+load:
+
+  - factor                 fator (m) de utilização da
+                            capacidade produtiva
+ work -                    carga (f) de trabalho
+loan:
+ - capital                 capital (m) tomado por empréstimo
+ - fund                    fundo (m) para empréstimos 
+location:
+ plant -                         localização (f) das instalações
+lockout                          greve (f) patronal
+logistics                        logística (f)
+long-range planning              planejamento (m) de longo alcance
+long-term planning               planejamento (m) a longo prazo
+long-term liabilities            passivo (m) exigível a longo prazo
+loop:
+ closed -                        ciclo (m) fechado
+loss:
+ - leader                        produto (m) vendido com perda,
+                                  para atrair o consumidor
+ - maker                         produto (m), empresa (f), que dá
+                                  prejuízo
+ - ratio                         índice (m) de perda
+ net -                           perda (f) líquida
+loyalty:
+ brand -                         lealdade (f) a uma marca
+lamp sum:
+ - appropriation                 orçamento (m) não discriminado
+
+
+
+M
+MBO (management by objectives)   gestão (f) por objetivos
+MIS (management information
+      system)                    sistema (m) de dados para gestão
+MRA (multiple regression
+       analysis)                 análise (f) de regressão múltipla
+machine language                 linguagem (f) de máquina
+mail:
+ direct -                        mala (f) direta
+main office                      sede (f), matriz (f)
+maintenance:
+ - cost                          custo (m) de manutenção
+ planned -                       manutenção (f) programada
+ preventive -                    manutenção (f) preventiva
+ resale price-(RPM)              controle (m) de preços de revenda
+majority interest                participação (f) majoritária
+make or buy decision             decisão (f) de fabricar ou comprar
+manage (to -)                    gerenciar, administrar, dirigir,
+                                  controlar
+managed:
+ - costs                         custos (mpl) controlados
+                                 companhia (f) dirigida de forma
+system - company                  sistematizada
+                                 gerência (f), administração (f)
+management:                       direção (f), gestão (f) 
+ - accounting                   contabilidade (f) gerencial
+ - audit                        parecer (m) para gerência
+ - by exception                 gestão (f) por exceção
+ -by objectives (MBO)           gestão (f) por objetivos
+ - chart                        organograma (f) de direção
+ - consultant                   consultor (m) de gerência, assessor
+                                  (m) empresarial
+ -   development                formação (f) da direção
+ -   game                       simulação (f) de direção
+ -   information                dados (mpl) para gestão
+ -   information system (MIS)   sistema (m) de dados para gestão
+ -   potential                  potencial (m) para gerência
+ -   practices                  métodos (mpl) para gestão
+ -   ratios                     quociente (m) gerência/quadros
+                                 inferiores
+ - science                      teoria (f) de política
+                                  administrativa
+ - services                     serviços (mpl) para gestão
+ - succession                   plano (m) de sucessão de dirigentes
+ - system                       sistema (m) de gestão
+ integrated - system            sistema (m) integrado de gestão
+ - team                         quadro (m) de gerência
+ - techniques                   técnicas (fpl) de gestão
+ - theory                       teoria (f) de política administrativa
+business -                      administração (f) de empresas
+cash -                          controle (m) de caixa
+credit -                        administração (f) de crédito
+division -                      controle (m) por setores
+dynamic - model                 modelo (m) dinâmico de
+                                administração
+effective -                     administração (f) eficaz
+financial -                     administração (f) financeira
+functional -                    administração (f) funcional
+general -                       direção (f) geral
+intuitive -                     gestão (f) intuitiva
+investment -                    administração (f) de investimentos
+line -                          estrutura (f) de linhas de
+                                 administração
+manpower -                      administração (f) de mão-de-obra
+market -                        gestão (f) de mercados
+matrix -                        organização (f) de matriz
+middle -                        gerência (f) de segundo escalão
+multiple -                      gestão (f) múltipla
+office -                        administração (f) do escritório
+operating -                     gestão (f) operativa
+operations -                    gestão (f) de operações
+participative -                 gestão (f) participativa
+personnel -                     administração (f) de pessoal 
+ physical distribution -      controle (m) da distribuição física
+ portfolio -                  administração (f) da carteira de
+                               valores
+ product -                    gerência (f) de produtos
+ production -                 gestão (f) de produção
+ programmed -                 gestão (f) programada
+ project -                    gestão (f) de projetos
+ integrated project - (IPM)   gestão (f) integrada de projetos
+ sales -                      administração (f) de vendas
+ scientific -                 organização (f) científica do trabalho
+ staff -                      administração (f) de recursos
+                               humanos
+ supervisory -                gestão (f) supervisora
+ systems -                    gestão (f) de sistemas
+ top -                        diretoria (f), diretoria (f) executiva
+ top - approach               abordagem (f) da diretoria
+ venture -                    gestão (f) de empreendimentos
+manager:
+ advertising -                gerente (m) de publicidade
+ assistant -                  gerente-adjunto (m)
+ assistant to -               assistente (m) do gerente
+ brand -                      gerente (m) de marca
+ deputy -                     sub-gerente (m)
+ distribution -               gerente (m) de distribuição
+ first line -                 gerente (m) de primeira linha
+ general -                    gerente (m) geral
+ marketing -                  gerente (m) de marketing, gerente (m)
+                               de mercadologia
+ personnel -                  gerente (m) pessoal
+ plant -                      gerente (m) de fábrica
+ product -                    gerente (m) de produto
+ purchasing -                 gerente (m) de compras
+ sales -                      gerente (m) de vendas
+ works -                      gerente (m) de fábrica
+managerial:
+ - control                    controle (m) gerencial
+ - effectiveness              eficácia (f) gerencial
+ - function                   função (f) administrativa
+ - grid                        grade (f) administrativa
+ - structure                  estrutura (f) administrativa
+ - style                      estilo (m) gerencial
+managing director:            diretor-presidente (m),
+                               diretor-gerente (m)
+ deputy -                     sub-diretor (m), diretor-adjunto (m)
+manpower:
+ - audit                      análise (f) de mão-de-obra
+ - forecasting                previsão (f) de mão-de-obra
+ - management                 administração (f) de mão-de-obra 
+ - planning             planejamento (f) de mão-de-obra
+ - resourcing           recrutamento (m) e gestão (f)
+                         de recursos humanos
+ executive - strategy   estratégia (f) para o quadro executivo
+manufacturing:
+ - capacity             capacidade (f) de fabricação
+ - control              controle (m) de fabricação
+ - cost                 custo (m) de fabricação
+ economic - quantity    tamanho (m) do lote econômico
+                         de fabricação
+margin:
+ gross -                margem (f) bruta
+ net -                  margem (f) líquida
+ profit -               margem (f) de lucro
+margins:
+ to hold -              manter a margem
+marginal:
+ analysis               análise (f) marginal
+ - cost                 custo (f) marginal
+ - costing              custeio (f) marginal
+ - costing system       sistema (m) de custeio marginal
+market:
+ - appraisal            avaliação (f) de mercado
+ - dynamics             dinâmica (f) do mercado
+ - exploration          investigação (f) de mercado
+ - forces               tendências (fpl) do mercado
+ forecast               previsão (f) do mercado
+ - intelligence         informação (f) do mercado
+ - leader               líder (m) do mercado
+ -   management         gestão (f) de mercados
+ -   opportunity        oportunidade (f) de mercado
+ -   penetration        penetração (f) do mercado
+ -   plan               plano (m) de mercado
+ - potential            potencial (m) do mercado
+ - price                valor (m) do mercado, preço (m)
+                         de mercado
+ -   profile            perfil (m) de mercado
+ -   prospects          perspectivas (fpl) do mercado
+ -   rating             avaliação (f) de mercado
+ -   research           pesquisa (f) de mercado
+ -   saturation         saturação (f) do mercado
+ -   segments           segmento (m) do mercado, fatia (f)
+                         do mercado
+ -   segmentation       segmentação (f) do mercado
+ -   share              fatia (f) do mercado
+ -   structure          estrutura (f) de mercado
+ -   study              estudo (m) de mercado
+ -   test               teste (m) de mercado 
+ - trend                   tendência (f) do mercado
+ - value                   valor (m) de mercado
+ buyers' -                 mercado (m) do comprador
+ fringe -                  mercado fm) marginal
+ money -                   mercado (m) financeiro
+ sellers' -                mercado (m) do vendedor
+ stock -                   bolsa (f) de valores
+marketing:
+ - appropriation           verba (f) para marketing
+ - budget                  orçamento (m) de marketing
+ - manager                 gerente (m) de marketing, gerente (m)
+                            de mercadologia
+ mix -                     combinação (f) de atividades
+                            de marketing
+ - research                pesquisa (f) mercadológica
+ - strategy                estratégia (f) mercadológica
+ creative -                marketing (m) criativo
+ test -                    ensaio (m) mercadológico
+mark-up                    margem (f) de lucro, margem (f)
+                            cambial, taxa (f) de imprevistos.
+mass:
+ - production              produção (f) em massa, produção (f)
+                            em série
+ critical -                massa (f) crítica
+materials handling         manuseio (m) de materiais
+mathematical programming   programação (f) matemática
+matrix management          organização (f) de matriz
+maturity:
+ - date                    data (f) de vencimento
+maximisation:
+ profit -                  maximização (f) de lucro
+mean                       média (f)
+measurement:
+ performance -             medição (f) de desempenho
+ productivity -            medição (f) de produtividade
+ work -                    medição (f) de trabalho
+ clerical work - (CWM)     medição (f) de trabalho administrativo
+media:
+ analysis                  análise (f) de mídia
+ - selection               seleção (f) de mídia
+ advertising -             mídia (f) de publicidade
+median                     mediana (f)
+mediation                  mediação (f)
+meeting:
+ board -                   reunião (f) de diretoria
+memory                     memória
+merchandising:
+ leader -                  comercialização (f) com produto- chave 
+merger                      fusão (f), consolidação (f)
+merit rating                classificação (f) por méritos
+message:
+ advertising -              tema (m) publicitário
+methectics                  dinâmica (f) de grupos
+method:
+ methods engineering        estudo (m) de métodos
+ methods study              estudo (m) de métodos
+ organisation and methods
+ (O and M)                  organização (f) e métodos (mpl)
+ points rating -            método (m) de classificação por
+                            pontos
+ present value -            método (m) de valor atual
+ random observation -       método (m) de observação ao acaso
+ simplex -                  método (m) simplex (usado na
+                             programação linear)
+ time and - study           estudo (m) de tempos e métodos
+middle management           gerência (f) de segundo escalão
+middleman                   corretor (m), intermediário (m)
+minority interest           participação (f) minoritária
+minimum wage                salário (m) mínimo
+misappropriate (to-)        desviar, obter por fraude
+mission:
+ economic -                 missão (f) econômica
+mix:
+ investment -               combinação (f)   de investimentos
+ marketing -                combinação (f)   de atividades
+                             de marketing
+ product -                  combinação (f)   de produtos
+ promotional -              combinação (f)   de atividades
+                             de promoção
+ sales -                    combinação (f) de atividades
+                             de vendas
+mixed capital company       companhia (f) de capital misto
+mobility:
+ labour -                   mobilidade (f) de mão-de-obra
+ staff -                    mobilidade (f) de funcionários
+mode                        modalidade (f), modo (m), moda
+                             (em estatística)
+model:
+ accounting -               modelo (m) contábil
+ corporate -                modelo (m) de empresa
+ decision -                 modelo (m) de decisão
+ dynamic management -       modelo (m) dinâmico de
+                            administração
+modular production          produção (f) modular
+monetary correction         correção (f) monetária 
+money:
+ - making                      lucrativo
+ - market                      mercado (m) financeiro
+ - order                       vale (m) postal, ordem (m) de
+                               pagamento
+monitor (to -)                 controlar
+moonlighting                   trabalhar em dois empregos
+morphological analysis         análise (f) morfológica
+mortgage                       hipoteca (f)
+motion:
+ - economy                     economia (f) de movimentos
+ - study                       estudo (m) de movimentos
+ time and - study              estudo (m) de tempos e movimentos
+ predetermined - time system   sistema (m) de movimentos
+ (PMTS)                         pré-determinados
+motivation:
+ self-                         automotivação (f)
+motivational research          investigação (f) de motivação
+motivador                      motivador (m)
+motive:
+ profit -                      motivo (m) de lucro
+moving average                 média (f) móvel
+multi-access                   acesso (m) múltiplo
+multinacional                  multinacional
+multiple:
+ - management                  gestão (f) múltipla
+ - regression analysis (MRA)   análise (f) de regressão múltipla
+ - store                       grande armazém (m)
+
+
+
+N
+NPV (net present value)        valor (m) líquido atual
+nationalize (to -)             nacionalizar, estatizar
+national income                renda (f) interna
+nationalized:
+ - industry                    indústria (f) nacionalizada,
+                                indústria (f) estatizada
+near cash                      valores (mpl) rapidamente conversíveis
+needs analysis                 análise (f) de necessidades
+negotiable:
+ - instrument                   título (m) negociável
+negotiation:
+ strategy                      estratégia (f) de negociação
+ joint -                       negociação (f) conjunta
+net:
+ - assets                      patrimônio (m) líquido, ativo (m) líquido 
+ - current assets                 ativo (m) corrente líquido
+ - earning                        renda (f) líquida
+ - income                         renda (f) líquida
+ - loss                           perda (f) líquida
+ - margin                         margem (f) líquida, lucro (m) líquido
+ - operating profit               lucro (m) operacional líquido
+ - present value (NPV)            valor (m) líquido atual
+ - price                          preço (m) líquido
+ - profit                         lucro (m) líquido
+ - weight                         peso (m) líquido
+ - working capital                capital (m) líquido de giro
+ - worth                          patrimônio (m) líquido
+network:
+ - analysis                       análise (f) de rede
+ communications -                 rede (f) de comunicações
+ distribution -                   rede (f) de distribuição
+ information -                    rede (f) de informações
+new product development           desenvolvimento (m) de novos produtos
+nominal value                     valor (m) nominal
+non-executive director            diretor (m) sem poder executivo
+non-linear programming            programação (f) não linear
+non-profit making                 sem fins (mpl) lucrativos
+normal:
+ - curve                          curva (f) normal
+ - distribution                    distribuição (f) normal
+ - return                         renda (f) normal
+notarize                          autenticar, reconhecer em tabelião
+notary public                     tabelião (m)
+note                              nota (f), letra (f), promissória (f)
+null                              nulo, inválido
+numerical control                 controle (m) numérico
+
+
+
+O
+O and M (organisation and
+methods)                          organização (f) e métodos
+OR (operational research,         investigação (f) de operações,
+operations research)               investigação (f) operacional
+objective:
+ - setting                        definição (f) de objetivos
+ company objectives               objetivos (mpl) empresariais
+ overall -                        objetivos (mpl) globais da
+                                   empresa
+ management by objectives
+ (MBO)                            gestão por objetivos
+ performance against objectives   relação (f) resultados/objetivos
+obligation                        obrigação (f), debenture (m), título (m) 
+observation:
+ random - method       método (m) de observação ao acaso
+obsolescence:          obsolescência (f)
+ built in -            obsolescência (f) planejada
+ planned -             obsolescência (f) planejada
+ocean freight          frete (m) marítimo
+offer                  oferta (f), proposta (f)
+off-the-job training   treinamento (f) fora da empresa
+office:
+ - management          administração (f) do escritório
+ branch -              filial (f)
+ head -                sede (f), matriz (f)
+officer:
+ training -            chefe (m) de treinamento
+official:
+ - exchange rate       câmbio (m) oficial
+ - strike              greve (f) apoiada pelo sindicato
+offset                 retificação (f)
+offset (to)            retificar, contrabalançar
+oligopoly              oligopólio (m)
+on account             pagamento (m) parcial
+on approval            sujeito a aprovação (f)
+on consignment         em consignação (f)
+on-cost                sobrecusto (m)
+on demand              de imediato, à vista
+on line                em linha (f), em execução (f)
+on sale                à venda
+on stream              em operação (f)
+on time                em tempo (m)
+on-the-job training    treinamento (m) dentro da empresa
+open:
+ - credit              crédito (m) aberto
+ - market              mercado (m) aberto, open market
+operating:
+ - cost                custo (m) operacional
+ - division            divisão (f) operacional
+ - expense             despesa (f) operacional
+ - income              renda (f) operacional
+ - management          gestão (f) operativa
+ - profit              lucro (m) operacional
+ - research            pesquisa (f) operacional
+operations:
+ - audit               avaliação (f) de operações
+ - breakdown           desdobramento (m) de operações
+ - management          gestão (f) de operações
+ - research (OR)       investigação (f) de operações
+ ancillary -           operações (fpl) periféricas
+ hedging -             operações (fpl) de cobertura 
+operational:
+ - planning                planejamento (m) operacional
+ - research (OR)           investigação (f) operacional
+opportunity:
+ - cost                    custo (m) de oportunidade
+ market -                  oportunidade (f) de mercado
+optimisation:
+ profit -                  otimização (f) de lucro
+optimise (to)              otimizar
+option:
+ stock - plan              plano (m) de compra opcional de ações
+optional dividend          dividendo (m) optativo
+order:
+ economic - quantity       tamanho (m) econômico de pedidos
+ordinary interest          juro (m) simples
+origin certificate         certificado (m) de origem
+organisation
+ - and methods (O and M)   organização (f) e métodos (mpl)
+ - chart                   organograma (m)
+ - planning                planejamento (m) da organização
+ - structure               estrutura (f) da organização
+ - theory                  teoria (f) de organização
+ functional -              organização (f) funcional
+ informal -                organização (f) informal
+ line -                    organização (f) linear
+ staff -                   organização (f) de recursos humanos
+organisational:
+ - behaviour                comportamento (m) do homem na
+                             organização
+ - change                  transformação (m) da organização
+ - development             desenvolvimento (m) da organização
+ - effectiveness           eficácia (f) da organização
+organogram                 organograma (m)
+orientation:
+ customer -                orientação (f) do consumidor
+out-of-pocket expense      despesa (f) desembolsada
+outlet:
+ retail -                  ponto (m) de venda a varejo
+ sales -                   ponto (m) de venda, canal (m)
+                            de venda
+outlook:
+ profit -                  perspectiva (f) de lucro
+output:                    produção
+ - budgeting               controle (m) orçamentário de produção
+ capital - ratio           índice (m) rendimento/capital
+ input - analysis          análise (f) de entrada e saída
+ input - table             tabela (f) de entrada e saída
+outside director           diretor (m) externo, diretor (m) suplente 
+outstanding balance          saldo (m) a receber, saldo (m) a pagar
+overall company objectives   objetivos (mpl) globais da empresa
+over-the-counter             venda (f) de balcão, fora da bolsa
+overcapitalised              sobrecapitalizado
+overcharge (to)              cobrar demais
+overdraft                    conta (f) bancária a descoberto
+overdraw (to)                sacar a descoberto
+overdue                      vencido e hão pago, atrasado
+overhead expenses            despesas (fpl) gerais
+overheads:
+ - recovery                  recuperação (f) de despesas gerais
+ administrative -            despesas (fpl) de administração
+ factory -                   despesas (f) gerais de fábrica
+overtime                     trabalho (m) extraordinário, hora (f)
+                              extra
+
+
+
+P
+P E (price-earnings ratio)   índice (m) de capitalização de
+                               benefícios
+PERT (programme evaluation   técnica (f) de avaliação e revisão de
+ and review technique)         programas
+PMTS (predetermined motion   sistema (m) de movimentos
+ time system)                 pré-determinados
+PPBS (planning programming   sistema (m) orçamentário de
+ Budgeting system)            planejamento e programação
+PR (public relations)        relações (fpl) públicas
+P V (profit-volume ratio)    índice (m) de lucro sobre movimento
+package.                     pacote (m)
+ - deal                      oferta (f) combinada, pacote (m) de
+                                negociações
+packaging                    embalagem (m)
+packing list                 lista (f) de mercadorias
+paid-in capital              capital (m) integralizado, capital (m)
+                               realizado
+paid-up:
+ - capital                   capital (m) integralizado, capital (m)
+                              realizado
+palletisation                carga (f) paletizada
+pallets                      pallet (m), estrado (m)
+panel:
+ consumers -                 quadro (m) de consumidores
+paper profit                 lucro (m) escriturai
+Tar:
+ - value                     valor (m) par
+parametric programming       programação (f) paramétrica
+parent company               companhia (f) matriz
+
+_sec:part_ part-analysis training     treinamento (m) e avaliação de funções
+part payment               pagamento (m) a prestação
+participation:
+ worker -                  participação (f) dos trabalhadores
+participative management   gestão (f) participativa
+partners                   sócios (mpl)
+partnership                sociedade (f), participação (f)
+party:
+ working -                 grupo (m) de trabalho
+patent:
+ - trading                 negociação (f) de patentes
+patron                     cliente (m), freguês (m)
+payback                    retorno (m), reembolso (m)
+ - period                  período (m) de reembolso
+                            (de investimentos)
+payment:
+ - by results              pagamento (m) por resultados
+ - in advance              pagamento (m) antecipado
+payoff                     recompensa (f), compensação
+payroll                    folha (f) de pagamento
+pegging                    fixação (f) de preços
+penalty                    multa (f)
+penetration:
+ market -                  penetração (f) do mercado
+per cent                   por cento
+percentage                 porcentagem (f)
+per-share earnings         lucro (m) por ação
+performance:
+ - against objectives      relação (f) resultados/objetivos
+ - appraisal               avaliação (f) de desempenho
+ - budgeting               controle (m) orçamentário de rendi
+                           mento
+ -   evaluation            avaliação (f) de desempenho
+ -   measurement           medição (f) de desempenho
+ -   rating                classificação (f) de desempenho
+ -   standards             padrões (mpl) de desempenho, normas
+                             (fpl) de desempenho
+ earnings -                rentabilidade (f)
+ job -                     desempenho (m) do cargo
+ product -                 desempenho (m) do produto
+ profit -                  rentabilidade (f)
+ standard -                desempenho (m) padrão
+peripheral equipment       equipamento (m) periférico
+permit                     licença (f), autorização (f)
+perpetual inventory        registro (m) permanente de estoque
+personal growth            formação (f) pessoal
+personnel:
+ - department              departamento (m) de pessoal 
+ - management                administração (f) de pessoal
+ - manager                   gerente (m) de pessoal
+ policy                      política (f) de recursos humanos
+ - rating                    classificação (f) do pessoal
+ - specification             especificação (f) do pessoal
+pertinence tree              árvore (m) de pertinência
+philosophy:
+ company -                   filosofia (f) empresarial
+physical:
+ - depreciation              depreciação (f) física
+ - distribution management   controle (m) da distribuição física
+picket                       piquete (m) de greve
+pie chart                    gráfico (m) circular em setores
+piece rate                   pagamento (m) por serviços avulsos,
+                               salário-tarefa (m)
+piecework                    trabalho (m) por empreitada
+pilot production             produção (f) piloto
+pioneer products             produtos (m) pioneiros
+plan:
+ action -                    plano (m) de ação
+ market -                    plano (m) de mercado
+ share of production -       plano (m) de participação na produção
+ stock option -              plano (m) de compra opcional de ações
+ tactical -                  plano (m) tático
+planned:
+ - maintenance               manutenção (f) programada
+ - obsolescence              obsolescência (f) planejada
+planning:
+ - department                departamento (m) de planejamento
+ - programming-budgeting     sistema (m) orçamentário de
+ system (PPBS)                programação e planejamento
+ carreer -                   planejamento (m) de desenvolvimento
+                              profissional
+ company -                   planejamento    (m)   empresarial
+ corporate -                 planejamento    (m)   empresarial
+ departmental -              planejamento    (m)   departamental
+ distribution -              planejamento    (m)   de distribuição
+ financial -                 planejamento    (m)    financeiro
+ forward -                   planejamento    (m)   para o futuro
+ long-range -                planejamento    (m)   de longo alcance
+ long-term -                 planejamento    (m)   a longo prazo
+ manpower -                  planejamento    (m)   de mão-de-obra
+ operational -               planejamento    (m)   operacional
+ organisation -              planejamento    (m)   da organização
+ product -                   planejamento    (m)   de produtos
+ production -                planejamento    (m)   de produção
+ production-and control      planejamento    (m)   e controle da
+                               produção 
+ profit -               planejamento (m) de lucro
+ project -              planejamento (m) de projetos
+ sales -                planejamento (m) de vendas
+ short-term -           planejamento (m) a curto prazo
+ strategic -            planejamento (m) estratégico
+ systems -              planejamento (m) de sistemas
+plant:                  parque (m) industrial, instalações (fpl)
+ -   bargainning        negociação (f) a nível de fábrica
+ -   capacity           capacidade (f) das instalações
+ -   hire               aluguel (m) de equipamento
+ -   layout study       estudo (m) do esquema de uma
+                        instalação
+ - location             localização (f) das instalações
+ - manager              gerente (m) de fábrica
+playing:
+ role -                 interpretação (f) de papéis
+ploughback              reinvestimento (m) de lucros
+point:
+ - of sale              ponto (m) de venda
+ points rating method   método (m) de classificação por
+                        pontos
+ breakeven-             ponto (m) de equilíbrio
+policy:
+ - execution            realização (f) de uma política
+ - formulation          formulação (f) de política
+ - statement            declaração (f) de política
+ business -             política (f) de negócios
+ company -              política (f) empresarial
+ distribution -         política (f) de distribuição
+ dividend -             política (f) de dividendos
+ investment -           política (f) de investimentos
+ personnel -            política (f) de recursos humanos
+ pricing -              política (f) de preços
+ promotional -          política (f) promocional
+ sales -                política (f) de vendas
+ selling -              política (f) de venda
+pooling arrangements    acordos (mpl) consorciais
+portfolio:
+ - management           administração (f) de carteira
+                         de valores
+ - selection            seleção (f) de valores de carteira
+position:
+ competitive -          posição (f) competitiva
+potencial:
+ - buyer                comprador (m) em potencial
+ development -          potencial (m) de desenvolvimento
+ growth -               potencial (m) de crescimento
+ management -           potencial (m) para gerência 
+ market -                     potencial (m) de mercado
+ sales -                      potencial (m) de vendas
+power:
+ - of attorney                procuração (f) legal
+ earning -                    capacidade (f) de lucro,
+                               rentabilidade (f)
+purchasing -                  poder (m) aquisitivo
+practices:
+ management -                 métodos (mpl) de gestão
+ restrictive -                práticas (fpl) restritivas
+predetermined motion time     sistema (m) de movimentos
+ system (PMTS)                 pré-determinados
+preferred:
+ - shares                     ações (fpl) preferenciais
+ - stock                      ação (f) preferencial
+premium                       prêmio (m), ágio (m)
+prepaid                       pagamento (m) antecipado
+present value                 valor (m) atual
+present value method          método (m) de valor atual
+president:                    presidente (m), diretor-gerente (m),
+                               diretor (m) geral
+ vice -                       vice-presidente (m)
+preventive maintenance        manutenção (f) preventiva
+price:
+ -   cutting                  redução (f) de preços
+ -   determination            determinação (f) de preços
+ -   differencial             disparidade (f) de preços
+ -   earnings ratio (PIE)     índice (m) de capitalização
+                                de benefícios
+ - escalation                 escalada (f) de preços
+ - fixing                     fixação (f) de preços
+ - leader                     pauta (f) de preço, líder (m) de preços
+ - list                       lista (f) de preços
+ - range                      faixa (f) de preço
+ - structure                  estrutura (f) de preços
+ competitive -                preço (m) competitivo
+ cut prices (to -)            reduzir preços (mpl)
+ differential -               preço (m) diferencial
+ market -                     valor (m) do mercado, preço (m)
+                                de mercado
+ resale - maintenance (RPM)   controle (m) de preços de revenda
+ retail -                     preço (m) de varejo
+ support -                    preço (m) de sustentação
+pricing:
+ - policy                     política (f) de preços
+ - strategy                   estratégia (f) de preços
+ transfer -                   estabelecimento (m) de preços
+ risk -                       perfil (m) de riscos de transferência 
+prime rate                  taxa (f) preferencial de juros
+private limited company     pessoa (f) jurídica de direito privado
+probability theory          teoria (f) das probabilidades
+problem:
+ - analysis                 análise (f) de problemas
+ - area                     area (f) problemática
+ - solving                  resolução (f) de problemas
+procedure:
+ administrative control -   procedimento (m) de controle
+ grievance -                 administrativo
+ systems and procedures     procedimento (m) para atender queixa
+process:                    sistemas (mpl) e procedimentos
+ - control                  controle (m) de processo
+ - costing                  custeio (m) de processos
+ - equipment layout         esquema (m) da instalação de
+                            produção
+ decision -                 processo (m) de decisões
+ flow - chart-              gráfico (m) de fluxo de processo
+ production -               processo (m) de produção
+processing:
+ batch                      processamento   (m) por batelada, em
+                            lote
+ data -                     processamento   (m) de dados
+ automatic data (ADP)-      processamento   (m) automático de
+                             dados (PAD)
+ electronic data (EDP)-     processamento   (m) eletrônico de dados
+                             (PED)
+ information -              processamento (m) de dados
+product:
+ - abandonment              retirada (f) de um produto
+ - advertising              publicidade (f) de produtos
+ - area                     setor (m) de produtos
+ - conception               concepção (f) de produtos
+ - costing                  custeio (m) do produto
+ - design                   planejamento (m) de produtos
+ - development              desenvolvimento (m) de produtos
+ new - development          desenvolvimento (m) de novos
+                            produtos
+ -    differentiation       diferenciação (f) entre produtos
+ -   diversification        diversificação (f) de produtos
+ -   dynamics               dinâmica (f) do produto
+ -   generation             geração (f) de produtos
+ -   group                  grupo (m) de produtos
+ -   image                  imagem (f) do produto
+ - improvement              aperfeiçoamento (m) do produto
+ -life                      vida (f) do produto
+ - life expectancy          previsão (f) de vida do produto
+ - line                     linha (f) de produtos 
+ -   management           gestão (f) de produtos
+ -   manager              gerente (m) de produto
+ -   mix                  combinação (f) de produtos
+ -   performance          desempenho (m) do produto
+ -   planning             planejamento (m) de produtos
+ -   profile              perfil (m) do produto
+ -   profitability        rentabilidade (f) do produto
+ -   range                série (f) de produtos
+ -   research             pesquisa (f) de produtos
+ -   strategy             estratégia (f) de produtos
+ -   testing              teste (m) de produtos, avaliação (f)
+                           de produtos
+ by-                      subproduto (m), derivado (m)
+production:
+ - control                controle (m) de produção
+ - costs                  custos (mpl) de produção
+ - engineering            gestão (f) de produção
+ - management             gestão (f) de produção
+ - manager                gerente (m) de produção
+ - planning               planejamento (m) de produção
+ - planning and control   planejamento (m) e controle de
+                          produção
+ - schedule               programa (m) de produção
+ - scheduling             programação (f) de produção
+ - standards              normas (fpl) de produção, padrões (m)
+                           de produção
+ batch -                  produção (f) por batelada, por lote
+ flow -                   produção (f) em cadeia
+ continuous flow -        produção (f) contínua
+ intensive -              produção (f) intensiva
+ line -                   produção (f) em linha
+ mass -                   produção (f) em massa, produção (f)
+                           em série
+ modular -                produção (f) modular
+ pilot -                  produção (f) piloto
+ share of - plan          plano (m) de participação na produção
+productivity:
+ - agreement              acordo (m) de produtividade
+ - bargaining             negociação (f) de produtividade
+ - drive                  esforço (m) para aumentar a
+                           produtividade
+ - measurement            medição (f) de produtividade
+profile:
+ acquisition -            perfil   (m)   de aquisição
+ company -                perfil   (m)   da empresa
+ customer -               perfil   (m)   dos consumidores
+ market -                 perfil   (m)   dos consumidores
+ product -                perfil   (m)   do produto 
+profit (to-)               lucrar
+profit:
+ -   and loss              lucro (m) e perda (f)
+ -   and loss account      conta (f) de lucros e perdas
+ -   centre                centro (m) de lucro
+ -   centre accounting     contabilidade (f) por centros de lucro
+ -   factor analysis       análise (f) de elementos de lucro
+ -   goal                  objetivo (m) de lucro, meta (f) de lucro
+ -   impact                incidência (f) sobre o lucro
+ -   implication           implicação (f) sobre o lucro
+ -   improvement           melhora (f) do lucro
+ -   margin                margem (f) de lucro
+ -   maximisation          maximização (f) de lucro
+ -   motive                motivo (m) de lucro
+ -   optimisation          otimização (f) do lucro
+ -   outlook               perspectiva (f) de lucro
+ -   planning              planejamento (m) dos lucros
+ -   sharing               participação (f) em lucros
+ -   strategy              estratégia (f) de lucro
+ -   target                objetivo (m) de lucro, meta (f) de lucro
+                           índice (m) de rentabilidade sobre o
+ - volume ratio (P/V)
+                            movimento
+
+ cost-volume-analysis      análise (f) de custo, volume
+                            e benefício
+ gross -                   lucro (m) bruto
+ net -                     lucro (m) líquido
+profitability:
+ - analysis                análise (f) de rentabilidade
+ product -                 rentabilidade (f) do produto
+profitable                 lucrativo, rendoso, rentável
+proforma:
+ - invoice                 fatura (f) pro forma
+programme:
+ - budgeting               sistema (m) de orçamentos
+                           programados
+ - evaluation and review   técnica (f) de avaliação e revisão de
+ technique (PERT)            programas
+ - package                 pacote (m) de programas
+ development -             programa (m) de desenvolvimento
+ investment -              plano (m) de investimentos
+programmed:
+ - learning                aprendizagem (f) programada
+ - management              gestão (f) programada
+programming:
+ computer -                programação   (f)   de computador
+ dynamic -                 programação   (f)   dinâmica
+ linear -                  programação   (f)   linear
+ mathematical -            programação   (f)   matemática 
+ non-linear -                  programação (f) não linear
+ parametric -                  programação (f) paramétrica
+ scientific -                  programação (f) científica
+progress:
+ - control                     controle (m) de progresso
+ work in -                     produção (f) em curso, produtos (mpl)
+                                em andamento
+progression:
+ salary - curve                curva (f) de incremento de salários
+progressive tax                imposto (m) progressivo
+project:
+ - analysis                    análise (f) de projeto
+ - assessment                  avaliação (f) de projeto
+ - management                  gestão (f) de projetos
+ - planning                    planejamento (m) de projetos
+ capital - evaluation          avaliação (f) de projetos de
+                                investimentos
+ integrated-management (IPM)   gestão (f) integrada de projetos
+projection:
+ profit -                      projeção (f) de lucro
+promissory note                nota (f) promissória
+promotion:
+ (of personnel)                promoção (f) (de cargo)
+ - expense                     despesa (f) de promoção
+ sales -                       promoção (f) de vendas
+promotional:
+ - mix                         combinação (f) de atividades
+                                de promoção
+ - policy                      política (f) promocional
+proprietor                     proprietário (m)
+pro rata                       proporcional, rateado
+prospect                       cliente em potencial
+prospects:
+ market -                      perspectivas (fpl) do mercado
+protested bill                 letra (f) protestada
+prototype                      protótipo (m)
+proxy                          procuração (f)
+psychology:
+ industrial -                  psicologia (f) industrial
+public corporation             pessoa (f) jurídica de direito público
+public limited company         sociedade (f) anônima
+public relations (PR)          relações (fpl) públicas
+purchase                       compra (f), aquisição (f)
+purchasing:
+ hire -                        compra (f) a prazo, compra (f)
+                                a prestação
+ - manager                     gerente (m) de compras
+ - power                       poder (m) aquisitivo 
+Q
+QC (quality control)             controle (m) de qualidade
+ total quality control           controle (m) geral de qualidade
+qualification                    qualificação (f), competência (f)
+quality:
+ - control                       controle (m) de qualidade
+quantity:
+ - discount                      desconto (m) para quantidade
+ economic batch -                tamanho (m) do lote econômico
+ economic manufacturing -        tamanho (m) do lote econômico
+                                  de fabricação
+ economic order -                tamanho (m) econômico de pedidos
+quarterly                        trimestralmente
+queuing theory                   teoria (f) de filas
+quick asset                      ativo (m) de realização imediata
+quota:
+ sales -                         cota (f) de vendas
+quotation                        cotação (f)
+quote (to -)                     cotar, fornecer preços
+
+
+
+R
+R and D (research and            pesquisa (f) e desenvolvimento (m)
+ development
+ROCE (return on capital
+ employed)                       rendimento (m) do capital investido
+RPM (resale price maintenance)   controle (m) de preços de revenda
+raising:
+ capital -                       aumento (m) de capital
+rake-off                         comissão (f) ilegal
+random:
+ - access                        acesso (m) por acaso
+ - observation method            método (m) de observação ao acaso
+ - sampling                      amostragem (f) casual
+range:
+ price -                         faixa (f) de preço
+ product -                       série (f) de produtos
+rate (to)                        taxar, classificar
+rate:
+
+  - of exchange                  taxa (f) de   câmbio
+  - of interest                  taxa (f) de   juros
+ growth -                        índice (m)    de crescimento
+rate of return:                  taxa (f) de   rendimento
+ internal - (IRR)                taxa (f) de   rendimento interno
+rating:
+ credit -                        avaliação (f) de solvência 
+ market -                   avaliação (f) de mercado
+ merit -                    classificação (f) por méritos
+ performance -              classificação (f) de desempenho
+ personnel -                classificação (f) de pessoal
+ points - method            método (m) de classificação por pontos
+ratio:
+ accounting -               índice (m) contábil
+ capital output -           índice (m) rendimento/capital
+ cash -                     índice (m) de dinheiro em caixa
+ cover -                    índice (m) de cobertura
+ current -                  índice (m) de liquidez
+ debt -                     índice (m) de endividamento
+ financial -                índice (m) financeiro
+ liquidity -                índice (m) de liquidez
+ management -               quociente (m) gerência/quadros
+                              inferiores
+ price - earnings - (PIE)   índice (m) de capitalização de
+                             benefícios
+ profit-volume - (P/V)      índice (m) de rentabilidade sobre o
+                             movimento
+rationalisation             organização (f) racional,
+                            racionalização (f)
+rationing:                  racionamento (m)
+ capital -                  racionamento (m) de capital
+raw material                matéria (f) prima
+ready money                 dinheiro (m) vivo
+real:
+ - cost                     custo (m) real
+ - estate                   imóvel (m), propriedade (f) imobiliária
+ - estate bonds             letras (fpl) imobiliárias
+ - time                     tempo (m) real
+ - wage                     salário (m) real
+rebate                      abatimento (m)
+rebate (to-)                abater
+receiver                    liquidante (m)
+recognition:
+ brand -                    identificação (f) de marca
+reconciliation              reconciliação (f)
+reconstruction:
+
+  company -                 reconstrução (f) da empresa
+recoverable cost            custo (m) recuperável
+recovery:
+
+  - of expenses             recuperação (f) de despesas
+ - value                    valor (m) recuperável
+ overhead -                 recuperação (f) de despesas gerais
+recruitment                 recrutamento (m)
+recycle (to -)              reciclar
+redeemable                  redimível, resgatável 
+redemption                       reembolso (m), resgate (m)
+redeployment                     reorganização (f)
+reduction:
+ cost -                          redução (f) de custos, remarcação (f)
+ variety -                       redução (f) de variedade
+redundancy                       excesso (m) de pessoal
+refund (to-)                     reembolsar
+refund                           reembolso (m), restituição (f)
+regression analysis              análise (f) de regressão
+ multiple - analysis (MPA)       análise (f) de regressão múltipla
+regressive tax                   imposto (m) regressivo
+reimburse (to)                   reembolsar
+reimbursement                    reembolso (m)
+relations:
+ business -                      relações (fpl) comerciais
+ employee -                      relações (fpl) com o quadro de
+                                  empregados
+ external -                      relações (fpl) externas
+ functional -                    relações (fpl) funcionais
+ human -                         relações (fpl) humanas
+ industrial -                    relações (fpl) industriais
+ labour -                        relações (fpl) trabalhistas
+ public - (PR)                   relações (fpl) públicas
+remittance                       remessa (f), transferência (f)
+remuneration                     remuneração (f)
+render (to -)                    prestar
+rent                             aluguel (m), arrendamento (m)
+reorganisation                   reorganização (f)
+replacement cost                 custo (m) de substituição (f)
+representation:
+ joint -                         representação (f) conjunta
+  worker -                       representação (f) dos trabalhadores
+representative:
+ sales -                         representante (m) de vendas
+requisition                      requisição (f)
+resale                           revenda (f)
+resale price maintenance (RPM)   controle (m) de preços de revenda
+research:
+ - and development (R and D)     pesquisa (f) e desenvolvimento
+ - department                    departamento (m) de pesquisa
+ advertising -                   pesquisa (f) publicitária
+ consumer -                      pesquisa (f) de consumidores
+ desk -                          pesquisa (f) de gabinete
+ economic -                      pesquisa (f) econômica
+ field -                         pesquisa (f) no campo de operações
+ market -                        pesquisa (f) mercadológica
+ motivational -                  pesquisa (f) de motivação
+ operational - (OR)              investigação (f) operacional 
+ operations - (OR)          investigação (f) de operações
+ product -                  pesquisa (f) de produtos
+reserve:
+ - fund                     fundo (m) de reserva
+ contingency                reserva (f) para contingências
+residual cost               custo (m) residual
+resistance:
+ consumer -                 resistência (f) por parte do consumidor
+ sales -                    resistência (f) de venda
+resource:
+ - allocation               distribuição (f) de recursos
+ - appraisal                avaliação (f) de recursos
+resourcing:
+ manpower -                 recrutamento (m) e gestão de recursos
+                             humanos
+response:
+ anticipatory -             resposta (f) antecipada
+ lag -                      resposta (f) retardada
+responsibilities:
+ allocation of -            distribuição (f) de responsabilidades
+responsibility:
+ - accounting               custeio (m) por responsabilidades
+ functional -               responsabilidade (f) funcional
+ linear -                   responsabilidade (f) linear
+restrictive practices       práticas (fpl) restritivas
+restructuring               reestruturação (f)
+results:
+ payment by -               pagamento (m) por resultados
+retail:
+ - cost                     custo (m) de varejo
+ - outlet                   ponto (m) de venda a varejo
+ - price                    preço (m) de varejo
+retailer                    varejista (m)
+retained earnings           lucros (mpl) não distribuídos, lucros
+                             (mpl) suspensos
+retirement                  aposentadoria (f)
+retraining                  retreinamento (m)
+retrieval:
+ information -              recuperação (f) de dados
+return:
+ - on capital               rendimento (m), receita (f)
+ return on capital
+   employed (ROCE)          rendimento (m) de capital investido
+ - on equity                rendimento (m) de ações
+ - on investment            rendimento (m) de investimentos
+ - on sales                 rendimento (m) de vendas
+ internal rate of - (1RR)   taxa (f) de rendimento interno
+ rate of -                  taxa (f) de rendimento 
+revaluation             reavaliação (f), correção (f) monetária
+revaluation of assets   reavaliação (f) do ativo
+revenue                 receita (f), renda (f)
+review:
+ financial -            análise (f) financeira
+revolving credit        crédito (m) rotativo, crédito (m)
+                         revolvente
+rights                  direitos (mpl)
+risk:
+ - analysis             análise (f) de riscos
+ - assessment           avaliação (f) de riscos
+ - capital              capital (m) de risco
+ - profile              perfil (m) de riscos
+role:
+ - playing              interpretação (f) de papéis
+roll-on-roll-off        " r o - r o " , sistema (m) de transporte de
+                         contêineres
+room:
+ board -                sala (f) da diretoria
+rotations:
+ job -                  rotação (f) de cargos
+routine:
+ diagnostic -           rotina (f) de diagnóstico
+royalty                 "royalty" (m), direito (m) de autor,
+                         direito (m) de comercialização
+rubber cheque           cheque (m) sem fundos
+running expenses        despesas (fplj operacionais
+
+
+
+
+safety:
+ - bank                 reserva (f) para imprevistos
+ - stock                estoque (m) regulador, estoque (m)
+                        para imprevistos
+salary:
+ - progression curve    curva (f) de incremento de salários
+ -structure             estrutura (f) de salários
+sale:
+ point of -             ponto (m) de venda
+sales:
+
+  - analysis            análise (f) de vendas
+  - appeal              atração (f) comercial, garra (f)
+                         comercial
+  - area                área (f) de vendas
+  - budget              orçamento (m) de vendas
+  - coverage            alcance (m) do serviço de vendas
+  - department          departamento (m) de vendas 
+ -   drive              esforço (m) de vendas
+ -   estimate           estimativa (f) de vendas
+ -   expansion effort   esforço (m) para aumentar vendas
+ -   expectations       expectativas (fpl) de vendas
+ -   force              equipe (m) de vendas
+ -   forecast           previsão (f) de vendas
+ -   goal               objetivo (m) de vendas, meta (f)
+                         de vendas
+ - management           administração (f) de vendas
+ - manager              gerente (m) de vendas
+ - mix                  combinação (f) de atividades de
+                         vendas
+ - outlet               ponto (m) de venda, canal (m) de
+                         venda
+ -   planning           planejamento (m) de vendas
+ -   policy             política (f) de vendas
+ -   potential          potencial (m) de vendas
+ -   promotion          promoção (f) de vendas
+ -quota                 cota (f) de vendas
+ - representative       representante (m) de vendas
+ - resistance           resistência (f) de venda
+ - return               total (m) de vendas
+ - revenue              receita (f) de vendas
+ -talk                  argumento (m) de vendas
+ - territory            área (f) de vendas
+ - trend                tendência (f) de vendas
+ - turnover             movimento (m) de vendas
+ - volume               volume (m) de vendas
+ return on -            rendimento (m) de vendas
+sample size             tamanho (m) de amostra
+sampling:
+ - error                erro (m) de amostragem
+ activity -             amostragem (f) por atividades
+ random -               amostragem (f) casual
+satisfaction:
+ consumer -             satisfação (f) por parte do
+                         consumidor
+ job-                    satisfação (f) no trabalho
+saturation:
+ market -               saturação (f) do mercado
+saving deposit          depósito (m) de poupança
+scab                    fura-greve (mlf)
+scale:
+ diseconomy of -        deseconomia (f) de escala
+ economy of -           economia (f) de escala
+scatter diagram         diagrama (m) de dispersão
+schedule:
+ production -           programa (m) de produção 
+scheduling:
+ production -            programação (m) de produção
+scheme:
+ bonus -                 sistema (m) de prêmios
+ incentive -             sistema (m) de incentivos
+ suggestion -            sistema (m) de sugestões
+science:
+ behavioural -           ciência (f) do comportamento
+ management -            teoria (f) da política administrativa
+scientific programming   programação (f) científica
+scrap value              valor (m) de sucata
+screen (to -)            selecionar
+scrip                    certificado (m) de compra de ações,
+                          ação (f) de bonificação
+search:
+ executive -             recrutamento (m) de executivos
+securities               títulos (mpl), valores (mpl),
+                         obrigações (mpl)
+security:
+ industrial -            contra-espionagem (m) industrial
+ job -                   estabilidade (f) de emprego
+seeking:
+ goal -                  identificação (f) de objetivos
+segmentation:
+ market -                segmentação (f) do mercado
+selection:
+ portfolio -             seleção (f) de valores de carteira
+self:
+ - actualisation         auto-atualização (f)
+ - appraisal             auto-avaliação (f)
+ - financing             auto-financiamento (m)
+ - liquidating           auto-amortizável
+ - motivation            auto-motivação (f)
+sellers market           mercado (m) do vendedor
+selling:
+ - policy                política (f) de venda
+ - price                 preço (m) de venda
+ - value                 valor (m) de mercado
+ direct -                venda (f) direta
+ hard -                  venda (f) agressiva
+ soft-                   venda (f) sutil
+ switch -                venda (f) com combinação de marcas
+semi-variable costs      custos (mpl) semi-variáveis
+sensitivity:
+ - analysis              análise (f) de sensibilidade
+ - training              treinamento (m) de sensibilidade
+sensitise (to -)         sensibilizar
+sequential analysis      análise (f) seqüencial 
+series:
+ time -                     séries (mpl) de tempos
+service:
+ advisory services          serviços (mpl) de assessoramento
+ after-sales -              serviço (m) pós-venda
+ computer services          serviços (mpl) de computação
+ computer services bureau   departamento (m) de serviços de
+                             computação
+ customer -                 serviço (m) ao consumidor
+ extension services         serviços (mpl) logísticos
+ management services        serviços (mpl) para gestão
+set-up time                 tempo (m) de preparo
+severance                   demissão (f), dispensa (f)
+share:
+ - bonus                    bonificação (f) em ações
+ - capital                  capital (m) social, capital (m) em
+                            ações
+ - holder                   acionista (m)
+ - of production plan       plano (m) de participação na produção
+ earnings per -             lucro (m) por ação
+ market -                   fatia (f) do mercado
+sharing:
+ profit -                   participação (f) em lucros
+ time -                     tempo (m) compartilhado
+shipping documents          documentos (mpl) de embarque
+shop:
+ - floor                    oficina (f), pessoal (m) de fábrica
+ - steward                  delegado (m) sindical
+ closed -                   fábrica (f) com operários
+                             sindicalizados exclusivamente
+short term:
+ - liability                passivo (m) exigível a curto prazo
+ - method                   planejamento (m) a curto prazo
+shut down                   fechamento (m), encerramento (m)
+                              de atividades
+sight bill                  letra (f) à vista
+sight-draft                 saque (m) à vista
+simple interest             juro (m) simples
+simplex method              método (m) simplex (usado na
+                              programação linear)
+simplifications:
+ job -                      simplificação (f) de tarefas
+ work -                     simplificação (f) do trabalho
+simulate (to -)             simular
+simulation:
+ computer -                 simulação (f) de computação
+sinking fund                fundo (m) para amortização
+sit-down strike             greve (f) branca 
+skills analysis                   análise (f) de habilidades
+slush fund                        caixa (f) preta
+smoothing                         ajustamento de curva
+soft selling                      venda (f) sutil
+software:
+ - broker                         corretor (m) de sistemas
+ - firm                           fabricante (m) de sistemas
+sole agent                        agente (m) exclusivo
+solvency                          solvência (f)
+solving:
+ problem -                        resolução (f) de problemas
+source and disposition of funds   origem (m) e aplicação (f) de recursos
+span:
+ - of control                     esfera (f) de controle
+ time - of discretion             tempo (m) máximo discrecional
+specie                            espécie (m), dinheiro (m) vivo
+specification:
+ job -                            descrição (f) das atribuições do cargo
+ personnel -                      especificação (f) de pessoal
+speculator                        especulador (m)
+spin-off effects                  resultados (mpl) secundários
+spirit:
+ entrepreneurial -                espírito (m) empreendedor
+spot price                        preço (m) para entrega imediata
+spread rate                       taxa de risco
+squeeze
+ credit -                         aperto (m) de crédito
+ staff:
+ - and line                       quadros (mpl) inferiores e gerência
+                                    (staff e linha)
+ - assistant                      assistente (m) consultivo
+ - inspection                     vistoria (f) do quadro de empregados
+ - management                     administração (f) de recursos humanos
+ - mobility                       mobilidade (f) de funcionários
+ - organisation                   organização (f) de recursos humanos
+ - transfers                      translado (m) de pessoal
+staggered holidays                férias (fpl) escalonadas
+stamp duty                        imposto (m) do selo
+standard:
+ - costs                          custos (mpl) padrão
+ - costing                        custeio (m) padrão
+ - deviation                      desvio-padrão (m)
+ - performance                    desempenho (m) padrão
+ - time                           tempo (m) padrão
+ budget -                         padrão (m), norma (f) de orçamento
+ costs -                          padrão (m) de custos
+ financial -                      padrão (m) financeiro, norma (f)
+                                   financeira 
+ performance -          padrão (m) de desempenho, norma (f)
+                         de produção
+standardisation         padronização (f)
+statement:
+ - of account           extrato (m) de conta
+ - of profit and loss   demonstração (f) da conta de lucros e
+                         perdas
+ policy -               declaração (f) política
+statistical control     controle (m) estatístico
+stimulus:
+ competitive -          estímulo (m) competitivo
+stock:
+ - control              controle (m) de estoque
+ -exchange              bolsa (f) de valores
+ - in trade             mercadorias (fpl) para revenda
+ - market               bolsa (f) de valores
+ - option plan          plano (m) de compra opcional de ações
+ - turnover             rotação (f) de estoque
+ - valuation            valorização (f) de estoque
+ buffer -               estoque (m) regulador, inventário (m)
+                         para imprevistos
+ safety -               estoque (m) regulador, estoque (m)
+                         para imprevistos
+stockholder             acionista (m)
+stockholding            investimento (m) em ações
+stockpile (to-)         estocar, armazenar
+stocktaking:
+ continuous -           inventário (m) contínuo
+stocks                  estoques (mpl)
+storage:
+ computer -             memória (f)
+store                   depósito (m), armazém (m), memória
+strategic:
+ - interdependence      interdependência (f) estratégica
+ - planning             planejamento (m) estratégico
+strategy:
+ - formulation          formulação (f) de estratégia
+ - implementation       execução (f) de estratégia
+ brand -                estratégia (f) de uma marca
+ business -             estratégia (f) comercial
+ competitive -          estratégia (f) competitiva
+ corporate -            estratégia (f) empresarial
+ defensive -            estratégia (f) defensiva
+ diversification -      estratégia (f) de diversificação
+ executive manpower     estratégia (f) para o quadro executivo
+ expansion -            estratégia (f) de desenvolvimento
+ financial -            estratégia (f) financeira
+ growth -               estratégia (f) de crescimento 
+ marketing -              estratégia (f)    mercadológica
+ negotiation -            estratégia (f)    de negociação
+ pricing -                estratégia (f)    de preços
+ product -                estratégia (f)    de produtos
+ profit -                 estratégia (f)    de lucro
+ survival -               estratégia (f)    de sobrevivência
+ user -                   estratégia (f)    de consumidores
+streamline (to -)         racionalizar
+strike:
+ lightning -              greve (f) relâmpago
+ official -               greve (f) apoiada pelo sindicato
+ sit down -               greve (f) branca
+ unofficial -             greve (f) não apoiada pelo sindicato
+ wild-cat -               greve (f) não autorizada pelo sindicato
+ - breaker                fura-greve (m/f)
+structure (to -)          estruturar
+structure:
+ authority -              estrutura   (f)   de autoridade
+ capital -                estrutura   (f)   de capital
+ corporate -              estrutura   (f)   da empresa
+ cost -                   estrutura   (f)   de custos
+ grid -                   estrutura   (f)   de grade
+ managerial -             estrutura   (f)   administrativa
+ market -                 estrutura   (f)   de mercado
+ organisation -           estrutura   (f)   da organização
+ price                    estrutura   (f)   de preços
+  salary -                estrutura   (f)   de salários
+  wage -                  estrutura   (f)   de salários
+ structuring:
+
+  work -                  estruturação (f) do trabalho
+ study:
+
+  case:                   estudo (m) de      caso
+  feasibility -           estudo (m) de      viabilidade
+     gap-                 estudo (m) de      intervalos
+     market -             estudo (m) de      mercado
+     methods -            estudo (m) de      métodos
+     time and methods -   estudo (m) de      métodos e tempos
+     motion -             estudo (m) de      movimentos
+     time and motion -    estudo (m) de      tempos e movimentos
+     plant layout -       estudo (m) do      esquema de uma
+                           instalação
+   time -                 estudo (m) de      tempos
+   work -                 estudo (m) de      trabalho
+style:
+ managerial -             estilo (m) gerencial
+subcontract               subcontratar, subempreitar
+subliminal advertising    publicidade (f) subliminar
+sub-optimisation          sub-otimização 
+subsidiary company            companhia (f) subsidiária
+subsidy                       subsídio (m), subvenção (f)
+subvention                    subvenção (f)
+succession:
+ management -                 plano (m) de sucessão
+                               de dirigentes
+suggestion scheme             esquema (f) de sugestões
+sundry                        diverso
+superannuate (to -)           aposentar
+superannuation                aposentadoria (f)
+supertax                      sobretaxa (f)
+supervisory management        gestão (f) supervisora
+supply:
+ - and demand                 oferta (f) e demanda (f), oferta (f)
+                               e procura (f)
+support:
+ - activities                 atividades (fpl) de apoio
+ - price                      preço (m) de sustentação
+supporting document           comprovante (m)
+surcharge                     sobretaxa (f)
+surety                        fiança (f), garantia (f)
+surtax                        sobretaxa (f)
+survey:
+ attitude -                   levantamento (m) de opiniões
+ market -                     levantamento (m) de mercado
+survival strategy             estratégia (f) de sobrevivência
+switch selling                venda (f) com combinação de marcas
+syndicate                     sindicato (m), consórcio (m)
+synergy                       sinergia (f), coordenação (f)
+system:
+ information -                sistema (m) de dados
+ computerised information -
+  (COINS)                     sistema (m) computadorizado de dados
+ management information -
+  (MIS)                       sistema (m) de dados para gestão
+ integrated management -      sistema (m) integrado de gestão
+ planning-programming -       sistema (m) orçamentário de
+  budgeting- (PPBS)            planejamento e programação
+ predetermined motion time    sistema (m) de movimentos
+  (PMTS)                       pré-determinados
+systematise (to -)            sistematizar
+systems analysis              análise (f) de sistemas
+systems and procedures        sistemas (mpl) e procedimentos
+systems approach              abordagem (f) sistemática
+systems design                planejamento (m) de sistemas
+systems managed:
+ - company                    empresa (f) dirigida de forma
+                               sistematizada 
+systems planning                 planejamento (m) de sistemas
+systems theory                   teoria (f) de sistemas
+ estimating systems costs        avaliação (f) de custos de sistemas
+
+
+T
+T-group training                 diagnóstico (m) de grupos
+TWI (training within industry)   treinamento (m) dentro da indústria
+tactical plan                    plano (m) tático
+tactics:
+
+  competitive -                  tática (f) competitiva
+take-off                         decolagem (f)
+takeover:
+ -bid                            oferta (f) de compra (de uma compa-
+                                 nhia)
+talk:
+
+  sales -                        argumento (m) de venda
+tangible assets                  ativo (m) tangível
+target:
+
+  - setting                      estabelecimento (m) de objetivos
+ production -                    meta (f) de produção
+ profit -                        objetivo (m) de lucro, meta (f)
+                                   de lucro
+tariff                           tarifa (f)
+task force                       grupo (m) de trabalho, grupo (m)
+                                  de estudos
+tax:
+ corporation -                   imposto (m) sobre a empresa
+  value added - (VAT)            imposto (m) sobre circulação de
+                                  mercadorias (ICM)
+taxable profit                   lucro (m) tributável
+taxation relief:
+
+  double-                        descarga (f) de impostos duplicados
+taxpayer                         contribuinte (m) (de imposto)
+techniques:
+
+  management -                   técnicas (fpl) de gestão
+technological forecasting        previsão (f) tecnológica
+technology:
+ information -                   tecnologia (f) da informação
+tender                           proposta (f), oferta (f)
+term:
+
+  - bonds                        obrigações (fpl) com vencimento fixo
+  - loan                         empréstimo (m) a prazo fixo
+terms:
+
+  - of payment                   condições (fpl) de pagamento
+  - of trade                     condições (fpl) comerciais
+territory:
+ sales -                         área (f) de vendas 
+test:
+
+  - marketing              ensaio (m) mercadológico
+  aptitude -               teste (m) de aptidão
+  market -                 teste (m) de mercado
+testing:
+
+  field -                  provas (fpl) de mercado,
+                            de funcionamento, etc.
+ product -                 teste (m) de produtos, avaliação (f)
+                            de produtos
+theme:
+
+  advertising -            tema (m) publicitario
+theory:
+
+  administrative -         teoria   (f)   de administração
+  communication -          teoria   (f)   da comunicação
+  decision -               teoria   (f)   das decisões
+  game -                   teoria   (f)   dos jogos
+  information -            teoria   (f)   da informação
+  management -             teoria   (f)   da política administrativa
+ organisation -            teoria   (f)   da organização
+ probability -             teoria   (f)   das probabilidades
+ queuing -                 teoria   (f)   de filas
+  systems -                teoria   (f)   de sistemas
+thinking:
+ creative -                espírito (m) criativo
+throughput                 produção (f) total
+thrust:
+
+  competitive -            ímpeto (m) competitivo
+time:
+
+  - and methods study      estudo (m) de métodos e tempos
+  - and motion study       estudo (m) de tempos e movimentos
+  - deposit                depósito (m) a prazo fixo
+  - series                 série (f) de tempos
+  - sharing                tempo    (m)    compartilhado
+  - span of discretion     tempo    (m)    máximo discrecional
+  - study                  estudo   (m)    de tempos
+  down -                   tempo    (m)    ocioso
+  lead -                   prazo (m) de entrega, de execução
+  predetermined motion -   sistema (m) de movimentos
+   system (PMTS)            pré-determinados
+  real -                   tempo (m) real
+  standard -               tempo (m) padrão
+top management             diretoria (f), diretoria (f) executiva
+top management approach    abordagem (f) da diretoria
+total quality control      controle (m) geral de qualidade
+trade:
+ - association             associação (f) comercial, entidade (f)
+                            de classe 
+
+  - cycle                   ciclo (m) comercial
+  - discount                desconto (m) comercial
+  - mark                    marca (f) registrada
+  -off                      substituição (f)
+  - price                   preço (m) de revendedor
+  - union                   sindicato (m)
+trading:
+
+  - area                    área (f) comercial
+  - profit                  lucro (m) comercial
+  fair -                    comércio (m) leal
+  patent -                  negociação (f) de patentes
+trainee:
+
+  - turnover                rotação (f) de estagiários
+traineeship                 estágio (m)
+training:
+
+  - officer                 chefe (m) de treinamento
+  - within industry (TWI)   treinamento (mj dentro da indústria
+  analytical -              treinamento (m) analítico
+  booster -                 reciclagem (f)
+  group -                   treinamento   (m) em grupo
+  in-plant -                treinamento   (m) interno
+  off-the-job -             treinamento   (m) fora da empresa
+  on-the-job -              treinamento   (m) dentro da empresa
+  part-analysis -           treinamento   (m) e avaliação de
+                             funções
+  sensitivity -             treinamento (m) de sensibilidade
+  T-group -                 diagnóstico (m) de grupos
+  vocational -              treinamento (m) profissionalizante
+transactions                transações (fpl)
+transfer:
+
+  - pricing                 estabelecimento (m) de preços de
+                              transferência
+  staff -                   translado (m) de pessoal
+transit:
+
+  in -                      em trânsito (m)
+transportation              meio (m) de transporte
+traveller's cheque          cheque (mj de viagem
+tree:
+
+  decision -                árvore (f) de decisão
+  family -                  árvore (f) genealógica
+  pertinence -              árvore (f) de pertinência
+trend:
+
+  economic -                tendência (f) econômica
+  exponential -             tendência (f) exponencial
+  market -                  tendência (f) do mercado
+  sales -                   tendência (f) de vendas
+trouble shooting            investigação (f) e resolução (f)
+                             de problemas 
+trust:
+
+  - fund                        fundo (m) de fideicomisso
+trustee                         fideicomissário (m), administrador (m)
+turnover:
+
+  inventory                     giro (m) de estoque, rotação (f)
+                                 do estoque
+ labour -                       rotação (f) da mão-de-obra
+ sales -                        movimento (f) de vendas
+ stock -                        rotação (f) do estoque
+ trainee -                      rotação (f) de estagiários
+
+
+
+u
+unbundling                      separação (f) de tarifas
+undercapitalised                subcapitalizado
+undercharge (to -)              cobrar a menos
+underwrite (to -)               assumir o risco (m) de um seguro
+unearned revenue                receita (f) não ganha
+unfair competition              concorrência (f) desleal
+union                           sindicato (m)
+unit cost                       custo (m) unitário
+unit trust                      fundo (m) mútuo
+unofficial strike               greve (f) não apoiada pelo sindicato
+unrestricted letter of credit   carta (f) de crédito irrestrita
+upkeep                          manutenção
+user:
+ - attitude                     atitude (f) do consumidor
+ - cost                         custo (m) de utilização
+ - strategy                     estratégia (f) de consumidores
+utilisation:
+ capacity -                     utilização (f) de capacidade total
+utility                         companhia (f) de serviços de
+                                 utilidade pública
+
+
+
+
+VA (value analsysis)            análise (f) de valores
+VAT (value added tax)           imposto (m) sobre circulação de
+                                 mercadorias
+valuation:
+ stock -                        valorização (f) de estoque
+value:
+ - added                        valor (m) agregado
+ - added tax (VAT)              imposto (m) sobre circulação de
+                                 mercadorias (ICM)
+ - analysis (VA)                análise (f) de valores
+ concept                        conceito (m) de valor 
+ engineering              análise (f) de custos, análise (f)
+                            de valores
+ - judgment               juízo (m) de valor
+ book -                   valor (m) contábil
+ break-up -               valor (m) de liquidação forçada
+ market -                 valor (m) de mercado
+ net present - (NPV)      valor (m) liquido atual
+ present - method         método (m) de valor atual
+variable:
+ - costs                  custos (mpl) variáveis
+ - costing                custeio (m) variável
+ semi-costs               custos (mpl) semi-variáveis
+variance
+ - analysis               análise (f) de variação
+ cost -                   divergência (f) de custo
+variety reduction         redução (f) de variedade
+venture:
+ - capital                capital (m) de risco
+ - management             gestão (f) de empreendimentos
+ joint -                  sociedade (f) em conta de participação
+vertical integration      integração (f) vertical
+vested interests          interesses (mpl) participatórios
+viability                 viabilidade (f)
+viable                    viável
+vice-chairman             vice-presidente (m)
+vice-president            vice-presidente (m)
+vocational:
+ - guidance               orientação (f) profissional
+ - training               treinamento (m) profissionalizante
+volume:
+ - discount               desconto (m) de volume
+                          análise (f) de custo, volume
+ cost - profit analysis    e benefício
+                          índice (m) de rentabilidade
+ profit - ratio (P/V)      sobre o movimento
+                          volume (m) de vendas
+ sales -
+
+
+
+w
+wage:
+ - differential           disparidade (f) de salários
+ - structure              estrutura (f) de salários
+wages                     salários (mpl)
+walkout                   abandono (m) do trabalho,
+                           entrando em greve
+warehouse:
+ - bonded -               entreposto (m) aduaneiro 
+warehousing                   armazenagem (f)
+waybill                       conhecimento (m) de embarque
+wear and tear                 uso (m) e desgaste (m)
+wholesale                     atacado
+wild-cat strike               greve (f) não autorizada pelo sindicato
+windfall profit               lucro (m) imprevisto
+winding up                    liquidação (f)
+window dressing               manipulação (f) das contas para dar
+                               melhor impressão
+withdrawal                    retirada (f)
+work:
+ - content                    atribuições (fpl) no trabalho
+ - cycle                      ciclo (m) de trabalho
+ - in process                 produção (f) em curso, produtos (mpl)
+                                em andamento
+ - in progres                 produção (f) em curso, produtos (mpl)
+                                em andamento
+ - load                       carga (f) de trabalho
+ - measurement                medição (f) de trabalho
+ clerical-measurement (CWM)   medição (f) de trabalho administrativo
+ - simplification             simplificação (f) do trabalho
+ -structuring                 estruturação (f) do trabalho
+ - study                      estudo (m) de trabalho
+ - to-rule (to -)             trabalhar estritamente de acordo com
+                                as normas de trabalho
+ shift-                       trabalho (m) em turno
+worker:
+ - participation              participação (f) dos trabalhadores
+ - representation             representação (f) dos trabalhadores
+working:
+ - capital                    capital (m) circulante, capital (m)
+                               de giro
+ - day                        dia (m) útil, jornada (f)
+ - hours                      expediente (m), horário (m)
+ - party                      grupo (m) de trabalho
+workmanship                   artesanato (m)
+works:
+ - council                    conselho (m) de fábrica
+ - manager                    gerente (m) de fábrica
+worth
+ net -                        patrimônio (m) líquido
+write off (to -)              dar baixa (f) nos livros 
+yardstick       norma (f), gabarito (m), medida (f),
+                 padrão (m)
+year:
+ - of account   exercício (m) contábil
+ - base -       ano-base (m)
+ financial -    exercício (m) financeiro, ano (m)
+                 contábil
+yearly report   relatório (m) anual
+yield:
+ earnings -     taxa (f) de rendimento
+
+
+
+z
+Z-chart         gráfico (m) Z 
