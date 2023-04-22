@@ -16,6 +16,7 @@ tokens = (
     'final_word', # example: shift-
     'normalword', # an english word to be translated (doesn't have a type)
     'portugueseTranslation', #the portuguese sentence appears after more than \t before the end of the current line  
+    'paragraph',
 )
 
 def t_initial_letter(t): #example: A\n
@@ -59,11 +60,15 @@ def t_ptsearch_portugueseTranslation(t): # includes () í ,
     r'[^\n]*\n(\s{10}[^\n]*\n)*'
     t.lexer.pop_state()
     return t
+
+def t_paragraph(t):
+    r'\n'
+    pass
     
 t_ANY_ignore = ""
 
 def t_ANY_error(t):
-    print(f"Caracter ilegal {t.value[0]}")
+    print(f"Carácter ilegal '{t.value[0]}' na linha {t.lineno}")
     t.lexer.skip(1)
 
 lexer = lex.lex()
