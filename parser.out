@@ -23,7 +23,7 @@ Rule 1     Dict -> Alphsection Dict
 Rule 2     Dict -> <empty>
 Rule 3     Alphsection -> initial_letter translations
 Rule 4     translations -> normalword portugueseTranslation translations
-Rule 5     translations -> baseword translations
+Rule 5     translations -> baseword portugueseTranslation translations
 Rule 6     translations -> <empty>
 
 Terminals, with rules where they appear
@@ -40,7 +40,7 @@ middle_error_word    :
 no_word              : 
 normalword           : 4
 paragraph            : 
-portugueseTranslation : 4
+portugueseTranslation : 4 5
 portugueseTranslationError : 
 prefix_error_word    : 
 prefix_word          : 
@@ -91,7 +91,7 @@ state 3
 
     (3) Alphsection -> initial_letter . translations
     (4) translations -> . normalword portugueseTranslation translations
-    (5) translations -> . baseword translations
+    (5) translations -> . baseword portugueseTranslation translations
     (6) translations -> .
 
     normalword      shift and go to state 6
@@ -125,23 +125,16 @@ state 6
 
 state 7
 
-    (5) translations -> baseword . translations
-    (4) translations -> . normalword portugueseTranslation translations
-    (5) translations -> . baseword translations
-    (6) translations -> .
+    (5) translations -> baseword . portugueseTranslation translations
 
-    normalword      shift and go to state 6
-    baseword        shift and go to state 7
-    initial_letter  reduce using rule 6 (translations -> .)
-    $end            reduce using rule 6 (translations -> .)
+    portugueseTranslation shift and go to state 9
 
-    translations                   shift and go to state 9
 
 state 8
 
     (4) translations -> normalword portugueseTranslation . translations
     (4) translations -> . normalword portugueseTranslation translations
-    (5) translations -> . baseword translations
+    (5) translations -> . baseword portugueseTranslation translations
     (6) translations -> .
 
     normalword      shift and go to state 6
@@ -153,11 +146,17 @@ state 8
 
 state 9
 
-    (5) translations -> baseword translations .
+    (5) translations -> baseword portugueseTranslation . translations
+    (4) translations -> . normalword portugueseTranslation translations
+    (5) translations -> . baseword portugueseTranslation translations
+    (6) translations -> .
 
-    initial_letter  reduce using rule 5 (translations -> baseword translations .)
-    $end            reduce using rule 5 (translations -> baseword translations .)
+    normalword      shift and go to state 6
+    baseword        shift and go to state 7
+    initial_letter  reduce using rule 6 (translations -> .)
+    $end            reduce using rule 6 (translations -> .)
 
+    translations                   shift and go to state 11
 
 state 10
 
@@ -165,4 +164,12 @@ state 10
 
     initial_letter  reduce using rule 4 (translations -> normalword portugueseTranslation translations .)
     $end            reduce using rule 4 (translations -> normalword portugueseTranslation translations .)
+
+
+state 11
+
+    (5) translations -> baseword portugueseTranslation translations .
+
+    initial_letter  reduce using rule 5 (translations -> baseword portugueseTranslation translations .)
+    $end            reduce using rule 5 (translations -> baseword portugueseTranslation translations .)
 

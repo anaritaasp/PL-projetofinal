@@ -53,9 +53,8 @@ def p_translations1(p):
     "translations : normalword portugueseTranslation translations"
     p[0] = f"normalword: {p[1]} - PT: {p[2]} - translations[{p[3]}]"
     
-
 def p_translations2(p):
-    "translations : baseword translations"
+    "translations : baseword portugueseTranslation translations"
     p[0] = f"baseword: {p[1]} - translations[{p[2]}] "
 
 def p_translations3(p):

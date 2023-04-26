@@ -142,9 +142,38 @@ lexer = lex.lex()
 with open('dic-finance-en.pt.txt', 'r') as file:
     data = file.read()
 
-lexer.input(data)
+text = '''A
+ADP (automatic data processing)   processamento (m) automático de
+                                   dados
+absenteeism                       absenteísmo (m)
+absorption costing                custeio (f) de absorção
+abandonment:
+ product -                        retirada (f) de um produto
+above par                         com ágio; acima da paridade
+acceleration clause               cláusula (f) de aceleração
+acceptance:                       aceitação (f)
+ brand -                          aceitação (f) de uma marca
+ consumer -                       aceitação (f) por parte do consumidor
+access:
+ multi -                          acesso (m) múltiplo
+ random -                         acesso (m) casual
+account:
+ bank -                           conta (f) bancária
+ joint -                          conta (f) conjunta
+accountability                    responsabilidade (f) sujeita a
+                                   prestação de contas
+accountant:
+
+chief                             chefe (m) de contabilidade
+'''
+
+
+
+lexer.input(text)
 
 #print(lexer.token())
+
+
 
 #'''
 while tok := lexer.token():
