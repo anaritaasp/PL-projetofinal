@@ -1,0 +1,168 @@
+Created by PLY version 3.11 (http://www.dabeaz.com/ply)
+
+Unused terminals:
+
+    baseword_error
+    double_word
+    middle1_word
+    middle1_word_error
+    middle2_word
+    middle_error_word
+    no_word
+    paragraph
+    portugueseTranslationError
+    prefix_error_word
+    prefix_word
+    suffix_error_word
+    suffix_word
+
+Grammar
+
+Rule 0     S' -> Dict
+Rule 1     Dict -> Alphsection Dict
+Rule 2     Dict -> <empty>
+Rule 3     Alphsection -> initial_letter translations
+Rule 4     translations -> normalword portugueseTranslation translations
+Rule 5     translations -> baseword translations
+Rule 6     translations -> <empty>
+
+Terminals, with rules where they appear
+
+baseword             : 5
+baseword_error       : 
+double_word          : 
+error                : 
+initial_letter       : 3
+middle1_word         : 
+middle1_word_error   : 
+middle2_word         : 
+middle_error_word    : 
+no_word              : 
+normalword           : 4
+paragraph            : 
+portugueseTranslation : 4
+portugueseTranslationError : 
+prefix_error_word    : 
+prefix_word          : 
+suffix_error_word    : 
+suffix_word          : 
+
+Nonterminals, with rules where they appear
+
+Alphsection          : 1
+Dict                 : 1 0
+translations         : 3 4 5
+
+Parsing method: LALR
+
+state 0
+
+    (0) S' -> . Dict
+    (1) Dict -> . Alphsection Dict
+    (2) Dict -> .
+    (3) Alphsection -> . initial_letter translations
+
+    $end            reduce using rule 2 (Dict -> .)
+    initial_letter  shift and go to state 3
+
+    Dict                           shift and go to state 1
+    Alphsection                    shift and go to state 2
+
+state 1
+
+    (0) S' -> Dict .
+
+
+
+state 2
+
+    (1) Dict -> Alphsection . Dict
+    (1) Dict -> . Alphsection Dict
+    (2) Dict -> .
+    (3) Alphsection -> . initial_letter translations
+
+    $end            reduce using rule 2 (Dict -> .)
+    initial_letter  shift and go to state 3
+
+    Alphsection                    shift and go to state 2
+    Dict                           shift and go to state 4
+
+state 3
+
+    (3) Alphsection -> initial_letter . translations
+    (4) translations -> . normalword portugueseTranslation translations
+    (5) translations -> . baseword translations
+    (6) translations -> .
+
+    normalword      shift and go to state 6
+    baseword        shift and go to state 7
+    initial_letter  reduce using rule 6 (translations -> .)
+    $end            reduce using rule 6 (translations -> .)
+
+    translations                   shift and go to state 5
+
+state 4
+
+    (1) Dict -> Alphsection Dict .
+
+    $end            reduce using rule 1 (Dict -> Alphsection Dict .)
+
+
+state 5
+
+    (3) Alphsection -> initial_letter translations .
+
+    initial_letter  reduce using rule 3 (Alphsection -> initial_letter translations .)
+    $end            reduce using rule 3 (Alphsection -> initial_letter translations .)
+
+
+state 6
+
+    (4) translations -> normalword . portugueseTranslation translations
+
+    portugueseTranslation shift and go to state 8
+
+
+state 7
+
+    (5) translations -> baseword . translations
+    (4) translations -> . normalword portugueseTranslation translations
+    (5) translations -> . baseword translations
+    (6) translations -> .
+
+    normalword      shift and go to state 6
+    baseword        shift and go to state 7
+    initial_letter  reduce using rule 6 (translations -> .)
+    $end            reduce using rule 6 (translations -> .)
+
+    translations                   shift and go to state 9
+
+state 8
+
+    (4) translations -> normalword portugueseTranslation . translations
+    (4) translations -> . normalword portugueseTranslation translations
+    (5) translations -> . baseword translations
+    (6) translations -> .
+
+    normalword      shift and go to state 6
+    baseword        shift and go to state 7
+    initial_letter  reduce using rule 6 (translations -> .)
+    $end            reduce using rule 6 (translations -> .)
+
+    translations                   shift and go to state 10
+
+state 9
+
+    (5) translations -> baseword translations .
+
+    initial_letter  reduce using rule 5 (translations -> baseword translations .)
+    $end            reduce using rule 5 (translations -> baseword translations .)
+
+
+state 10
+
+    (4) translations -> normalword portugueseTranslation translations .
+
+    initial_letter  reduce using rule 4 (translations -> normalword portugueseTranslation translations .)
+    $end            reduce using rule 4 (translations -> normalword portugueseTranslation translations .)
+
