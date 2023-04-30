@@ -15,13 +15,17 @@ tokens = (
     'middle1_word', #is the type of the base word, always appears in a new line if the line contains the character '-' in the middle the word
     'middle1_word_error', #example:  sales -\n
     'middle2_word', #is the type of the base word, always appears in a new line if the line contains the character '-' in the middle the word
+    'middle2_word_error', # example:  management information -\n
     'suffix_word', #is the type of the base word, always appears in a new line if the line contains the character '-' after the word
     'double_word', #example: - base -
-    'no_word', #example: engineering
+    'no_hifen', #example: engineering
     'prefix_error_word', # example: -structuring
     'middle_error_word', #exameple: semi-costs
     'suffix_error_word', # example: shift-
+    'abbreviation', #sigla ex: (PMTS)
     'normalword', # an english word to be translated (doesn't have a type)
+    'a_parenteses', # CWM (clerical work
+    'f_parenteses', # measurement)
     'portugueseTranslation', #the portuguese sentence appears after more than \t before the end of the current line  
     'portugueseTranslationError', # example: treinamento (mj dentro da indústria
     'paragraph',
@@ -36,18 +40,18 @@ def t_initial_letter(t): #example: A\n
     return t
 
 def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report
-    r'\w[\w\'-]*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'\w[\w\'\-]*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 def t_baseword(t): #example: automatic data: \n  OU  administration:         administração (f)
-    r'\w[ \r\t\f\w-]*:'
+    r'[ \r\t\f]*\w[ \r\t\f\w\-]*:'
     t.lexer.push_state('ptsearch')
     return t
 
 # Falta os : no final
-def t_baseword_error(t): #example: worth\n
-    r'\w+\n'
+def t_baseword_error(t): #example: worth\n   
+    r'[ \r\t\f]*\w\w+\n'
     t.lexer.push_state('ptsearch')
     return t
 
@@ -55,38 +59,46 @@ def t_baseword_error(t): #example: worth\n
 # Pode incluir outros casos como:    to-rule   (to -)
 
 def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of responsibilities rof (ROFR)
-    r'[ \r\t\f]+-[ \r\t\f]\w[\w-]*([ \r\t\f]\w[\w-]*)?([ \r\t\f]\w[\w-]*)?([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*-[ \r\t\f]\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)
-    r'[ \r\t\f]+\w[\w-]*[ \r\t\f]-([ \r\t\f]\w[\w-]*)?([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 def t_middle1_word_error(t): #example:  sales -\n
-    r'[ \r\t\f]+\w[\w-]*[ \r\t\f]-([ \r\t\f]\w[\w-]*)?([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?\n'
-    t.lexer.push_state('ptsearch')
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?\n'
     return t
 
 def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - tax (VTAT)
-    r'[ \r\t\f]+\w[\w-]*[ \r\t\f]\w[\w-]*[ \r\t\f]-([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
+''' middle2_word_error + abreviattion + translation   ----> VER NA ANALISE SINTÁTICA
+ management information -
+  (MIS)                       sistema (m) de dados para gestão
+'''
+
+def t_middle2_word_error(t): # example:  management information -\n
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?\n'
+    return t
+
 def t_suffix_word(t): #example:  value tax final - (VTFA)
-    r'[ \r\t\f]+\w[\w-]*[ \r\t\f]\w[\w-]*[ \r\t\f]\w[\w-]*[ \r\t\f]-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 def t_double_word(t): #example: - base -
-    r'[ \r\t\f]+\-[ \r\t\f]\w[\w-]*[ \r\t\f]\-'
+    r'[ \r\t\f]*\-[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\-'
     t.lexer.push_state('ptsearch')
     return t
 
 # às vezes pode n
-def t_no_word(t): # diferença em relação ao normalword: contém espaço no início
-    r'[ \r\t\f]+\w+([ \r\t\f]\w[\w-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início
+    r'[ \r\t\f]*\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
@@ -104,21 +116,41 @@ def t_continue_word(t):
 # ERRO DE FORMATO
 def t_prefix_error_word(t) : # example: -structuring
     # r'[ \r\t\f]+-\w[\w-]*([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
-    r'[ \r\t\f]+\-\w+([ \r\t\f]\w[\w-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 # ERRO DE FORMATO
 def t_middle_error_word(t): #exameple: semi-costs
-    r'[ \r\t\f]+\w+\-\w+([ \r\t\f]\w[\w-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 # ERRO DE FORMATO
 def t_suffix_error_word(t): #example:  shift-
-    r'[ \r\t\f]+\w+-([ \r\t\f]\w[\w-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\w[\w\,]*-([ \r\t\f]\w[\w\-,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
+
+# Sigla - Acronim
+def t_abbreviation(t): # (PMTS)
+    r'[ \r\t\f]*\(\w[\w,]*\)[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return 
+
+
+# abrir parenteses
+def t_a_parenteses(t): # CWM (clerical work
+    r'[ \r\t\f]*\w+[ \r\t\f]\((\w+[ \r\t\f])+[ \r\t\f]{2}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# fechar parenteses
+def t_f_parenteses(t): # measurement)
+    r'[ \r\t\f]*\w+(([ \r\t\f]\w+)*)?\)[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
 
 def t_ptsearch_portugueseTranslation(t): # includes () í ,
     r'[^\n]*\n([ \r\t\f]{10}[^\n]*\n)*'
@@ -169,9 +201,9 @@ chief                             chefe (m) de contabilidade
 
 
 
-lexer.input(text)
+lexer.input(data)
 
-#print(lexer.token())
+print(lexer.token())
 
 
 
@@ -179,3 +211,15 @@ lexer.input(text)
 while tok := lexer.token():
     print(tok)
 #'''
+
+''' a_parenteses + translation + f_parenteses       ------>  Ver na análise sintática
+CWM (clerical work              medição (f) de trabalho
+                                   administrativo
+measurement)
+
+
+COINS (computerised information
+ system)                        sistema (m) computadorizado de dados
+
+
+'''
