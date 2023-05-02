@@ -33,10 +33,12 @@ tokens = (
 
 def t_paragraph(t):
     r'\n'
+    t.lexer.lineno += 1
     pass
 
 def t_initial_letter(t): #example: A\n
     r'\w[ \r\t\f]*\n'
+    t.lexer.lineno += 1
     return t
 
 def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report
@@ -53,6 +55,7 @@ def t_baseword(t): #example: automatic data: \n  OU  administration:         adm
 def t_baseword_error(t): #example: worth\n   
     r'[ \r\t\f]*\w\w+\n'
     t.lexer.push_state('ptsearch')
+    t.lexer.lineno += 1
     return t
 
 # The third word is facultative!!!!!
@@ -70,6 +73,7 @@ def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (V
 
 def t_middle1_word_error(t): #example:  sales -\n
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?\n'
+    t.lexer.lineno += 1
     return t
 
 def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - tax (VTAT)
@@ -84,6 +88,7 @@ def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - ta
 
 def t_middle2_word_error(t): # example:  management information -\n
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?\n'
+    t.lexer.lineno += 1
     return t
 
 def t_suffix_word(t): #example:  value tax final - (VTFA)
@@ -155,12 +160,14 @@ def t_f_parenteses(t): # measurement)
 def t_ptsearch_portugueseTranslation(t): # includes () í ,
     r'[^\n]*\n([ \r\t\f]{10}[^\n]*\n)*'
     t.lexer.pop_state()
+    t.lexer.lineno += str(t.value).count('\n')
     return t
 
 # ERRO DE FORMATO
 def t_ptsearch_portugueseTranslationError(t): # example: treinamento (mj dentro da indústria
     r'[^\n]*\n([ \r\t\f]{10}[^\)\n]*\n)*'
     t.lexer.pop_state()
+    t.lexer.lineno += str(t.value).count('\n')
     return t
     
 t_ANY_ignore = ""
