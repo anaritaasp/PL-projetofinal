@@ -12,6 +12,7 @@ tokens = (
     'baseword', #is the +base word, always appears in the beggining of a new line followed by the character ':'
     'baseword_error', #example: worth
     'prefix_word', #is the type of the base word, always appears in a new line if the line contains the character '-' before the word
+    'prefix_word_error', # -, insurance and freight
     'middle1_word', #is the type of the base word, always appears in a new line if the line contains the character '-' in the middle the word
     'middle1_word_error', #example:  sales -\n
     'middle2_word', #is the type of the base word, always appears in a new line if the line contains the character '-' in the middle the word
@@ -66,6 +67,11 @@ def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of respon
     t.lexer.push_state('ptsearch')
     return t
 
+def t_prefix_word_error(t): # example: -, insurance and freight
+    r'[ \r\t\f]*\-\,[ \r\t\f]\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
 def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
@@ -76,8 +82,8 @@ def t_middle1_word_error(t): #example:  sales -\n
     t.lexer.lineno += 1
     return t
 
-def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - tax (VTAT)
-    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - tax (VTAT)   OU     quality (QC) -
+    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,\(\)]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
