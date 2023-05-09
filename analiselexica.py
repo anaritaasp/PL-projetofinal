@@ -23,12 +23,12 @@ tokens = (
     'suffix_word', #is the type of the base word, always appears in a new line if the line contains the character '-' after the word
     'suffix_error', #automatic data (ADP)-
     'double_word', #example: - base -
-    'no_hifen', #example: engineering
-    'no_hifen_paragraph', # return on capital\n
     'prefix_error_word', # example: -structuring
     'middle_error_word', #exameple: semi-costs
     'suffix_error_word', # example: shift-
     'abbreviation', #sigla ex: (PMTS)
+    'no_hifen', #example: engineering
+    'no_hifen_paragraph', # return on capital\n
     'normalword', # an english word to be translated (doesn't have a type)
     'a_parenteses', # CWM (clerical work
     'f_parenteses', # measurement)
@@ -48,8 +48,8 @@ def t_initial_letter(t): #example: A\n
     t.value = t.value.strip()[0]
     return t
 
-def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report      OU     I.O.U. (I owe you)      OU    buyers's market
-    r'\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report      OU     I.O.U. (I owe you)      OU    buyers's market    OU    cost-volume-analysis
+    r'\(?\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
@@ -84,8 +84,8 @@ def t_prefix_word_error_2(t): #  - volume ratio (P/V)\n
     t.lexer.lineno += 1
     return t 
 
-def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)
-    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)      OR       buyers'
+    r'[ \r\t\f]*\w[\w\-\,\']*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
@@ -137,13 +137,51 @@ def t_suffix_error(t): #automatic data (ADP)-
     return t
 
 def t_double_word(t): #example: - base -     OU           price - earnings - (PIE)
-    r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]?\-[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    r'[ \r\t\f]*(\w[\w\-\,]*[ \r\t\f])?\-[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# ERRO DE FORMATO
+def t_prefix_error_word(t) : # example: -structuring
+    # r'[ \r\t\f]+-\w[\w-]*([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
+    r'[ \r\t\f]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# ERRO DE FORMATO
+def t_middle_error_word(t): #exameple: semi-costs
+    r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# ERRO DE FORMATO
+def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)
+    r'[ \r\t\f]*(\w[\w\,]*[ \r\t\f])?\w[\w\,]*-([ \r\t\f]\w[\w\-,]*)*(\(\w*\))*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# Sigla - Acronim
+def t_abbreviation(t): # (PMTS)
+    r'[ \r\t\f]*\(\w[\w,]*\)[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return 
+
+
+# abrir parenteses
+def t_a_parenteses(t): # CWM (clerical work     OU     EEC (European Economic Com-            OU    R and D (research and
+    r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w[\w\,]*([ \r\t\f\-])?)+[ \r\t\f]{3}[ \r\t\f]*'
+    t.lexer.push_state('ptsearch')
+    return t
+
+# fechar parenteses
+def t_f_parenteses(t): # measurement)
+    r'[ \r\t\f]*\w+(([ \r\t\f]\w+)*)?\)[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
 # às vezes pode n
-def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início
-    r'[ \r\t\f]*\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início        OU     (O and M)
+    r'[ \r\t\f]+\(?\w[\w\,\-]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     return t
 
@@ -162,44 +200,6 @@ def t_continue_word(t):
     t.lexer.push_state('ptsearch')
     return t
 '''
-
-# ERRO DE FORMATO
-def t_prefix_error_word(t) : # example: -structuring
-    # r'[ \r\t\f]+-\w[\w-]*([ \r\t\f]\w[\w-]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{2}[ \r\t\f]*'
-    r'[ \r\t\f]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return t
-
-# ERRO DE FORMATO
-def t_middle_error_word(t): #exameple: semi-costs
-    r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return t
-
-# ERRO DE FORMATO
-def t_suffix_error_word(t): #example:  shift-
-    r'[ \r\t\f]*\w[\w\,]*-([ \r\t\f]\w[\w\-,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return t
-
-# Sigla - Acronim
-def t_abbreviation(t): # (PMTS)
-    r'[ \r\t\f]*\(\w[\w,]*\)[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return 
-
-
-# abrir parenteses
-def t_a_parenteses(t): # CWM (clerical work      OU     EEC (European Economic Com-            OU    R and D (research and
-    r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w+[ \r\t\f\-])+[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return t
-
-# fechar parenteses
-def t_f_parenteses(t): # measurement)
-    r'[ \r\t\f]*\w+(([ \r\t\f]\w+)*)?\)[ \r\t\f]*'
-    t.lexer.push_state('ptsearch')
-    return t
 
 
 def t_ptsearch_portugueseTranslation(t): # includes () í ,
