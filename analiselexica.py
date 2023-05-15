@@ -50,14 +50,12 @@ def t_initial_letter(t): #example: A\n
 
 def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report      OU     I.O.U. (I owe you)      OU    buyers's market    OU    cost-volume-analysis
     r'\(?\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = t.value.strip()
     return t
 
 def t_baseword(t): #example: automatic data: \n  OU  administration:   ( pode ter tradução a seguir: "administração (f)" )
     r'[ \r\t\f]*\w[ \r\t\f\w\-]*:'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     # print(t.value.strip(':'))
     t.value = t.value.strip(':')
@@ -78,7 +76,6 @@ def t_baseword_error(t): #example: worth\n
 
 def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of responsibilities rof (ROFR)
     r'[ \r\t\f]*-[ \r\t\f]+\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", t.lexer.word + " ", t.value)
     t.value = t.value.strip()
@@ -88,7 +85,6 @@ def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of respon
 # ERRO de FORMATO
 def t_prefix_word_error(t): # example: -, insurance and freight
     r'[ \r\t\f]*\-\,[ \r\t\f]\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-\,[ \r\t\f]+", t.lexer.word + " ", t.value).strip()
     return t
@@ -97,12 +93,11 @@ def t_prefix_word_error_2(t): #  - volume ratio (P/V)\n
     r'[ \r\t\f]*-[ \r\t\f]\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\n'
     t.lexer.lineno += 1
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", t.lexer.word + " ", t.value)
-    t.value = t.value.strip('\n')
+    t.value = t.value.strip()
     return t 
 
 def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)      OR       buyers'
     r'[ \r\t\f]*\w[\w\-\,\']*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", " " + t.lexer.word + " ", t.value).strip()
     return t
@@ -115,7 +110,6 @@ def t_middle1_word_error(t): #example:  sales -\n
 
 def t_middle1_word_error_2(t): # down.the -
     r'[ \r\t\f]*\w[\w\-\,\.]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-", t.lexer.word, t.value)
     t.value = re.sub("\.", " ", t.value).strip()
@@ -123,7 +117,6 @@ def t_middle1_word_error_2(t): # down.the -
 
 def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - tax (VTAT)    OU    quality (QC) -
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f][\w\(\)][\w\-\,\)]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", " " + t.lexer.word + " ", t.value).strip()
     return t
@@ -147,14 +140,12 @@ def t_middle2_word_error(t): # example:  management information -\n    OU     # 
 
 def t_middle_word_5(t): # source and - of funds
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-", " " + t.lexer.word + " ", t.value).strip()
     return t
 
 def t_suffix_word(t): #example:  value tax final - (VTFA)
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]*", " " + t.lexer.word + " ", t.value).strip()
     return t
@@ -162,14 +153,12 @@ def t_suffix_word(t): #example:  value tax final - (VTFA)
 # ERRO de FORMATO
 def t_suffix_error(t): #automatic data (ADP)-
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\(\w[\w\-\,]*\)-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("\-[ \r\t\f]", t.lexer.word + " ", t.value).strip()
     return t
 
 def t_double_word(t): #example: - base -     OU           price - earnings - (PIE)
     r'[ \r\t\f]*(\w[\w\-\,]*[ \r\t\f])?\-[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("\-[ \r\t\f]", t.lexer.word + " ", t.value)
     t.value = re.sub("[ \r\t\f]\-[ \r\t\f]", " " + t.lexer.word + " ", t.value).strip()
@@ -178,7 +167,6 @@ def t_double_word(t): #example: - base -     OU           price - earnings - (PI
 # ERRO DE FORMATO
 def t_prefix_error_word(t) : # example: -structuring
     r'[ \r\t\f]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-", t.lexer.word + " ", t.value).strip()
     return t
@@ -186,7 +174,6 @@ def t_prefix_error_word(t) : # example: -structuring
 # ERRO DE FORMATO
 def t_middle_error_word(t): #exameple: semi-costs
     r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
     t.lexer.push_state('ptsearch')
     t.value = re.sub("\-", t.lexer.word + " ", t.value).strip()
     return t
@@ -194,14 +181,14 @@ def t_middle_error_word(t): #exameple: semi-costs
 # ERRO DE FORMATO
 def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)
     r'[ \r\t\f]*(\w[\w\,]*[ \r\t\f])?\w[\w\,]*-([ \r\t\f]\w[\w\-,]*)*(\(\w*\))*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
+    t.value = re.sub("\-", " " + t.lexer.word + " ", t.value).strip()
     t.lexer.push_state('ptsearch')
     return t
 
 # Sigla - Acronim
 def t_abbreviation(t): # (PMTS)
     r'[ \r\t\f]*\(\w[\w,]*\)[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
+    t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return 
 
@@ -209,26 +196,27 @@ def t_abbreviation(t): # (PMTS)
 # abrir parenteses
 def t_a_parenteses(t): # CWM (clerical work     OU     EEC (European Economic Com-            OU    R and D (research and
     r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w[\w\,]*([ \r\t\f\-])?)+[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
+    t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return t
 
 # fechar parenteses
 def t_f_parenteses(t): # measurement)
     r'[ \r\t\f]*\w+(([ \r\t\f]\w+)*)?\)[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
+    t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return t
 
 # às vezes pode n
 def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início        OU     (O and M)
     r'[ \r\t\f]+\(?\w[\w\,\-]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
-    t.lexer.lineno += str(t.value).count('\n')
+    t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return t
 
 def t_no_hifen_paragraph(t): # return on capital\n
     r'[ \r\t\f]*\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\n'
+    t.value = t.value.strip()
     t.lexer.lineno += 1
     return t
 
@@ -248,6 +236,12 @@ def t_ptsearch_portugueseTranslation(t): # includes () í ,
     r'[^\n]*\n([ \r\t\f]{10}[^\n]*\n)*'
     t.lexer.pop_state()
     t.lexer.lineno += str(t.value).count('\n')
+    list = t.value.split()
+    t.value = ""
+    for l in list:
+        if t.value != "": # empty string 
+            t.value += " "
+        t.value += l.strip()
     return t
 
 # ERRO DE FORMATO
@@ -255,6 +249,7 @@ def t_ptsearch_portugueseTranslationError(t): # example: treinamento (mj dentro 
     r'[^\n]*\n([ \r\t\f]{10}[^\)\n]*\n)*'
     t.lexer.pop_state()
     t.lexer.lineno += str(t.value).count('\n')
+    t.value = t.value.strip()
     return t
     
 t_ANY_ignore = ""
