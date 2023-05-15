@@ -2,17 +2,27 @@ Created by PLY version 3.11 (http://www.dabeaz.com/ply)
 
 Unused terminals:
 
+    a_parenteses
+    abbreviation
     baseword_error
     double_word
+    f_parenteses
     middle1_word
     middle1_word_error
+    middle1_word_error_2
     middle2_word
+    middle2_word_error
     middle_error_word
-    no_word
+    middle_word_5
+    no_hifen
+    no_hifen_paragraph
     paragraph
     portugueseTranslationError
     prefix_error_word
     prefix_word
+    prefix_word_error
+    prefix_word_error_2
+    suffix_error
     suffix_error_word
     suffix_word
 
@@ -28,22 +38,32 @@ Rule 6     translations -> <empty>
 
 Terminals, with rules where they appear
 
+a_parenteses         : 
+abbreviation         : 
 baseword             : 5
 baseword_error       : 
 double_word          : 
 error                : 
+f_parenteses         : 
 initial_letter       : 3
 middle1_word         : 
 middle1_word_error   : 
+middle1_word_error_2 : 
 middle2_word         : 
+middle2_word_error   : 
 middle_error_word    : 
-no_word              : 
+middle_word_5        : 
+no_hifen             : 
+no_hifen_paragraph   : 
 normalword           : 4
 paragraph            : 
 portugueseTranslation : 4 5
 portugueseTranslationError : 
 prefix_error_word    : 
 prefix_word          : 
+prefix_word_error    : 
+prefix_word_error_2  : 
+suffix_error         : 
 suffix_error_word    : 
 suffix_word          : 
 

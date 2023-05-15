@@ -6,7 +6,7 @@ _tabversion = '3.10'
 
 _lr_method = 'LALR'
 
-_lr_signature = 'baseword baseword_error double_word initial_letter middle1_word middle1_word_error middle2_word middle_error_word no_word normalword paragraph portugueseTranslation portugueseTranslationError prefix_error_word prefix_word suffix_error_word suffix_wordDict : Alphsection DictDict : Alphsection : initial_letter translationstranslations : normalword portugueseTranslation translationstranslations : baseword portugueseTranslation translationstranslations : '
+_lr_signature = 'a_parenteses abbreviation baseword baseword_error double_word f_parenteses initial_letter middle1_word middle1_word_error middle1_word_error_2 middle2_word middle2_word_error middle_error_word middle_word_5 no_hifen no_hifen_paragraph normalword paragraph portugueseTranslation portugueseTranslationError prefix_error_word prefix_word prefix_word_error prefix_word_error_2 suffix_error suffix_error_word suffix_wordDict : Alphsection DictDict : Alphsection : initial_letter translationstranslations : normalword portugueseTranslation translationstranslations : baseword portugueseTranslation translationstranslations : '
     
 _lr_action_items = {'$end':([0,1,2,3,4,5,8,9,10,11,],[-2,0,-2,-6,-1,-3,-6,-6,-4,-5,]),'initial_letter':([0,2,3,5,8,9,10,11,],[3,3,-6,-3,-6,-6,-4,-5,]),'normalword':([3,8,9,],[6,6,6,]),'baseword':([3,8,9,],[7,7,7,]),'portugueseTranslation':([6,7,],[8,9,]),}
 
@@ -27,10 +27,10 @@ for _k, _v in _lr_goto_items.items():
 del _lr_goto_items
 _lr_productions = [
   ("S' -> Dict","S'",1,None,None,None),
-  ('Dict -> Alphsection Dict','Dict',2,'p_dict2','analisesintatica.py',41),
-  ('Dict -> <empty>','Dict',0,'p_dict1','analisesintatica.py',45),
-  ('Alphsection -> initial_letter translations','Alphsection',2,'p_Alphsection1','analisesintatica.py',49),
-  ('translations -> normalword portugueseTranslation translations','translations',3,'p_translations1','analisesintatica.py',53),
-  ('translations -> baseword portugueseTranslation translations','translations',3,'p_translations2','analisesintatica.py',57),
-  ('translations -> <empty>','translations',0,'p_translations3','analisesintatica.py',61),
+  ('Dict -> Alphsection Dict','Dict',2,'p_dict2','analisesintatica.py',32),
+  ('Dict -> <empty>','Dict',0,'p_dict1','analisesintatica.py',36),
+  ('Alphsection -> initial_letter translations','Alphsection',2,'p_Alphsection1','analisesintatica.py',40),
+  ('translations -> normalword portugueseTranslation translations','translations',3,'p_translations1','analisesintatica.py',44),
+  ('translations -> baseword portugueseTranslation translations','translations',3,'p_translations2','analisesintatica.py',49),
+  ('translations -> <empty>','translations',0,'p_translations3','analisesintatica.py',54),
 ]
