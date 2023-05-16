@@ -48,7 +48,7 @@ def t_initial_letter(t): #example: A\n
     t.value = t.value.strip()
     return t
 
-def t_normalword(t):#example: dole (do ot lex example)     OU    yearly report      OU     I.O.U. (I owe you)      OU    buyers's market    OU    cost-volume-analysis
+def t_normalword(t):#example: yearly report      OU     I.O.U. (I owe you)      OU    buyers's market    OU    cost-volume-analysis
     r'\(?\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     t.value = t.value.strip()
@@ -303,7 +303,7 @@ while tok := lexer.token():
     print(tok)
 #'''
 
-''' a_parenteses + ptsearch_portugueseTranslation + f_parenteses       ------>  Ver na análise sintática
+''' a_parenteses + ptsearch_portugueseTranslation + f_parenteses + portugueseTranslation(EMPTY)      ------>  Ver na análise sintática
 CWM (clerical work              medição (f) de trabalho
                                    administrativo
 measurement)

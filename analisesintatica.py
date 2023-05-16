@@ -26,6 +26,10 @@ chief                             chefe (m) de contabilidade
 
 """TODO"""
 
+class Base:
+    base_word = ''
+    portugueseTranslation = ''
+    dictionaryWords = {}
 
 
 def p_dict2(p):
@@ -42,13 +46,42 @@ def p_Alphsection1(p):
 
 def p_translations1(p):
     "translations : normalword portugueseTranslation translations"
-    p[3][p[1]] = p[2]
-    p[0] = p[3]
+    if p[2] == "":
+        pass
+    else: 
+        p[3][p[1]] = p[2]
+        p[0] = p[3]
     
 def p_translations2(p):
-    "translations : baseword portugueseTranslation translations"
-    p[3][p[1]] = p[2]
-    p[0] = p[3]
+    '''
+    translations : baseword portugueseTranslation multipleTranslations translations
+                 | baseword_error multipleTranslations translations
+    '''
+
+    base = Base() # inicializar 
+
+    if len(p) == 5: # translations : baseword portugueseTranslation multipleTranslations translations
+        if p[2] == "": #aqui verificamos que a string portuguese translation é empty
+            pass
+        else: #caso contrário, p[3][p[1]] é igual a portuguese translation
+            base.portugueseTranslation = p[2]
+        
+        base.base_word = p[1]
+        base.dictionaryWords = p[3]
+        p[4][p[1]] = base
+
+        p[0] = p[4]
+    else: # translations : baseword_error multipleTranslations translations
+        # não existe string portugueseTranslation
+
+        base.base_word = p[1]
+        base.dictionaryWords = p[2]
+        p[3][p[1]] = base
+        p[0] = p[3]
+     
+def p_multipleTranslations(p):
+    "multipleTranslations: a_parenteses ptsearch_portugueseTranslation f_parenteses ptsearch_portugueseTranslation multipleTranslations"
+
 
 def p_translations3(p):
     "translations : "
