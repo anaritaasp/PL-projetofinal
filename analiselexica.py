@@ -37,6 +37,7 @@ tokens = (
     'paragraph',
 )
 
+
 def t_paragraph(t):
     r'\n'
     t.lexer.lineno += 1
@@ -187,8 +188,8 @@ def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)
     return t
 
 # Sigla - Acronim
-def t_abbreviation(t): # (PMTS)
-    r'[ \r\t\f]*\(\w[\w,]*\)[ \r\t\f]*'
+def t_abbreviation(t): # (PMTS)    OU    (O and M)
+    r'[ \r\t\f]*\(\w[\w, \r\t\f]*\)[ \r\t\f]*'
     t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return 
@@ -209,7 +210,7 @@ def t_f_parenteses(t): # measurement)
     return t
 
 # às vezes pode n
-def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início        OU     (O and M)
+def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início
     r'[ \r\t\f]+\(?\w[\w\,\-]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
     t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
@@ -260,36 +261,11 @@ lexer.word = None # por agora, não tem palavra para substituição
 with open('dic-finance-en.pt.txt', 'r') as file:
     data = file.read()
 
-text = '''A
-ADP (automatic data processing)   processamento (m) automático de
-                                   dados
-absenteeism                       absenteísmo (m)
-absorption costing                custeio (f) de absorção
-abandonment:
- product -                        retirada (f) de um produto
-above par                         com ágio; acima da paridade
-acceleration clause               cláusula (f) de aceleração
-acceptance:                       aceitação (f)
- brand -                          aceitação (f) de uma marca
- consumer -                       aceitação (f) por parte do consumidor
-access:
- multi -                          acesso (m) múltiplo
- random -                         acesso (m) casual
-account:
- bank -                           conta (f) bancária
- joint -                          conta (f) conjunta
-accountability                    responsabilidade (f) sujeita a
-                                   prestação de contas
-accountant:
-
-chief                             chefe (m) de contabilidade
-'''
-
 
 
 lexer.input(data)
 
-print(lexer.token())
+#print(lexer.token())
 
 
 
@@ -316,4 +292,8 @@ while tok := lexer.token():
   (COINS)                     sistema (m) computadorizado de dados
  management information -
   (MIS)                       sistema (m) de dados para gestão 
+'''
+'''
+ organisation and methods
+ (O and M)                  organização (f) e métodos (mpl)
 '''
