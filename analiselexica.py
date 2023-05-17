@@ -74,10 +74,11 @@ def t_baseword_error(t): #example: worth\n
 # The third word is facultative!!!!!
 # Pode incluir outros casos como:    to-rule   (to -)
 
-def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of responsibilities rof (ROFR)
+def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of responsibilities rof (ROFR)     OR     - to-rule (to -)
     r'[ \r\t\f]*-[ \r\t\f]+\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", t.lexer.word + " ", t.value)
+    t.value = re.sub("[ \r\t\f]\-", " " + t.lexer.word, t.value)
     t.value = t.value.strip()
     # print(t.value)
     return t
@@ -175,7 +176,7 @@ def t_prefix_error_word(t) : # example: -structuring
 def t_middle_error_word(t): #exameple: semi-costs
     r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
-    t.value = re.sub("\-", t.lexer.word + " ", t.value).strip()
+    t.value = re.sub("\-", " " + t.lexer.word + " ", t.value).strip()
     return t
 
 # ERRO DE FORMATO
@@ -223,12 +224,6 @@ def t_no_hifen_paragraph(t): # return on capital\n
 '''
  - measurement                medição (f) de trabalho
  clerical-measurement (CWM)   medição (f) de trabalho administrativo
-'''
-'''
-def t_continue_word(t):
-    r''
-    t.lexer.push_state('ptsearch')
-    return t
 '''
 
 
@@ -303,20 +298,22 @@ while tok := lexer.token():
     print(tok)
 #'''
 
-''' a_parenteses + ptsearch_portugueseTranslation + f_parenteses + portugueseTranslation(EMPTY)      ------>  Ver na análise sintática
-CWM (clerical work              medição (f) de trabalho
-                                   administrativo
-measurement)
-
-
-a_parenteses + ptsearch_portugueseTranslation + f_parenteses + ptsearch_portugueseTranslation
-
-COINS (computerised information
- system)                        sistema (m) computadorizado de dados
-
-
-'''
 
 
 
 #  resale price-(RPM)
+
+
+'''
+ planning-programming -       sistema (m) orçamentário de
+  budgeting- (PPBS)            planejamento e programação
+ predetermined motion time    sistema (m) de movimentos
+  (PMTS)                       pré-determinados
+
+
+
+ computerised information -
+  (COINS)                     sistema (m) computadorizado de dados
+ management information -
+  (MIS)                       sistema (m) de dados para gestão 
+'''

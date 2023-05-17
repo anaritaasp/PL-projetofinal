@@ -78,51 +78,132 @@ def p_translations2(p):
         base.dictionaryWords = p[2]
         p[3][p[1]] = base
         p[0] = p[3]
-     
-def p_multipleTranslations(p):
-    "multipleTranslations: a_parenteses ptsearch_portugueseTranslation f_parenteses ptsearch_portugueseTranslation multipleTranslations"
 
 
-def p_translations3(p):
+# LAFTA (Latin American Free      ALALC (Associação Latino-
+#           Trade Association)   Americana de Livre Comércio)
+def p_multipleTranslations1(p):
+    "multipleTranslations : a_parenteses portugueseTranslation f_parenteses portugueseTranslation multipleTranslations"
+    
+    #string que guarda as portugueseTranslations
+    portugueseTranslation = ""
+
+    if p[2] == "": #se ptsearch_portugueseTranslation é empty
+        pass 
+    else:   #otherwise, p[2] = Portuguese translation
+        portugueseTranslation += p[2]
+        
+    if p[4] == "": #verificar se a segunda PortugueseTranslation é empty
+        pass 
+    else:   
+        portugueseTranslation += " " + p[4] 
+        
+    # o resto:
+    total_parenteses = p[1] + p[3] #abre parenteses + fechar parenteses
+    
+    p[5][total_parenteses] = portugueseTranslation 
+    p[0] = p[5]
+    
+
+#Latin American Free Trade   Associação (f) Latino-Americana de
+#  Association (LAFTA)         Livre Comércio (ALALC)    
+def p_multipleTranslations2(p):
+    "multipleTranslations : normalword portugueseTranslation no_hifen portugueseTranslation multipleTranslations"
+    #string que guarda as portugueseTranslations
+    portugueseTranslation = ""
+    
+    if p[2] == "":
+        pass
+    else:
+        portugueseTranslation += p[2]
+    
+    if p[4] == "": #verificar se a segunda PortugueseTranslation é empty
+        pass 
+    else:   
+        portugueseTranslation += " " + p[4] 
+    
+    # o resto:
+    final_word = p[1] + p[3] #juntamos a palavra em ingles com a linha de baixo que tem a sua continuação
+    
+    p[5][final_word] = portugueseTranslation 
+    p[0] = p[5] #output
+
+#  management information -
+#  (MIS)                       sistema (m) de dados para gestão
+# return on -
+#   employed (ROCE)      rendimento (m) do capital investido
+def p_multipleTranslations3(p):
+    '''
+    multipleTranslations : middle2_word_error abbreviation portugueseTranslation multipleTranslations
+                         | middle2_word_error no_hifen portugueseTranslation multipleTranslations
+    '''
+    final_word = p[1] + " " + p[2]
+    portugueseTranslation = p[3]
+    p[4][final_word] = portugueseTranslation
+    p[0] = p[4]
+            
+# planning-programming -       sistema (m) orçamentário de
+#  budgeting- (PPBS)            planejamento e programação
+# 
+# predetermined motion time    sistema (m) de movimentos
+#  (PMTS)                       pré-determinados
+def p_multipleTranslations4(p):
+    '''
+    multipleTranslations : suffix_word portugueseTranslation  suffix_error_word portugueseTranslation multipleTranslations
+                         | no_hifen portugueseTranslation abbreviation portugueseTranslation multipleTranslations
+    '''
+    final_word = p[1] + " " + p[3]
+    portugueseTranslation = p[2] + " " + p[4]
+    p[5] [final_word] = portugueseTranslation
+    p[0] = p[5]
+
+# return on capital
+#   employed (ROCE)          rendimento (m) de capital investido
+def p_multipleTranslations5(p):
+    "multipleTranslations : no_hifen_paragraph no_hifen portugueseTranslation multipleTranslations"
+    
+    final_word = p[1] + " " + p[2]
+
+    p[4][final_word] = p[3]
+    p[0] = p[4]
+    
+
+# - within industry (TWI)   treinamento (mj dentro da indústria
+
+#  - volume ratio (P/V)
+#                            movimento
+def p_multipleTranslations6(p):
+    '''
+    multipleTranslations : prefix_word portugueseTranslationError multipleTranslations
+                         | prefix_word portugueseTranslation multipleTranslations
+                         | prefix_word_error portugueseTranslation multipleTranslations
+                         | prefix_word_error_2 portugueseTranslation multipleTranslations
+                         | middle1_word portugueseTranslation multipleTranslations
+                         | middle1_word_error portugueseTranslation multipleTranslations
+                         | middle1_word_error_2 portugueseTranslation multipleTranslations
+                         | middle2_word portugueseTranslation multipleTranslations
+                         | middle_word_5 portugueseTranslation multipleTranslations
+                         | suffix_word portugueseTranslation multipleTranslations
+                         | suffix_error portugueseTranslation multipleTranslations
+                         | double_word portugueseTranslation multipleTranslations
+                         | prefix_error_word portugueseTranslation multipleTranslations
+                         | middle_error_word portugueseTranslation multipleTranslations
+                         | suffix_error_word portugueseTranslation multipleTranslations                
+    '''
+    p[3][p[1]] = p[2]
+    p[0] = p[3]                     
+    
+def p_multipleTranslations7(p):
+    "multipleTranslations : "
+    p[0] = {}
+      
+#definimos um caso para o vazio      
+def p_translations3(p): 
     "translations : "
     p[0] = {}
 
 def p_error(p):
-    print(f"Erro sintático: {p.value}")
+    print(f"Erro sintático")
 
 parser = yacc.yacc()
 print(parser.parse(text))
-
-'''
-a_parenteses + ptsearch_portugueseTranslation + f_parenteses + ptsearch_portugueseTranslation
-
-LAFTA (Latin American Free      ALALC (Associação Latino-
-           Trade Association)   Americana de Livre Comércio)
-'''
-
-'''
-normal_word + ptsearch_portugueseTranslation + no_hifen + ptsearch_portugueseTranslation
-
-Latin American Free Trade   Associação (f) Latino-Americana de
-  Association (LAFTA)         Livre Comércio (ALALC)
-'''
-
-''' a_parenteses + ptsearch_portugueseTranslation + f_parenteses       ------>  Ver na análise sintática
-CWM (clerical work              medição (f) de trabalho
-                                   administrativo
-measurement)
-
-
-a_parenteses + ptsearch_portugueseTranslation + f_parenteses + ptsearch_portugueseTranslation
-
-COINS (computerised information
- system)                        sistema (m) computadorizado de dados
-
-
-'''
-
-
-''' middle2_word_error + abreviattion + translation   ----> VER NA ANALISE SINTÁTICA
- management information -
-  (MIS)                       sistema (m) de dados para gestão
-'''
