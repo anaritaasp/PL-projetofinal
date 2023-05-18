@@ -31,10 +31,11 @@ tokens = (
     'no_hifen_paragraph', # return on capital\n
     'normalword', # an english word to be translated (doesn't have a type)
     'a_parenteses', # CWM (clerical work
+    'a_parenteses_paragraph', # ROCE (return on capital\n
     'f_parenteses', # measurement)
     'portugueseTranslation', #the portuguese sentence appears after more than \t before the end of the current line  
     'portugueseTranslationError', # example: treinamento (mj dentro da indústria
-    'paragraph',
+    'paragraph', # token extra
 )
 
 
@@ -50,15 +51,15 @@ def t_initial_letter(t): #example: A\n
     return t
 
 def t_normalword(t):#example: yearly report      OU     I.O.U. (I owe you)      OU    buyers's market    OU    cost-volume-analysis
-    r'\(?\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
+    r'\w[\w\'\-\.\']*([ \r\t\f]\w[\w\-]*)*([ \r\t\f]\([^\)\n]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     t.value = t.value.strip()
+    t.lexer.word = t.value
     return t
 
 def t_baseword(t): #example: automatic data: \n  OU  administration:   ( pode ter tradução a seguir: "administração (f)" )
     r'[ \r\t\f]*\w[ \r\t\f\w\-]*:'
     t.lexer.push_state('ptsearch')
-    # print(t.value.strip(':'))
     t.value = t.value.strip(':')
     t.lexer.word = t.value
     return t
@@ -66,7 +67,6 @@ def t_baseword(t): #example: automatic data: \n  OU  administration:   ( pode te
 # Falta os : no final
 def t_baseword_error(t): #example: worth\n   
     r'[ \r\t\f]*\w\w+\n'
-    t.lexer.push_state('ptsearch')
     t.lexer.lineno += 1
     t.value = t.value.strip()
     t.lexer.word = t.value
@@ -123,17 +123,6 @@ def t_middle2_word(t): #example:  value tax - (VAT)         OR    value Tax - ta
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", " " + t.lexer.word + " ", t.value).strip()
     return t
 
-
-''' middle2_word_error + abreviattion + translation   ----> VER NA ANALISE SINTÁTICA
- management information -
-  (MIS)                       sistema (m) de dados para gestão
-
-middle2_word_error + no_hifen + translation  
-
- return on -
-   employed (ROCE)      rendimento (m) do capital investido
-'''
-
 def t_middle2_word_error(t): # example:  management information -\n    OU     #  return on -\n
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?\n'
     t.lexer.lineno += 1
@@ -188,11 +177,11 @@ def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)
     return t
 
 # Sigla - Acronim
-def t_abbreviation(t): # (PMTS)    OU    (O and M)
+def t_abbreviation(t): # (PMTS)    OU    (O and M)    OU    (PPBS)
     r'[ \r\t\f]*\(\w[\w, \r\t\f]*\)[ \r\t\f]*'
     t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
-    return 
+    return t
 
 
 # abrir parenteses
@@ -200,6 +189,12 @@ def t_a_parenteses(t): # CWM (clerical work     OU     EEC (European Economic Co
     r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w[\w\,]*([ \r\t\f\-])?)+[ \r\t\f]{3}[ \r\t\f]*'
     t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
+    return t
+
+# com paragrafo no final
+def t_a_parenteses_paragraph(t): # ROCE (return on capital\n
+    r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w[\w\,]*([ \r\t\f\-])?)+\n'
+    t.value = t.value.strip()
     return t
 
 # fechar parenteses
@@ -227,24 +222,30 @@ def t_no_hifen_paragraph(t): # return on capital\n
  clerical-measurement (CWM)   medição (f) de trabalho administrativo
 '''
 
-
+'''
+ performance -                   controle (m) orçamentário de rendimen-
+                                 to
+'''
 def t_ptsearch_portugueseTranslation(t): # includes () í ,
-    r'[^\n]*\n([ \r\t\f]{10}[^\n]*\n)*'
+    r'[^\n]*\n([ \r\t\f]{12}[^\n]*\n)*'
     t.lexer.pop_state()
     t.lexer.lineno += str(t.value).count('\n')
     list = t.value.split()
     t.value = ""
     for l in list:
-        if t.value != "": # empty string 
+        if l[len(l) - 1] == '-':
+            l = l[:-1]
+        elif t.value != "": # empty string 
             t.value += " "
         t.value += l.strip()
     return t
 
 # ERRO DE FORMATO
 def t_ptsearch_portugueseTranslationError(t): # example: treinamento (mj dentro da indústria
-    r'[^\n]*\n([ \r\t\f]{10}[^\)\n]*\n)*'
+    r'[^\n]*\n([ \r\t\f]{12}[^\)\n]*\n)*'
     t.lexer.pop_state()
     t.lexer.lineno += str(t.value).count('\n')
+    t.value = re.sub
     t.value = t.value.strip()
     return t
     
@@ -269,11 +270,10 @@ lexer.input(data)
 
 
 
-#'''
+'''
 while tok := lexer.token():
     print(tok)
-#'''
-
+'''
 
 
 

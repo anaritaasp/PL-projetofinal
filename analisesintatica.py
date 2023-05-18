@@ -2,15 +2,7 @@ import ply.yacc as yacc
 
 from analiselexica import tokens
 
-precedence = (
-    ('left', 'middle2_word'),
-    ('left', 'abbreviation'),
-)
 
-
-dicionario = {}
-
-# normalword      no_hifen
 #  - overheads            despesas (fpl) de administração     ->   fpl -> feminino plural
 # m -> masculino singular
 # f -> feminino singular
@@ -18,18 +10,15 @@ dicionario = {}
 
 text = '''
 A
-ADP (automatic data processing)   processamento (m) automático de
-                                   dados
-absenteeism                       absenteísmo (m)
-absorption costing                custeio (f) de absorção
-abandonment:
- product -                        retirada (f) de um produto
-above par                         com ágio; acima da paridade
-acceleration clause               cláusula (f) de aceleração
-acceptance:                       aceitação (f)
- brand -                          aceitação (f) de uma marca
- consumer -                       aceitação (f) por parte do consumidor
-access:
+response:
+ anticipatory -             resposta (f) antecipada
+ lag -                      resposta (f) retardada
+responsibilities:
+ allocation of -            distribuição (f) de responsabilidades
+responsibility:
+ - accounting               custeio (m) por responsabilidades
+ functional -               responsabilidade (f) funcional
+ linear -                   responsabilidade (f) linear
 
 '''
 
@@ -51,68 +40,24 @@ def p_Alphsection(p):
     "Alphsection : initial_letter translations"
     p[0] = {p[1]:p[2]}
 
-
 def p_translations1(p):
-    "translations : normalword portugueseTranslation translations"
+    "translations : normalword traducao translations"
     p[3][p[1]] = p[2]
     p[0] = p[3] 
-
-def p_translations2(p):
-    '''
-    translations : baseword portugueseTranslation multipleTranslations translations
-                 | baseword_error multipleTranslations translations
-    '''
-
-    if len(p) == 5: # translations : baseword portugueseTranslation multipleTranslations translations
-        p[4][p[1]] = (p[1], p[2], p[3])
-        p[0] = p[4]
-    else: # translations : baseword_error multipleTranslations translations
-        # não existe string portugueseTranslation
-        p[3][p[1]] = (p[1], p[2], p[3])
-        p[0] = p[3]
-
-#definimos um caso para o vazio      
-def p_translations3(p): 
-    "translations : "
-    p[0] = {}
-
-# LAFTA (Latin American Free      ALALC (Associação Latino-
-#           Trade Association)   Americana de Livre Comércio)
-def p_multipleTranslations1(p):
-    "multipleTranslations : a_parenteses portugueseTranslation f_parenteses portugueseTranslation multipleTranslations"
-    
-    #string que guarda as portugueseTranslations
-    portugueseTranslation = ""
-
-    if p[2] == "": #se ptsearch_portugueseTranslation é empty
-        pass 
-    else:   #otherwise, p[2] = Portuguese translation
-        portugueseTranslation += p[2]
-        
-    if p[4] == "": #verificar se a segunda PortugueseTranslation é empty
-        pass 
-    else:   
-        portugueseTranslation += " " + p[4] 
-        
-    # o resto:
-    total_parenteses = p[1] + p[3] #abre parenteses + fechar parenteses
-    
-    p[5][total_parenteses] = portugueseTranslation 
-    p[0] = p[5]
-    
 
 
 #Latin American Free Trade   Associação (f) Latino-Americana de
 #  Association (LAFTA)         Livre Comércio (ALALC)    
-def p_multipleTranslations2(p):
-    "multipleTranslations : normalword portugueseTranslation no_hifen portugueseTranslation multipleTranslations"
+#
+# clerical work measurement   medição (f) de trabalho administrativo
+# (CWM)
+def p_translations2(p):
+    '''
+    translations : normalword traducao no_hifen traducao translations
+                 | normalword traducao abbreviation traducao translations
+    '''
     #string que guarda as portugueseTranslations
-    portugueseTranslation = ""
-    
-    if p[2] == "":
-        pass
-    else:
-        portugueseTranslation += p[2]
+    portugueseTranslation = p[2]
     
     if p[4] == "": #verificar se a segunda PortugueseTranslation é empty
         pass 
@@ -127,15 +72,105 @@ def p_multipleTranslations2(p):
 
 
 
+# copyright                     direitos (mpl) reservados, direito
+#                                (m) autoral 
+#  - advertising              publicidade (f) empresarial
+#
+
+def p_translations3(p):
+    '''
+    translations : normalword traducao multipleTranslations translations
+    '''
+    p[4][p[1]] = (p[1], p[2], p[3])
+    p[0] = p[4]
+
+    
+def p_translations4(p):
+    '''
+    translations : baseword traducao multipleTranslations translations
+                 | baseword_error traducao multipleTranslations translations
+                 | baseword_error multipleTranslations translations
+    '''
+
+    if len(p) == 5: # translations : baseword traducao multipleTranslations translations
+        p[4][p[1]] = (p[1], p[2], p[3])
+        p[0] = p[4]
+    else: # translations : baseword_error multipleTranslations translations
+        # não existe string traducao
+        p[3][p[1]] = (p[1], p[2], p[3])
+        p[0] = p[3]
+
+
+
+# LAFTA (Latin American Free      ALALC (Associação Latino-
+#           Trade Association)   Americana de Livre Comércio)
+#
+# ROCE (return on capital
+#  employed)                       rendimento (m) do capital investido
+def p_translations5(p):
+    '''
+    translations : a_parenteses traducao f_parenteses traducao translations
+                 | a_parenteses_paragraph f_parenteses traducao translations
+    '''
+    
+    if len(p) == 6:
+        #string que guarda as portugueseTranslations
+        portugueseTranslation = p[2]
+        if p[2] != "": 
+            portugueseTranslation += " "
+        portugueseTranslation += p[4] 
+            
+        # o resto:
+        total_parenteses = p[1] + " " + p[3] #abre parenteses + fechar parenteses
+        
+        p[5][total_parenteses] = portugueseTranslation 
+        p[0] = p[5]
+    
+    else:
+        #string que guarda as portugueseTranslations
+        portugueseTranslation = p[3] 
+            
+        # o resto:
+        total_parenteses = p[1] + " " + p[2]  #abre parenteses + fechar parenteses
+        
+        p[4][total_parenteses] = portugueseTranslation 
+        p[0] = p[4]
+
+
+
+#R and D (research and            pesquisa (f) e desenvolvimento (m)
+# development\n
+def p_translations6(p):
+    '''
+    translations : a_parenteses traducao baseword_error translations
+    '''
+
+    #string que guarda as portugueseTranslations
+    portugueseTranslation = p[2]
+        
+    # o resto:
+    total_parenteses = p[1] + p[3] + ")" #abre parenteses + fechar parenteses
+    
+    p[4][total_parenteses] = portugueseTranslation 
+    p[0] = p[4]
+
+
+#definimos um caso para o vazio      
+def p_translations7(p): 
+    "translations : "
+    p[0] = {}
+
+
 
 #  management information -
 #  (MIS)                       sistema (m) de dados para gestão
+#
 # return on -
 #   employed (ROCE)      rendimento (m) do capital investido
 def p_multipleTranslations3(p):
     '''
-    multipleTranslations : middle2_word_error abbreviation portugueseTranslation multipleTranslations
-                         | middle2_word_error no_hifen portugueseTranslation multipleTranslations
+    multipleTranslations : middle2_word_error abbreviation traducao multipleTranslations
+                         | middle2_word_error no_hifen traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[2]
     portugueseTranslation = p[3]
@@ -153,19 +188,20 @@ def p_multipleTranslations3(p):
 #
 # computerised information -
 #  (COINS)                     sistema (m) computadorizado de dados
-'''
-multipleTranslations : middle1_word portugueseTranslation suffix_error_word portugueseTranslation multipleTranslations
-                    | no_hifen portugueseTranslation abbreviation portugueseTranslation multipleTranslations
-                    | middle2_word portugueseTranslation abbreviation portugueseTranslation multipleTranslations
-'''
-'''
-multipleTranslations : no_hifen portugueseTranslation abbreviation portugueseTranslation multipleTranslations
-'''
+#
+# planning programming - system   sistema (m) orçamentário de
+# (PPBS)                           programação e planejamento 
+#
+#
+#  predetermined - time system   sistema (m) de movimentos
+# (PMTS)                         pré-determinados
+
 def p_multipleTranslations4(p):
     '''
-    multipleTranslations : middle1_word portugueseTranslation suffix_error_word portugueseTranslation multipleTranslations
-                         | no_hifen portugueseTranslation abbreviation portugueseTranslation multipleTranslations
-                         | middle2_word portugueseTranslation abbreviation portugueseTranslation multipleTranslations
+    multipleTranslations : middle1_word traducao suffix_error_word traducao multipleTranslations
+                         | no_hifen traducao abbreviation traducao multipleTranslations
+                         | middle2_word traducao abbreviation traducao multipleTranslations
+                         | middle1_word traducao abbreviation traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[3]
     portugueseTranslation = p[2] + " " + p[4]
@@ -176,8 +212,14 @@ def p_multipleTranslations4(p):
 
 # return on capital
 #   employed (ROCE)          rendimento (m) de capital investido
+#
+#   organisation and methods
+#   (O and M)                  organização (f) e métodos (mpl)
 def p_multipleTranslations5(p):
-    "multipleTranslations : no_hifen_paragraph no_hifen portugueseTranslation multipleTranslations"
+    '''
+    multipleTranslations : no_hifen_paragraph no_hifen traducao multipleTranslations
+                         | no_hifen_paragraph abbreviation traducao multipleTranslations
+    '''
     
     final_word = p[1] + " " + p[2]
 
@@ -190,47 +232,61 @@ def p_multipleTranslations5(p):
 
 #  - volume ratio (P/V)
 #                            movimento
+
+#  (of personnel)                promoção (f) (de cargo)
 def p_multipleTranslations6(p):
     '''
-    multipleTranslations : prefix_word portugueseTranslation multipleTranslations
-                         | prefix_word_error portugueseTranslation multipleTranslations
-                         | prefix_word_error_2 portugueseTranslation multipleTranslations
-                         | middle1_word portugueseTranslation multipleTranslations
-                         | middle1_word_error portugueseTranslation multipleTranslations
-                         | middle1_word_error_2 portugueseTranslation multipleTranslations
-                         | middle2_word portugueseTranslation multipleTranslations
-                         | middle_word_5 portugueseTranslation multipleTranslations
-                         | suffix_word portugueseTranslation multipleTranslations
-                         | suffix_error portugueseTranslation multipleTranslations
-                         | double_word portugueseTranslation multipleTranslations
-                         | prefix_error_word portugueseTranslation multipleTranslations
-                         | middle_error_word portugueseTranslation multipleTranslations
-                         | suffix_error_word portugueseTranslation multipleTranslations             
+    multipleTranslations : prefix_word traducao multipleTranslations
+                         | prefix_word_error traducao multipleTranslations
+                         | prefix_word_error_2 traducao multipleTranslations
+                         | prefix_word_error_2 baseword_error multipleTranslations
+                         | middle1_word traducao multipleTranslations
+                         | middle1_word_error_2 traducao multipleTranslations
+                         | middle_word_5 traducao multipleTranslations
+                         | middle2_word traducao multipleTranslations
+                         | suffix_word traducao multipleTranslations
+                         | suffix_error traducao multipleTranslations
+                         | double_word traducao multipleTranslations
+                         | prefix_error_word traducao multipleTranslations
+                         | middle_error_word traducao multipleTranslations
+                         | suffix_error_word traducao multipleTranslations  
+                         | no_hifen traducao multipleTranslations   
+                         | abbreviation traducao multipleTranslations
     '''
     p[3][p[1]] = p[2]
     p[0] = p[3]                   
     
+# middle2_word_error ->  salary progression -
+def p_multipleTranslations9(p):
+    '''
+    multipleTranslations : middle1_word_error multipleTranslations
+                         | middle2_word_error multipleTranslations
+    '''
+    p[2][p[1]] = ""
+    p[0] = p[2] 
 
-def p_multipleTranslations7(p):
+def p_multipleTranslations8(p):
     "multipleTranslations : "
     p[0] = {}
+
+def p_traducao(p):
+    '''
+    traducao : portugueseTranslationError
+             | portugueseTranslation
+    '''
+    p[0] = p[1]
+
 
 def p_error(p):
     print(f"Erro sintático: " + p.value)
 
 
 
-# Tentativa de resolução de conflitos 
-
-# planning-programming -       sistema (m) orçamentário de
-#  budgeting- (PPBS)            planejamento e programação    
-# (suffix_word portugueseTranslation suffix_error_word portugueseTranslation)
-
-# com
-
-# shift -    (suffix_word portugueseTranslation)
-
+with open('dic-finance-en.pt.txt', 'r') as file:
+    data = file.read()
 
 parser = yacc.yacc()
-print(parser.parse(text, debug=1))
+#print(parser.parse(data)) #print(parser.parse(text, debug=1)) #print(parser.parse(text))
+dicionario = parser.parse(data)
 
+print(dicionario)
