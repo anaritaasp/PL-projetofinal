@@ -1,3 +1,4 @@
+from collections import OrderedDict
 import ply.yacc as yacc
 
 from analiselexica import tokens
@@ -288,5 +289,7 @@ with open('dic-finance-en.pt.txt', 'r') as file:
 parser = yacc.yacc()
 #print(parser.parse(data)) #print(parser.parse(text, debug=1)) #print(parser.parse(text))
 dicionario = parser.parse(data)
+
+dicionario = OrderedDict(reversed(list(dicionario)))
 
 print(dicionario)
