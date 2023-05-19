@@ -1,4 +1,5 @@
 from collections import OrderedDict
+import re
 import ply.yacc as yacc
 
 from analiselexica import tokens
@@ -27,7 +28,10 @@ def p_Alphsection(p):
 
 def p_translations1(p):
     "translations : normalword traducao translations"
-    p[3][p[1]] = (p[1], p[2], {})
+    portugueseTranslations = [p[2]]
+    if re.search(r'[,;]', p[2]):
+        portugueseTranslations = re.split(r'[,;]\s*', p[2])
+    p[3][p[1]] = (p[1], portugueseTranslations, {})
     p[0] = p[3] 
 
 
@@ -49,10 +53,14 @@ def p_translations2(p):
     else:   
         portugueseTranslation += " " + p[4] 
     
+    portugueseTranslations = [portugueseTranslation]
+    if re.search(r'[,;]', portugueseTranslation):
+        portugueseTranslations = re.split(r'[,;]\s*', portugueseTranslation)
+
     # o resto:
     final_word = p[1] + p[3] #juntamos a palavra em ingles com a linha de baixo que tem a sua continuação
     
-    p[5][final_word] = (final_word, portugueseTranslation, {}) 
+    p[5][final_word] = (final_word, portugueseTranslations, {}) 
     p[0] = p[5] #output
 
 
@@ -66,7 +74,12 @@ def p_translations3(p):
     '''
     translations : normalword traducao multipleTranslations translations
     '''
-    p[4][p[1]] = (p[1], p[2], p[3])
+    
+    portugueseTranslations = [p[2]]
+    if re.search(r'[,;]', p[2]):
+        portugueseTranslations = re.split(r'[,;]\s*', p[2])
+
+    p[4][p[1]] = (p[1], portugueseTranslations, p[3])
     p[0] = p[4]
 
     
@@ -78,11 +91,14 @@ def p_translations4(p):
     '''
 
     if len(p) == 5: # translations : baseword traducao multipleTranslations translations
-        p[4][p[1]] = (p[1], p[2], p[3])
+        portugueseTranslations = [p[2]]
+        if re.search(r'[,;]', p[2]):
+            portugueseTranslations = re.split(r'[,;]\s*', p[2])
+        p[4][p[1]] = (p[1], portugueseTranslations, p[3])
         p[0] = p[4]
     else: # translations : baseword_error multipleTranslations translations
         # não existe string traducao
-        p[3][p[1]] = (p[1], "", p[2])
+        p[3][p[1]] = (p[1], [], p[2])
         p[0] = p[3]
 
 
@@ -104,21 +120,29 @@ def p_translations5(p):
         if p[2] != "": 
             portugueseTranslation += " "
         portugueseTranslation += p[4] 
+
+        portugueseTranslations = [portugueseTranslation]
+        if re.search(r'[,;]', portugueseTranslation):
+            portugueseTranslations = re.split(r'[,;]\s*', portugueseTranslation)
             
         # o resto:
         total_parenteses = p[1] + " " + p[3] #abre parenteses + fechar parenteses
         
-        p[5][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
+        p[5][total_parenteses] = (total_parenteses, portugueseTranslations, {}) 
         p[0] = p[5]
     
     else:
         #string que guarda as portugueseTranslations
         portugueseTranslation = p[3] 
+
+        portugueseTranslations = [portugueseTranslation]
+        if re.search(r'[,;]', portugueseTranslation):
+            portugueseTranslations = re.split(r'[,;]\s*', portugueseTranslation)
             
         # o resto:
         total_parenteses = p[1] + " " + p[2]  #abre parenteses + fechar parenteses
         
-        p[4][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
+        p[4][total_parenteses] = (total_parenteses, portugueseTranslations, {}) 
         p[0] = p[4]
 
 
@@ -132,11 +156,15 @@ def p_translations6(p):
 
     #string que guarda as portugueseTranslations
     portugueseTranslation = p[2]
+
+    portugueseTranslations = [portugueseTranslation]
+    if re.search(r'[,;]', portugueseTranslation):
+        portugueseTranslations = re.split(r'[,;]\s*', portugueseTranslation)
         
     # o resto:
     total_parenteses = p[1] + p[3] + ")" #abre parenteses + fechar parenteses
     
-    p[4][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
+    p[4][total_parenteses] = (total_parenteses, portugueseTranslations, {}) 
     p[0] = p[4]
 
 
@@ -160,7 +188,9 @@ def p_multipleTranslations3(p):
                          | middle2_word_error no_hifen traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[2]
-    portugueseTranslations = p[3].split(", ")
+    portugueseTranslations = [p[3]]
+    if re.search(r'[,;]', p[3]):
+        portugueseTranslations = re.split(r'[,;]\s*', p[3])
     p[4][final_word] = portugueseTranslations
     p[0] = p[4]
             
@@ -191,7 +221,10 @@ def p_multipleTranslations4(p):
                          | middle1_word traducao abbreviation traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[3]
-    portugueseTranslations = (p[2] + " " + p[4]).split(", ")
+    portugueseTranslation = (p[2] + " " + p[4])
+    portugueseTranslations = [portugueseTranslation]
+    if re.search(r'[,;]', portugueseTranslation):
+        portugueseTranslations = re.split(r'[,;]\s*', portugueseTranslation)
     p[5] [final_word] = portugueseTranslations
     p[0] = p[5]
 
@@ -210,7 +243,10 @@ def p_multipleTranslations5(p):
     
     final_word = p[1] + " " + p[2]
 
-    p[4][final_word] = p[3].split(", ")
+    portugueseTranslations = [p[3]]
+    if re.search(r'[,;]', p[3]):
+         portugueseTranslations = re.split(r'[,;]\s*', p[3])
+    p[4][final_word] = portugueseTranslations
     p[0] = p[4]
     
 
@@ -240,7 +276,12 @@ def p_multipleTranslations6(p):
                          | no_hifen traducao multipleTranslations   
                          | abbreviation traducao multipleTranslations
     '''
-    p[3][p[1]] = p[2].split(", ")
+
+    portugueseTranslations = [p[2]]
+    if re.search(r'[,;]', p[2]):
+        portugueseTranslations = re.split(r'[,;]\s*', p[2])
+    
+    p[3][p[1]] = portugueseTranslations
     p[0] = p[3]                   
     
 # middle2_word_error ->  salary progression -
@@ -249,7 +290,7 @@ def p_multipleTranslations9(p):
     multipleTranslations : middle1_word_error multipleTranslations
                          | middle2_word_error multipleTranslations
     '''
-    p[2][p[1]] = [""]
+    p[2][p[1]] = []
     p[0] = p[2] 
 
 def p_multipleTranslations8(p):
