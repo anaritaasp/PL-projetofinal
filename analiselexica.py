@@ -256,6 +256,8 @@ def t_ANY_error(t):
     t.lexer.lineno += str(t.value).count('\n')
     t.lexer.skip(1)
 
+
+
 lexer = lex.lex()
 lexer.word = None # por agora, não tem palavra para substituição
 
@@ -263,37 +265,9 @@ with open('dic-finance-en.pt.txt', 'r') as file:
     data = file.read()
 
 
-
 lexer.input(data)
-
-#print(lexer.token())
-
-
 
 '''
 while tok := lexer.token():
     print(tok)
-'''
-
-
-
-#  resale price-(RPM)
-
-
-'''
- planning-programming -       sistema (m) orçamentário de
-  budgeting- (PPBS)            planejamento e programação
- predetermined motion time    sistema (m) de movimentos
-  (PMTS)                       pré-determinados
-
-
-
- computerised information -
-  (COINS)                     sistema (m) computadorizado de dados
- management information -
-  (MIS)                       sistema (m) de dados para gestão 
-'''
-'''
- organisation and methods
- (O and M)                  organização (f) e métodos (mpl)
 '''

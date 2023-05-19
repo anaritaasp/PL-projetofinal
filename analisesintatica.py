@@ -9,22 +9,6 @@ from analiselexica import tokens
 # f -> feminino singular
 # mpl -> masculino plural
 
-text = '''
-A
-response:
- anticipatory -             resposta (f) antecipada
- lag -                      resposta (f) retardada
-responsibilities:
- allocation of -            distribuição (f) de responsabilidades
-responsibility:
- - accounting               custeio (m) por responsabilidades
- functional -               responsabilidade (f) funcional
- linear -                   responsabilidade (f) linear
-
-'''
-
-"""TODO"""
-
 
 def p_dict1(p):
     "Dict : Alphsection Dict"
@@ -43,7 +27,7 @@ def p_Alphsection(p):
 
 def p_translations1(p):
     "translations : normalword traducao translations"
-    p[3][p[1]] = p[2]
+    p[3][p[1]] = (p[1], p[2], {})
     p[0] = p[3] 
 
 
@@ -68,7 +52,7 @@ def p_translations2(p):
     # o resto:
     final_word = p[1] + p[3] #juntamos a palavra em ingles com a linha de baixo que tem a sua continuação
     
-    p[5][final_word] = portugueseTranslation 
+    p[5][final_word] = (final_word, portugueseTranslation, {}) 
     p[0] = p[5] #output
 
 
@@ -98,7 +82,7 @@ def p_translations4(p):
         p[0] = p[4]
     else: # translations : baseword_error multipleTranslations translations
         # não existe string traducao
-        p[3][p[1]] = (p[1], p[2], p[3])
+        p[3][p[1]] = (p[1], "", p[2])
         p[0] = p[3]
 
 
@@ -124,7 +108,7 @@ def p_translations5(p):
         # o resto:
         total_parenteses = p[1] + " " + p[3] #abre parenteses + fechar parenteses
         
-        p[5][total_parenteses] = portugueseTranslation 
+        p[5][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
         p[0] = p[5]
     
     else:
@@ -134,7 +118,7 @@ def p_translations5(p):
         # o resto:
         total_parenteses = p[1] + " " + p[2]  #abre parenteses + fechar parenteses
         
-        p[4][total_parenteses] = portugueseTranslation 
+        p[4][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
         p[0] = p[4]
 
 
@@ -152,7 +136,7 @@ def p_translations6(p):
     # o resto:
     total_parenteses = p[1] + p[3] + ")" #abre parenteses + fechar parenteses
     
-    p[4][total_parenteses] = portugueseTranslation 
+    p[4][total_parenteses] = (total_parenteses, portugueseTranslation, {}) 
     p[0] = p[4]
 
 
@@ -290,6 +274,6 @@ parser = yacc.yacc()
 #print(parser.parse(data)) #print(parser.parse(text, debug=1)) #print(parser.parse(text))
 dicionario = parser.parse(data)
 
-dicionario = OrderedDict(reversed(list(dicionario)))
+dicionario = OrderedDict(reversed(list(dicionario.items())))
 
-print(dicionario)
+#print(dicionario)
