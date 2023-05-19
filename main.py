@@ -7,6 +7,7 @@ def buildFile():
     file = open("final.txt", "w")
     for letter in dicionario:
         bases = dicionario[letter]
+        bases = OrderedDict(reversed(list(bases.items())))
         for base in bases:
             (base_word, base_translation, dict_base) = bases[base]
             string_base = "+base " + base_word + "\n"
@@ -16,8 +17,11 @@ def buildFile():
             dict_base = OrderedDict(reversed(list(dict_base.items())))
             for english in dict_base:
                 file.write("EN " + english + "\n" + string_base)
-                portuguese = dict_base[english]
-                file.write("PT " + portuguese + "\n\n")
+                portuguese_translations = dict_base[english]
+                for portuguese in portuguese_translations:
+                    if portuguese != "":
+                        file.write("PT " + portuguese + "\n")
+                file.write("\n")
 def main():
     print()
     print("########################################################")
@@ -27,7 +31,7 @@ def main():
     buildFile()
 
     print()
-    print("O resultado final foi colocado no ficheiro final.txt!\n")
+    print("O resultado final foi colocado no ficheiro 'final.txt'!\n")
 
 if __name__ == '__main__':
     main()

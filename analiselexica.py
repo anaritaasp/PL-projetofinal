@@ -261,13 +261,13 @@ def t_ANY_error(t):
 lexer = lex.lex()
 lexer.word = None # por agora, não tem palavra para substituição
 
+'''
 with open('dic-finance-en.pt.txt', 'r') as file:
     data = file.read()
 
 
 lexer.input(data)
 
-'''
 while tok := lexer.token():
     print(tok)
 '''

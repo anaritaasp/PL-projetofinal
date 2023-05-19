@@ -146,6 +146,8 @@ def p_translations7(p):
     p[0] = {}
 
 
+# Lidar com as multiplas traduções:    capital (m) circulante, capital (m) de giro
+
 
 #  management information -
 #  (MIS)                       sistema (m) de dados para gestão
@@ -158,8 +160,8 @@ def p_multipleTranslations3(p):
                          | middle2_word_error no_hifen traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[2]
-    portugueseTranslation = p[3]
-    p[4][final_word] = portugueseTranslation
+    portugueseTranslations = p[3].split(", ")
+    p[4][final_word] = portugueseTranslations
     p[0] = p[4]
             
 
@@ -189,8 +191,8 @@ def p_multipleTranslations4(p):
                          | middle1_word traducao abbreviation traducao multipleTranslations
     '''
     final_word = p[1] + " " + p[3]
-    portugueseTranslation = p[2] + " " + p[4]
-    p[5] [final_word] = portugueseTranslation
+    portugueseTranslations = (p[2] + " " + p[4]).split(", ")
+    p[5] [final_word] = portugueseTranslations
     p[0] = p[5]
 
 
@@ -208,7 +210,7 @@ def p_multipleTranslations5(p):
     
     final_word = p[1] + " " + p[2]
 
-    p[4][final_word] = p[3]
+    p[4][final_word] = p[3].split(", ")
     p[0] = p[4]
     
 
@@ -238,7 +240,7 @@ def p_multipleTranslations6(p):
                          | no_hifen traducao multipleTranslations   
                          | abbreviation traducao multipleTranslations
     '''
-    p[3][p[1]] = p[2]
+    p[3][p[1]] = p[2].split(", ")
     p[0] = p[3]                   
     
 # middle2_word_error ->  salary progression -
@@ -247,7 +249,7 @@ def p_multipleTranslations9(p):
     multipleTranslations : middle1_word_error multipleTranslations
                          | middle2_word_error multipleTranslations
     '''
-    p[2][p[1]] = ""
+    p[2][p[1]] = [""]
     p[0] = p[2] 
 
 def p_multipleTranslations8(p):
