@@ -32,9 +32,13 @@ def buildFile():
             
 def main():
     print()
-    print("########################################################")
-    print("# PL 2023 - 2.4 - Reverse Engineering de um dicionário #")
-    print("########################################################")
+    print("##########################################################")
+    print("#                                                        #")
+    print("#  PL 2023 - 2.4 - Reverse Engineering de um dicionário  #")
+    print("#                                                        #")
+    print("#                  Grupo 7.5 - RevEng                    #")
+    print("#                                                        #")
+    print("##########################################################")
 
     buildFile()
 

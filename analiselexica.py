@@ -218,11 +218,6 @@ def t_no_hifen_paragraph(t): # return on capital\n
     return t
 
 '''
- - measurement                medição (f) de trabalho
- clerical-measurement (CWM)   medição (f) de trabalho administrativo
-'''
-
-'''
  performance -                   controle (m) orçamentário de rendimen-
                                  to
 '''

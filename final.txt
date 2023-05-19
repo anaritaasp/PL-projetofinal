@@ -8,7 +8,7 @@ EN absorption costing
 PT custeio (f) de absorção
 
 EN product abandonment
-+base abandonment
++base abandonment:
 PT retirada (f) de um produto
 
 EN above par
@@ -22,27 +22,27 @@ EN acceptance
 PT aceitação (f)
 
 EN brand acceptance
-+base acceptance
++base acceptance:
 PT aceitação (f) de uma marca
 
 EN consumer acceptance
-+base acceptance
++base acceptance:
 PT aceitação (f) por parte do consumidor
 
 EN multi access
-+base access
++base access:
 PT acesso (m) múltiplo
 
 EN random access
-+base access
++base access:
 PT acesso (m) casual
 
 EN bank account
-+base account
++base account:
 PT conta (f) bancária
 
 EN joint account
-+base account
++base account:
 PT conta (f) conjunta
 
 EN accountability
@@ -52,44 +52,44 @@ EN chief
 PT chefe (m) de contabilidade
 
 EN accounting department
-+base accounting
++base accounting:
 PT departamento (m) de contabilidade
 PT contadoria (f)
 
 EN accounting model
-+base accounting
++base accounting:
 PT modelo (m) contábil
 
 EN accounting period
-+base accounting
++base accounting:
 PT exercício (m) contábil
 
 EN accounting ratio
-+base accounting
++base accounting:
 PT índice (m) contábil
 
 EN cost accounting
-+base accounting
++base accounting:
 PT contabilidade (f) de custo
 
 EN management accounting
-+base accounting
++base accounting:
 PT contabilidade (f) gerencial
 
 EN profit centre accounting
-+base accounting
++base accounting:
 PT contabilidade (f) por centros de lucro
 
 EN responsibility accounting
-+base accounting
++base accounting:
 PT custeio (m) por responsabilidade
 
 EN consolidated accounts
-+base accounts
++base accounts:
 PT contas (fpl) consolidadas
 
 EN group accounts
-+base accounts
++base accounts:
 PT contas (fpl) de grupo
 
 EN accretion
@@ -106,11 +106,11 @@ EN acquisition
 PT aquisição (f)
 
 EN acquisition profile
-+base acquisition
++base acquisition:
 PT perfil (m) de aquisição
 
 EN data acquisition
-+base acquisition
++base acquisition:
 PT aquisição (f) de dados
 
 EN action plan
@@ -123,57 +123,57 @@ EN activity
 PT ramo (m) de negócios
 
 EN activity chart
-+base activity
++base activity:
 PT gráfico (m) de atividades
 
 EN activity sampling
-+base activity
++base activity:
 PT amostragem (f) de atividades
 
 EN support activity
-+base activity
++base activity:
 PT atividade (f) de apoio
 
 EN self actualisation
-+base actualisation
++base actualisation:
 PT auto-realização (f)
 
 EN adaptive control
 PT controle (m) adaptativo
 
 EN value added
-+base added
++base added:
 PT valor (m) agregado
 
 EN value added tax (VAT)
-+base added
++base added:
 PT imposto (m) sobre circulação de mercadorias (ICM)
 
 EN administration
 PT administração (f)
 
 EN financial administration
-+base administration
++base administration:
 PT administração (f) financeira
 
 EN administrative control procedure
-+base administrative
++base administrative:
 PT procedimento (m) de controle administrativo
 
 EN administrative overheads
-+base administrative
++base administrative:
 PT despesas (fpl) de administração
 
 EN administrative theory
-+base administrative
++base administrative:
 PT teoria (f) da administração
 
 EN executive advancement
-+base advancement
++base advancement:
 PT promoção (f) de executivos
 
 EN competitive advantage
-+base advantage
++base advantage:
 PT vantagem (f) competitiva
 
 EN advertisement
@@ -183,59 +183,59 @@ EN advertiser
 PT anunciante (m)
 
 EN advertising agent
-+base advertising
++base advertising:
 PT agente (m) de publicidade
 
 EN advertising appropriation
-+base advertising
++base advertising:
 PT verba (f) publicitária
 
 EN advertising budget
-+base advertising
++base advertising:
 PT orçamento (m) publicitário
 
 EN advertising campaign
-+base advertising
++base advertising:
 PT campanha (f) de publicidade
 
 EN advertising drive
-+base advertising
++base advertising:
 PT esforço (m) publicitário
 
 EN advertising effectiveness
-+base advertising
++base advertising:
 PT eficácia (f) de publicidade
 
 EN advertising manager
-+base advertising
++base advertising:
 PT gerente (m) de publicidade
 
 EN advertising media
-+base advertising
++base advertising:
 PT mídia (f) de publicidade
 
 EN advertising message
-+base advertising
++base advertising:
 PT mensagem (m) publicitária
 
 EN advertising research
-+base advertising
++base advertising:
 PT pesquisa (f) publicitária
 
 EN advertising theme
-+base advertising
++base advertising:
 PT tema (m) publicitário
 
 EN corporate advertising
-+base advertising
++base advertising:
 PT publicidade (f) empresarial
 
 EN product advertising
-+base advertising
++base advertising:
 PT publicidade (f) de produtos
 
 EN subliminal advertising
-+base advertising
++base advertising:
 PT publicidade (f) subliminar
 
 EN advisory services
@@ -251,23 +251,23 @@ EN after sales service
 PT serviço (m) pós-venda
 
 EN advertising agent
-+base agent
++base agent:
 PT agente (m) de publicidade
 
 EN sole agent
-+base agent
++base agent:
 PT agente (m) exclusivo
 
 EN collective agreement
-+base agreement
++base agreement:
 PT acordo (m) coletivo
 
 EN bargaining agreement
-+base agreement
++base agreement:
 PT convênio (m) (de barganha)
 
 EN productivity agreement
-+base agreement
++base agreement:
 PT acordo (m) de produtividade
 
 EN algorithm
@@ -278,19 +278,19 @@ PT todos os riscos (mpl)
 PT cobertura (f) total
 
 EN allocation of costs
-+base allocation
++base allocation:
 PT distribuição (f) de custos
 
 EN allocation of responsibilities
-+base allocation
++base allocation:
 PT distribuição (f) de responsabilidades
 
 EN resource allocation
-+base allocation
++base allocation:
 PT distribuição (f) de recursos
 
 EN depreciation allowance
-+base allowance
++base allowance:
 PT abatimento (m) de depreciação
 PT reser (f) paia depreciação
 
@@ -299,144 +299,144 @@ PT fusão (f)
 PT união (f)
 
 EN analogue computer
-+base analogue
++base analogue:
 PT computador (m) analógico
 
 EN analogue representation
-+base analogue
++base analogue:
 PT representação (f) analógica
 
 EN breakeven analysis
-+base analysis
++base analysis:
 PT análise (f) do ponto de equilíbrio
 
 EN competitor analysis
-+base analysis
++base analysis:
 PT análise (f) da concorrência
 
 EN contribution analysis
-+base analysis
++base analysis:
 PT análise (f) de contribuições
 
 EN cost analysis
-+base analysis
++base analysis:
 PT análise (f) de custos
 
 EN cost-benefit analysis (CBA)
-+base analysis
++base analysis:
 PT análise (f) de custos e benefícios
 
 EN cost-volume-profit analysis
-+base analysis
++base analysis:
 PT análise (f) de custo
 PT volume e lucro
 
 EN critical path analysis (CPA)
-+base analysis
++base analysis:
 PT análise (f) do caminho crítico
 
 EN decision analysis
-+base analysis
++base analysis:
 PT análise (f) de decisão
 
 EN depth analysis
-+base analysis
++base analysis:
 PT análise (f) em profundidade
 
 EN financial analysis
-+base analysis
++base analysis:
 PT análise (f) financeira
 
 EN functional analysis
-+base analysis
++base analysis:
 PT análise (f) funcional
 
 EN input-output analysis
-+base analysis
++base analysis:
 PT análise (f) de entrada e saída
 
 EN investment analysis
-+base analysis
++base analysis:
 PT análise (f) de investimentos
 
 EN job analysis
-+base analysis
++base analysis:
 PT avaliação (f) de cargo
 
 EN marginal analysis
-+base analysis
++base analysis:
 PT análise (f) marginal
 
 EN media analysis
-+base analysis
++base analysis:
 PT análise (f) de mídia
 
 EN morphological analysis
-+base analysis
++base analysis:
 PT análise (f) morfológica
 
 EN needs analysis
-+base analysis
++base analysis:
 PT análise (f) de necessidades
 
 EN network analysis
-+base analysis
++base analysis:
 PT análise (f) de rede
 
 EN problem analysis
-+base analysis
++base analysis:
 PT análise (f) de problemas
 
 EN product analysis
-+base analysis
++base analysis:
 PT análise (f) de produto
 
 EN profit factor analysis
-+base analysis
++base analysis:
 PT análise (f) de elementos de lucro
 
 EN profitability analysis
-+base analysis
++base analysis:
 PT análise (f) de rentabilidade
 
 EN project analysis
-+base analysis
++base analysis:
 PT análise (f) de projeto
 
 EN regression analysis
-+base analysis
++base analysis:
 PT análise (f) de regressão
 
 EN multiple regression analysis (MPA)
-+base analysis
++base analysis:
 PT análise (f) de regressão múltipla
 
 EN risk analysis
-+base analysis
++base analysis:
 PT análise (f) de riscos
 
 EN sales analysis
-+base analysis
++base analysis:
 PT análise (f) de vendas
 
 EN sensitivity analysis
-+base analysis
++base analysis:
 PT análise (/) de sensibilidade
 
 EN sequential analysis skill analysis
-+base analysis
++base analysis:
 PT análise (f) seqüencial análise (f) de habilidades
 
 EN systems analysis
-+base analysis
++base analysis:
 PT análise (f) de sistemas
 
 EN value analysis
-+base analysis
++base analysis:
 PT análise (f) de valores
 
 EN variance analysis
-+base analysis
++base analysis:
 PT análise (f) de variação
 
 EN analytical training
@@ -449,7 +449,7 @@ EN anticipatory response
 PT resposta (f) antecipada
 
 EN sales appeal
-+base appeal
++base appeal:
 PT atração (f) comercial
 PT garra (f) comercial
 
@@ -457,47 +457,47 @@ EN apportionment
 PT distribuição (f)
 
 EN capital expenditure appraisal
-+base appraisal
++base appraisal:
 PT avaliação (f) de dispêndio de capital
 
 EN financial appraisal
-+base appraisal
++base appraisal:
 PT avaliação (f) financeira
 
 EN investment appraisal
-+base appraisal
++base appraisal:
 PT avaliação (f) de investimentos
 
 EN market appraisal
-+base appraisal
++base appraisal:
 PT avaliação (f) de mercado
 
 EN performance appraisal self appraisal
-+base appraisal
++base appraisal:
 PT avaliação (f) de desempenho auto-avaliação (f)
 
 EN systems approach
-+base approach
++base approach:
 PT abordagem (f) segundo a teoria dos sistemas
 
 EN top management approach
-+base approach
++base approach:
 PT abordagem (f) da diretoria
 
 EN account appropriation
-+base appropriation
++base appropriation:
 PT conta (f) de apropriação
 
 EN advertising appropriation
-+base appropriation
++base appropriation:
 PT verba (f) publicitária
 
 EN budget appropriation
-+base appropriation
++base appropriation:
 PT verba (f) orçamentária
 
 EN marketing appropriation
-+base appropriation
++base appropriation:
 PT verba (f) para marketing
 
 EN aptitude test
@@ -510,23 +510,23 @@ EN arbitration
 PT arbitragem (f)
 
 EN growth area
-+base area
++base area:
 PT área (f) de crescimento
 
 EN product area
-+base area
++base area:
 PT setor (f) de produtos
 
 EN problem area
-+base area
++base area:
 PT área (f) problemática
 
 EN sales area
-+base area
++base area:
 PT área (f) de vendas
 
 EN trading area
-+base area
++base area:
 PT área (f) comercial
 
 EN assembly line
@@ -536,105 +536,105 @@ EN assessment
 PT avaliação (f)
 
 EN demand assessment
-+base assessment
++base assessment:
 PT avaliação (f) de demanda
 
 EN project assessment
-+base assessment
++base assessment:
 PT avaliação (f) de projeto
 
 EN risk assessment
-+base assessment
++base assessment:
 PT avaliação (f) de riscos
 
 EN asset turnover
-+base asset
++base asset:
 PT movimento (m) do ativo
 
 EN asset value
-+base asset
++base asset:
 PT valor (m) do ativo
 
 EN capital assets
-+base assets
++base assets:
 PT ativo (m) imobilizado
 PT ativo (m) fixo
 PT bens (mpl) de capital
 
 EN current assets
-+base assets
++base assets:
 PT ativo (m) corrente
 
 EN net current assets
-+base assets
++base assets:
 PT ativo (m) corrente líquido
 
 EN earnings on assets
-+base assets
++base assets:
 PT rendimento (m) do ativo
 
 EN fixed assets
-+base assets
++base assets:
 PT ativo (m) fixo
 PT ativo (m) imobilizado
 
 EN intangible
-+base assets
++base assets:
 PT ativo (m) intangível
 
 EN liquid assets
-+base assets
++base assets:
 PT ativo (m) líquido
 
 EN net assets
-+base assets
++base assets:
 PT patrimônio (m) líquido
 PT ativo (m) líquido
 
 EN quick assets
-+base assets
++base assets:
 PT ativo (m) de realização imediata
 
 EN revaluation of assets
-+base assets
++base assets:
 PT reavaliação (f) do ativo
 
 EN tangible assets
-+base assets
++base assets:
 PT ativo (m) tangível
 
 EN job assignment
-+base assignment
++base assignment:
 PT designação (f) de tarefas
 
 EN assistant manager
-+base assistant
++base assistant:
 PT gerente-adjunto (m)
 
 EN assistant to manager
-+base assistant
++base assistant:
 PT assistente (m) do gerente
 
 EN line assistant staff assistant
-+base assistant
++base assistant:
 PT assistente (m) de linha assistente (m) consultivo
 
 EN associate company
 PT companhia (f) associada
 
 EN trade association
-+base association
++base association:
 PT associação (f) comercial
 
 EN at sight
 PT à vista
 
 EN attitude survey
-+base attitude
++base attitude:
 PT levantamento (m) de opiniões
 
 EN user attitude
-+base attitude
++base attitude:
 PT atitude (f) do consumidor
 
 EN audit (to -)
@@ -645,27 +645,27 @@ EN audit
 PT auditoria (f)
 
 EN audit report
-+base audit
++base audit:
 PT parecer (m) de auditoria
 
 EN internal audit
-+base audit
++base audit:
 PT auditoria (f) interna
 
 EN management audit
-+base audit
++base audit:
 PT parecer (m) para gerência
 
 EN manpower audit
-+base audit
++base audit:
 PT análise (f) de mão-de-obra
 
 EN operations audit
-+base audit
++base audit:
 PT avaliação (f) de operações
 
 EN balance sheet auditing
-+base auditing
++base auditing:
 PT auditoria (f) de balanço
 
 EN auditor
@@ -675,19 +675,19 @@ EN authorised capital
 PT capital (m) autorizado
 
 EN authority structure
-+base authority
++base authority:
 PT estrutura (f) de autoridade
 
 EN contraction of authority
-+base authority
++base authority:
 PT diminuição (f) de autoridade
 
 EN line authority
-+base authority
++base authority:
 PT autoridade (f) de linha
 
 EN automatic data processing (ADP)
-+base automatic data
++base automatic data:
 PT processamento (m) automático de dados (PAD)
 
 EN automation
@@ -697,11 +697,11 @@ EN average cost
 PT custo (m) médio
 
 EN brand awareness
-+base awareness
++base awareness:
 PT conhecimento (m) de marca
 
 EN cost awareness
-+base awareness
++base awareness:
 PT consciência (f) de custos
 
 EN backdate to
@@ -714,19 +714,19 @@ PT dívida (f) incobrável
 PT empréstimo (m) em liquidação
 
 EN balance sheet
-+base balance
++base balance:
 PT balanço (m) geral
 
 EN debit balance
-+base balance
++base balance:
 PT saldo (m) devedor
 
 EN gross balance
-+base balance
++base balance:
 PT resultado (m) bruto
 
 EN outstanding balance
-+base balance
++base balance:
 PT saldo (m) a receber
 PT saldo (m) a pagar
 
@@ -734,35 +734,35 @@ EN balance sheet auditing
 PT auditoria (f) de balanço
 
 EN bank account
-+base bank
++base bank:
 PT conta (f) bancária
 
 EN bank deposit
-+base bank
++base bank:
 PT depósito (m) bancário
 
 EN bank draft
-+base bank
++base bank:
 PT saque (m)
 
 EN bank overdraft
-+base bank
++base bank:
 PT conta (f) bancária a descoberto
 
 EN bank statement
-+base bank
++base bank:
 PT extrato (m) bancário
 
 EN computer bank
-+base bank
++base bank:
 PT banco (m) de dados de computador
 
 EN data bank
-+base bank
++base bank:
 PT banco (m) de dados
 
 EN safety bank
-+base bank
++base bank:
 PT reserva (/) para imprevistos
 
 EN bankers'draft
@@ -774,15 +774,15 @@ PT barganha (f)
 PT pechincha (f)
 
 EN collective bargaining
-+base bargaining
++base bargaining:
 PT negociação (f) coletiva
 
 EN plant bargaining
-+base bargaining
++base bargaining:
 PT negociação (f) a nível de fábrica
 
 EN productivity bargaining
-+base bargaining
++base bargaining:
 PT negociação (f) de produtividade
 
 EN bankruptcy
@@ -791,25 +791,25 @@ PT quebra (f) financeira
 PT bancarrota (f)
 
 EN base pay
-+base base
++base base:
 PT salário-base (m)
 
 EN base year
-+base base
++base base:
 PT ano-base (m)
 
 EN batch control
-+base batch
++base batch:
 PT controle (m) por batelada
 PT por lote
 
 EN batch processing
-+base batch
++base batch:
 PT processamento (m) por batelada
 PT em lote
 
 EN batch production
-+base batch
++base batch:
 PT produção (f) por batelada
 PT por lote
 
@@ -817,43 +817,43 @@ EN economic-quantity
 PT tamanho (m) do lote econômico
 
 EN bear market
-+base bear
++base bear:
 PT mercado (m) com perspectiva de baixa
 
 EN buying behaviour
-+base behaviour
++base behaviour:
 PT comportamento (m) de compra
 
 EN consumer behaviour
-+base behaviour
++base behaviour:
 PT comportamento (m) do consumidor
 
 EN behavioural science
 PT ciência (f) do comportamento
 
 EN below par
-+base below
++base below:
 PT com desconto ou desígio
 PT abaixo do valor par
 
 EN below the line (figures)
-+base below
++base below:
 PT lucro (m)
 
 EN benchmark
 PT padrão (m)
 
 EN cost benefit analysis (CBA)
-+base benefit
++base benefit:
 PT análise de custos e benefícios
 
 EN fringe benefits
-+base benefits
++base benefits:
 PT recompensas (fpl) não assalariadas
 PT vantagens (fpl) adicionais
 
 EN takeover bid
-+base bid
++base bid:
 PT oferta (f) de compra (de uma companhia)
 
 EN bidder
@@ -861,31 +861,31 @@ PT licitante (m)
 PT proponente
 
 EN bill of exchange
-+base bill
++base bill:
 PT letra (f) de câmbio
 
 EN bill of lading
-+base bill
++base bill:
 PT conhecimento (m) de embarque
 
 EN bill of sale
-+base bill
++base bill:
 PT fatura (f)
 
 EN airway bill
-+base bill
++base bill:
 PT conhecimento (m) de embarque aéreo
 
 EN billing
 PT faturamento
 
 EN black cash
-+base black
++base black:
 PT caixa (f) preta
 PT caixa (f) 2
 
 EN black market
-+base black
++base black:
 PT mercado (m) negro
 PT mercado (m) paralelo
 
@@ -893,24 +893,24 @@ EN blocked currency
 PT moeda (f) bloqueada por controle cambial
 
 EN board control
-+base board
++base board:
 PT controle (m) de diretoria
 
 EN board meeting
-+base board
++base board:
 PT reunião (f) de diretoria
 
 EN board of directors
-+base board
++base board:
 PT diretoria (/)
 PT conselho (m) de administração
 
 EN board room
-+base board
++base board:
 PT sala (f) da diretoria
 
 EN executive board
-+base board
++base board:
 PT diretoria (f) executiva
 PT junta (f) executiva
 
@@ -922,34 +922,34 @@ PT fiança (f)
 PT garantia (f)
 
 EN guarantee bond
-+base bond
++base bond:
 PT obrigação (f) garantida
 
 EN in bond
-+base bond
++base bond:
 PT não desembaraçado da alfândega
 
 EN bonded warehouse
 PT entreposto (m) aduaneiro
 
 EN bonus scheme
-+base bonus
++base bonus:
 PT bonificação (f) em prêmios
 
 EN share bonus
-+base bonus
++base bonus:
 PT bonificação (f) em ações
 
 EN stock bonus
-+base bonus
++base bonus:
 PT prêmio (m) em ações
 
 EN group bonus
-+base bonus
++base bonus:
 PT prêmio (m) coletivo
 
 EN premium bonus
-+base bonus
++base bonus:
 PT brinde (m)
 
 EN book value
@@ -980,31 +980,31 @@ EN brand
 PT marca (f)
 
 EN brand acceptance
-+base brand
++base brand:
 PT aceitação (f) de marcas
 
 EN brand awareness
-+base brand
++base brand:
 PT conhecimento (m) de marca
 
 EN brand image
-+base brand
++base brand:
 PT imagem (f) de uma marca
 
 EN brand loyalty
-+base brand
++base brand:
 PT lealdade (f) a uma marca
 
 EN brand manager
-+base brand
++base brand:
 PT gerente (m) de uma marca
 
 EN brand recognition
-+base brand
++base brand:
 PT identificação (f) de marca
 
 EN brand strategy
-+base brand
++base brand:
 PT estratégia (f) de uma marca
 
 EN breach of contract
@@ -1013,23 +1013,23 @@ PT inadimplência (m) a um contrato
 PT quebra (f) de contrato
 
 EN breakdown of accounts
-+base breakdown
++base breakdown:
 PT desdobramento (m) de contas
 
 EN operations breakdown
-+base breakdown
++base breakdown:
 PT desdobramento (m) de operações
 
 EN breakeven analysis
-+base breakeven
++base breakeven:
 PT análise (f) do ponto de equilíbrio
 
 EN breakeven chart
-+base breakeven
++base breakeven:
 PT gráfico (m) do ponto de equilíbrio
 
 EN breakeven point
-+base breakeven
++base breakeven:
 PT ponto (m)de equilíbrio
 
 EN break-through
@@ -1047,56 +1047,56 @@ EN broker
 PT corretor (m)
 
 EN software broker
-+base broker
++base broker:
 PT corretor (m) de sistemas
 
 EN budget
 PT orçamento (m)
 
 EN budget appropriation
-+base budget
++base budget:
 PT verba ff) orçamentária
 
 EN budget constraint
-+base budget
++base budget:
 PT limitação (f) orçamentária
 
 EN budget forecasting
-+base budget
++base budget:
 PT previsão (f) orçamentária
 
 EN budget standard
-+base budget
++base budget:
 PT padrão (m)
 PT standard (m)
 PT norma (f) de orçamento
 
 EN budget advertising budget
-+base budget
++base budget:
 PT orçamento (m) de publicidade
 
 EN capital budget
-+base budget
++base budget:
 PT orçamento (m) patrimonial
 
 EN cash budget
-+base budget
++base budget:
 PT orçamento (m) de caixa
 
 EN flexible budget
-+base budget
++base budget:
 PT orçamento (m) flexível
 
 EN investment budget
-+base budget
++base budget:
 PT orçamento (m) de investimentos
 
 EN marketing budget
-+base budget
++base budget:
 PT orçamento (m) de marketing
 
 EN sales budget
-+base budget
++base budget:
 PT orçamento (m) de vendas
 
 EN budgetary control
@@ -1106,31 +1106,31 @@ EN budgeting
 PT contabilidade (f) orçamentária
 
 EN budgeting control
-+base budgeting
++base budgeting:
 PT controle (m) orçamentário
 
 EN capital budgeting
-+base budgeting
++base budgeting:
 PT controle (m) orçamentário de capital
 
 EN cash budgeting
-+base budgeting
++base budgeting:
 PT controle (m) orçamentário de caixa
 
 EN output budgeting
-+base budgeting
++base budgeting:
 PT controle (m) orçamentário de produção
 
 EN performance budgeting
-+base budgeting
++base budgeting:
 PT controle (m) orçamentário derendimen to
 
 EN planning programming budgeting system (PPBS)
-+base budgeting
++base budgeting:
 PT sistema (m) orçamentário de programação e planejamento
 
 EN programme budgeting
-+base budgeting
++base budgeting:
 PT sistema (m) de orçamentos programados
 
 EN buffer
@@ -1138,7 +1138,7 @@ PT memória (f) auxiliar
 PT buffer (m)
 
 EN buffer stock
-+base buffer
++base buffer:
 PT inventário (m) para imprevistos
 PT estoque (m) regulador
 
@@ -1149,56 +1149,56 @@ EN bull
 PT especulador (m) que espera uma alta no mercado
 
 EN bull market
-+base bull
++base bull:
 PT mercado (m) com perspectiva de alta
 
 EN burning ratio
 PT taxa (f) de sinistros de incêncio
 
 EN business cycle
-+base business
++base business:
 PT ciclo (m) econômico
 
 EN business day
-+base business
++base business:
 PT dia (m) útil
 
 EN business economist
-+base business
++base business:
 PT economista (m) empresarial
 
 EN business forecasting
-+base business
++base business:
 PT previsão (m) comercial
 PT prognóstico (m) comercial
 
 EN business game
-+base business
++base business:
 PT jogo (m) empresarial
 PT simulação (f) de direção
 
 EN business management
-+base business
++base business:
 PT administração (f) de empresas
 
 EN business policy
-+base business
++base business:
 PT política (f) de negócios
 
 EN business relations
-+base business
++base business:
 PT relações (fpl) comerciais
 
 EN business strategy
-+base business
++base business:
 PT estratégia (f) comercial
 
 EN chief buyer
-+base buyer
++base buyer:
 PT chefe (m) de compras
 
 EN potential buyer
-+base buyer
++base buyer:
 PT comprador (m) em potencial
 
 EN buyers's market
@@ -1243,11 +1243,11 @@ EN call loan
 PT empréstimo (m) sujeito a rescisão imediata por qualquer das partes
 
 EN advertising campaign
-+base campaign
++base campaign:
 PT campanha (f) de publicidade
 
 EN productivity campaign
-+base campaign
++base campaign:
 PT campanha (f) de produtividade
 
 EN canvass (to -)
@@ -1255,137 +1255,137 @@ PT solicitar
 PT buscar opiniões
 
 EN capacity utilisation
-+base capacity
++base capacity:
 PT utilização (f) de capacidade total
 
 EN excess capacity
-+base capacity
++base capacity:
 PT capacidade (f) excessiva
 
 EN manufacturing capacity
-+base capacity
++base capacity:
 PT capacidade (f) de fabricação
 
 EN idle capacity
-+base capacity
++base capacity:
 PT capacidade (f) ociosa
 
 EN plant capacity
-+base capacity
++base capacity:
 PT capacidade (f) das instalações
 
 EN capital assets
-+base capital
++base capital:
 PT ativo (m) fixo
 PT bens (mpl) de capital
 PT ativo (m) imobilizado
 
 EN capital budget
-+base capital
++base capital:
 PT orçamento (m) patrimonial
 
 EN capital budgeting
-+base capital
++base capital:
 PT controle (m) orçamentário de capital
 
 EN capital commitment
-+base capital
++base capital:
 PT designação (f) de capital
 
 EN capital employed
-+base capital
++base capital:
 PT capital (m) investido
 
 EN return on capital employed (ROCE)
-+base capital
++base capital:
 PT rendimento (m) do capital investido
 
 EN capital expenditure
-+base capital
++base capital:
 PT dispêndio (m) de capital
 
 EN capital formation
-+base capital
++base capital:
 PT agrupamento (m) de capital
 
 EN capital goods
-+base capital
++base capital:
 PT ativo (m) fixo
 PT bens (mpl) imobilizados
 PT bens (mpl) de capital
 
 EN capital gains
-+base capital
++base capital:
 PT lucros (mpl) na venda de investimentos
 
 EN capital intensive
-+base capital
++base capital:
 PT com predomínio (m) de capital
 
 EN capital output ratio
-+base capital
++base capital:
 PT índice (m) rendimento/capital
 
 EN capital project evaluation
-+base capital
++base capital:
 PT avaliação (f) de projetos de investimentos
 
 EN capital raising
-+base capital
++base capital:
 PT aumento (m) de capital
 
 EN capital rationing
-+base capital
++base capital:
 PT racionamento (m) de capital
 
 EN capital structure
-+base capital
++base capital:
 PT estrutura (f) de capital
 
 EN authorised capital
-+base capital
++base capital:
 PT capital (m) autorizado
 
 EN circulating capital
-+base capital
++base capital:
 PT capital (m) circulante
 PT capital (m) de giro
 
 EN declared capital
-+base capital
++base capital:
 PT capital (m) declarado
 
 EN issued capital
-+base capital
++base capital:
 PT capital (m) em ações
 
 EN legal capital
-+base capital
++base capital:
 PT capital (m) legal
 
 EN loan capital
-+base capital
++base capital:
 PT capital (m) tomado por empréstimo
 
 EN return on capital
-+base capital
++base capital:
 PT rendimento (m) de capital
 
 EN risk capital
-+base capital
++base capital:
 PT capital (m) de risco
 
 EN share capital
-+base capital
++base capital:
 PT capital (m) social
 PT capital (m) em ações
 
 EN venture capital
-+base capital
++base capital:
 PT capital (m) de risco
 
 EN working capital
-+base capital
++base capital:
 PT capital (m) circulante
 PT capital (m) de giro
 
@@ -1396,11 +1396,11 @@ EN capitalise (to)
 PT capitalizar
 
 EN over capitalised
-+base capitalised
++base capitalised:
 PT sobrecapitalizado
 
 EN under capitalised
-+base capitalised
++base capitalised:
 PT subcapitalizado
 
 EN career planning
@@ -1419,53 +1419,53 @@ EN case study
 PT estudo (m) de caso
 
 EN cash against documents
-+base cash
++base cash:
 PT pago (m) contra apresentação de documentos
 
 EN cash budget
-+base cash
++base cash:
 PT orçamento (m) de caixa
 
 EN cash budgeting
-+base cash
++base cash:
 PT controle (m) orçamentário de caixa
 
 EN cash discount
-+base cash
++base cash:
 PT desconto (m) para pagamento à vista
 
 EN cash flow
-+base cash
++base cash:
 PT fluxo (m) de caixa
 
 EN discounted cash flow (DCF)
-+base cash
++base cash:
 PT relação (f) entre receita e investimento
 PT menos impostos
 
 EN cash management
-+base cash
++base cash:
 PT controle (m) de caixa
 
 EN cash on delivery
-+base cash
++base cash:
 PT pagamento (m) contra entrega
 
 EN cash ratio
-+base cash
++base cash:
 PT índice (m) de dinheiro em caixa
 
 EN cash transaction
-+base cash
++base cash:
 PT operação (f) à vista
 
 EN hard cash
-+base cash
++base cash:
 PT dinheiro (m) vivo
 PT espécie (f)
 
 EN near cash
-+base cash
++base cash:
 PT valores (mpl) rapidamente conversíveis
 
 EN ceiling price
@@ -1475,108 +1475,108 @@ EN centralisation
 PT centralização (f)
 
 EN computer centre
-+base centre
++base centre:
 PT centro (m) de computação
 
 EN cost centre
-+base centre
++base centre:
 PT centro (m) de custo
 
 EN profit centre
-+base centre
++base centre:
 PT centro (m) de lucro
 
 EN profit centre accounting
-+base centre
++base centre:
 PT contabilidade (f) por centros de lucro
 
 EN certificate of origin
-+base certificate
++base certificate:
 PT certificado (m) de origem
 
 EN certificate of registry
-+base certificate
++base certificate:
 PT certificado (m) de registro
 
 EN certificate of shipment
-+base certificate
++base certificate:
 PT certificado (m) de embarque
 
 EN chain of command
-+base chain
++base chain:
 PT linha (/) de comando
 
 EN chain of distribution
-+base chain
++base chain:
 PT cadeia (f) de distribuição
 
 EN chain store
-+base chain
++base chain:
 PT rede (f) de lojas
 
 EN chairman
 PT presidente (m)
 
 EN deputy chairman
-+base chairman
++base chairman:
 PT vice-presidente (m)
 
 EN vice chairman
-+base chairman
++base chairman:
 PT vice-presidente (m)
 
 EN job challenge
-+base challenge
++base challenge:
 PT desafio (m) do cargo
 
 EN chamber of commerce
 PT câmara (f) de comércio
 
 EN organisational change
-+base change
++base change:
 PT transformação (f) da organização
 
 EN channels of communication
-+base channels
++base channels:
 PT meios (mpl) de comunicação
 
 EN channels of distribution
-+base channels
++base channels:
 PT canais (mpl) de distribuição
 
 EN handling charges
-+base charges
++base charges:
 PT taxas (fpl) de serviço
 
 EN charm price
 PT chamariz (m)
 
 EN activity chart
-+base chart
++base chart:
 PT gráfico (m) de atividades
 
 EN bar chart
-+base chart
++base chart:
 PT gráfico (m) de barras
 
 EN flow chart
-+base chart
++base chart:
 PT fluxograma (m)
 
 EN Gantt chart
-+base chart
++base chart:
 PT quadro (m) de Gantt
 
 EN management chart
-+base chart
++base chart:
 PT organograma (m) de direção
 
 EN organisation chart
-+base chart
++base chart:
 PT organograma (m)
 
 EN pie chart Z chart
-+base chart
++base chart:
 PT gráfico (m) circular em setores gráfico (m) Z
 
 EN charter (to)
@@ -1592,15 +1592,15 @@ EN cheque
 PT cheque(m)
 
 EN chief accountant
-+base chief
++base chief:
 PT chefe (m) de contabilidade
 
 EN chief buyer
-+base chief
++base chief:
 PT chefe (m) de compras
 
 EN chief executive
-+base chief
++base chief:
 PT diretor-presidente (m)
 PT gerente (m) geral
 PT chefe (m) executivo
@@ -1609,19 +1609,19 @@ EN circulating capital
 PT capital (m) circulante.de giro (m)
 
 EN job classification
-+base classification
++base classification:
 PT classificação (f) de cargos
 
 EN clearing dollar
-+base clearing
++base clearing:
 PT dólar (m) convênio
 
 EN clearing house
-+base clearing
++base clearing:
 PT câmara (f) de compensação
 
 EN sale
-+base clearing
++base clearing:
 PT venda (f) de liquidação
 
 EN clerical work measurement(CWM)
@@ -1650,18 +1650,18 @@ PT colusão (f)
 PT conivência (f)
 
 EN chain of command
-+base command
++base command:
 PT linha (f) de comando
 
 EN line of command
-+base command
++base command:
 PT linha (f) de comando
 
 EN commission
 PT comissão (f)
 
 EN capital commitment
-+base commitment
++base commitment:
 PT designação (f) de capital
 
 EN commodity
@@ -1673,136 +1673,136 @@ EN common language
 PT linguagem (f) comum
 
 EN communication theory
-+base communication
++base communication:
 PT teoria (f) da comunicação
 
 EN channels of communication
-+base communication
++base communication:
 PT canais (mpl) de comunicação
 
 EN communications network
-+base communications
++base communications:
 PT rede (f) de comunicação
 
 EN company goal
-+base company
++base company:
 PT objetivo (m) da empresa
 
 EN company philosophy
-+base company
++base company:
 PT filosofia empresarial
 
 EN company objectives
-+base company
++base company:
 PT objetivos (mpl) empresariais
 
 EN company planning
-+base company
++base company:
 PT planejamento (m) empresarial
 
 EN company policy
-+base company
++base company:
 PT política (f) empresarial
 
 EN company profile
-+base company
++base company:
 PT perfil (m) da empresa
 
 EN company reconstruction
-+base company
++base company:
 PT reconstrução (f) da empresa
 
 EN holding company
-+base company
++base company:
 PT companhia (f) matriz
 PT empresa holding (m)
 
 EN investment company
-+base company
++base company:
 PT empresa (f) de investimentos
 
 EN joint stock company
-+base company
++base company:
 PT sociedade (f) anônima por ações
 
 EN joint venture company
-+base company
++base company:
 PT sociedade (f) em conta de participação
 
 EN limited company
-+base company
++base company:
 PT companhia (f) limitada
 PT sociedade (f) de responsabilidade limitada
 
 EN parent company
-+base company
++base company:
 PT companhia (f) matriz
 
 EN stock company
-+base company
++base company:
 PT companhia (f) por ações
 
 EN subsidiary company
-+base company
++base company:
 PT companhia (f) subsidiária
 
 EN system managed company
-+base company
++base company:
 PT empresa (f) dirigida de forma sistematizada
 
 EN interfirm comparison
-+base comparison
++base comparison:
 PT comparação (f) interempresarial
 
 EN executive compensation
-+base compensation
++base compensation:
 PT compensação (f) de executivos
 
 EN executive competence
-+base competence
++base competence:
 PT competência (f) do executivo
 
 EN job competence
-+base competence
++base competence:
 PT competência (f) no cargo
 
 EN competitive advantage
-+base competitive
++base competitive:
 PT vantagem (f) competitiva
 
 EN competitive edge
-+base competitive
++base competitive:
 PT vantagem (f) sobre a concorrência
 
 EN competitive position
-+base competitive
++base competitive:
 PT posição (f) competitiva
 
 EN competitive price
-+base competitive
++base competitive:
 PT preço (m) competitivo
 
 EN competitive stimulus
-+base competitive
++base competitive:
 PT estímulo (m) competitivo
 
 EN competitive strategy
-+base competitive
++base competitive:
 PT estratégia (f) competitiva
 
 EN competitive tactics
-+base competitive
++base competitive:
 PT tática (f) competitiva
 
 EN competitive thrust
-+base competitive
++base competitive:
 PT ímpeto (m) competitivo
 
 EN competitor analysis
 PT análise (f) da concorrência
 
 EN production complex
-+base complex
++base complex:
 PT complexo (m) de produção
 
 EN comptroller
@@ -1814,51 +1814,51 @@ EN computer
 PT computador (m)
 
 EN computer bank
-+base computer
++base computer:
 PT banco (m) de dados de computador
 
 EN computer centre
-+base computer
++base computer:
 PT centro (m) de computação
 
 EN computer input
-+base computer
++base computer:
 PT entrada (f) de computador
 
 EN computer language
-+base computer
++base computer:
 PT linguagem (f) de computador
 
 EN computer output
-+base computer
++base computer:
 PT saída (f) de computador
 
 EN computer programming
-+base computer
++base computer:
 PT programação (f) de computador
 
 EN computer services
-+base computer
++base computer:
 PT serviços (mpl) de computação
 
 EN computer services bureau
-+base computer
++base computer:
 PT departamento (m) de serviços de computação
 
 EN computer simulation
-+base computer
++base computer:
 PT simulação (f) de computação
 
 EN computer storage
-+base computer
++base computer:
 PT memória (f)
 
 EN analogue computer
-+base computer
++base computer:
 PT computador (m) analógico
 
 EN digital computer
-+base computer
++base computer:
 PT computador (m) digital
 
 EN computerise (to -)
@@ -1868,7 +1868,7 @@ EN computerised information systen
 PT sistema (m) computadorizado de dados
 
 EN product conception
-+base conception
++base conception:
 PT concepção (f) de produtos
 
 EN conciliation
@@ -1884,7 +1884,7 @@ EN conglomerate
 PT conglomerado (m)
 
 EN cost consciousness
-+base consciousness
++base consciousness:
 PT consciência (f) de custos
 
 EN consignment
@@ -1900,7 +1900,7 @@ EN consortium
 PT consórcio
 
 EN budgetary constraint
-+base constraint
++base constraint:
 PT limitação (f) orçamentária
 
 EN consultancy
@@ -1910,39 +1910,39 @@ EN consultant
 PT consultor (m)
 
 EN management consultant
-+base consultant
++base consultant:
 PT consultor (m) de gerência
 
 EN joint consultation
-+base consultation
++base consultation:
 PT consulta (f) conjunta
 
 EN consumer acceptance
-+base consumer
++base consumer:
 PT aceitação (f) por parte do consumidor
 
 EN consumer behaviour
-+base consumer
++base consumer:
 PT comportamento (m) do consumidor
 
 EN consumer goods
-+base consumer
++base consumer:
 PT bens (mpl) de consumo
 
 EN consumer durables
-+base consumer
++base consumer:
 PT bens (mpl) duráveis de consumo
 
 EN consumer research
-+base consumer
++base consumer:
 PT pesquisa (f) de consumidores
 
 EN consumer resistance
-+base consumer
++base consumer:
 PT resistência (f) por parte do consumidor
 
 EN consumer satisfaction
-+base consumer
++base consumer:
 PT satisfação (f) por parte do consumidor
 
 EN consumers'panel
@@ -1958,34 +1958,34 @@ EN contango
 PT juros (mpl) por transferência
 
 EN work content
-+base content
++base content:
 PT atribuições (fpl) no trabalho
 
 EN contingency reserve
 PT reserva (f) para contingências
 
 EN continuous flow production
-+base continuous
++base continuous:
 PT produção (f) contínua
 
 EN continuous stocktaking
-+base continuous
++base continuous:
 PT inventário (m) contínuo
 
 EN draft contract
-+base contract
++base contract:
 PT esboço (m) de contrato
 
 EN forward contract
-+base contract
++base contract:
 PT contrato (m) a termo
 
 EN lease contract
-+base contract
++base contract:
 PT contrato (m) de arrendamento
 
 EN work by contract
-+base contract
++base contract:
 PT trabalho (m) à base de contrato
 
 EN contraction of authority
@@ -1998,95 +1998,95 @@ EN control
 PT controle (m)
 
 EN control information
-+base control
++base control:
 PT dados (mpl) de controle
 
 EN adaptive control
-+base control
++base control:
 PT controle (m) adaptativo
 
 EN administrative control procedure
-+base control
++base control:
 PT procedimento (m) de controle administrativo
 
 EN batch control
-+base control
++base control:
 PT controle (m) de lote
 
 EN board control
-+base control
++base control:
 PT controle (m) de diretoria
 
 EN budgetary control
-+base control
++base control:
 PT controle (m) orçamentário
 
 EN budgeting control
-+base control
++base control:
 PT controle (m) orçamentário
 
 EN cost control
-+base control
++base control:
 PT controle (m) de custos
 
 EN credit control
-+base control
++base control:
 PT controle (m) de crédito
 
 EN exchange control
-+base control
++base control:
 PT controle (m) de câmbio
 
 EN financial control
-+base control
++base control:
 PT controle (m) financeiro
 
 EN inventory control
-+base control
++base control:
 PT controle (m) de inventário
 
 EN managerial control
-+base control
++base control:
 PT controle (m) gerencial
 
 EN manufacturing control
-+base control
++base control:
 PT controle (m) de fabricação
 
 EN numerical control
-+base control
++base control:
 PT controle (m) numérico
 
 EN process control
-+base control
++base control:
 PT controle (m) de processo
 
 EN production control
-+base control
++base control:
 PT controle (m) de produção
 
 EN production, planning and control
-+base control
++base control:
 PT planejamento (m) e controle de produção
 
 EN progress control
-+base control
++base control:
 PT controle (m) de progresso
 
 EN quality (QC) control
-+base control
++base control:
 PT controle (m) de qualidade
 
 EN total quality control
-+base control
++base control:
 PT controle (m) geral de qualidade
 
 EN span of control
-+base control
++base control:
 PT esfera (f) de controle
 
 EN statistical control stock control
-+base control
++base control:
 PT controle (m) estatístico controle (m) de estoque
 
 EN controller
@@ -2100,237 +2100,237 @@ PT direitos (mpl) reservados
 PT direito (m) autoral
 
 EN copyright advertising
-+base copyright
++base copyright:
 PT publicidade (f) empresarial
 
 EN copyright growth
-+base copyright
++base copyright:
 PT crescimento (m) da empresa
 
 EN copyright image
-+base copyright
++base copyright:
 PT imagem (f) da companhia
 
 EN copyright model
-+base copyright
++base copyright:
 PT modelo (m) da empresa
 
 EN copyright planning
-+base copyright
++base copyright:
 PT planejamento (m) empresarial
 
 EN copyright strategy
-+base copyright
++base copyright:
 PT estratégia (f) empresarial
 
 EN copyright structure
-+base copyright
++base copyright:
 PT estrutura (f) da empresa
 
 EN corporation tax
-+base corporation
++base corporation:
 PT imposto (m) sobre a empresa
 
 EN public corporation
-+base corporation
++base corporation:
 PT pessoa (f) jurídica de direito público
 
 EN cost accounting
-+base cost
++base cost:
 PT contabilidade (m) de custo
 
 EN cost analysis
-+base cost
++base cost:
 PT análise (f) de custos
 
 EN cost awareness
-+base cost
++base cost:
 PT consciência (f) de custos
 
 EN cost benefit analysis (CBA)
-+base cost
++base cost:
 PT análise (f) de custos e benefícios
 
 EN cost centre
-+base cost
++base cost:
 PT centro (m) de custo
 
 EN cost consciousness
-+base cost
++base cost:
 PT consciência (m) de custo
 
 EN cost control
-+base cost
++base cost:
 PT controle (m) de custos
 PT centro (m) de cargas
 
 EN cost effectiveness
-+base cost
++base cost:
 PT custo (m) da eficácia
 
 EN cost factor
-+base cost
++base cost:
 PT fator (m) de custo
 
 EN cost insurance and freight
-+base cost
++base cost:
 PT custo (m)
 PT seguro e frete
 
 EN cost of production
-+base cost
++base cost:
 PT custo (m) de produção
 
 EN cost of living index
-+base cost
++base cost:
 PT índice (m) de custo de vida
 
 EN cost reduction
-+base cost
++base cost:
 PT redução (f) de custos
 PT remarcação (f)
 
 EN cost standards
-+base cost
++base cost:
 PT standards ou padrões (mpl) de custos
 
 EN cost variance
-+base cost
++base cost:
 PT divergência (f) de custo
 
 EN cost volume-profit-analysis
-+base cost
++base cost:
 PT análise (f) de custo
 PT volume e lucro
 
 EN average cost
-+base cost
++base cost:
 PT custo (m) médio
 
 EN closing down cost
-+base cost
++base cost:
 PT custo (m) de liquidação
 
 EN direct cost
-+base cost
++base cost:
 PT custo (m) direto
 
 EN economic cost
-+base cost
++base cost:
 PT custo (m) econômico
 PT custo (m) corrente
 
 EN historical cost
-+base cost
++base cost:
 PT custo (m) histórico
 
 EN incidental cost
-+base cost
++base cost:
 PT custo (m) adicional
 
 EN indirect cost
-+base cost
++base cost:
 PT custo (m) indireto
 
 EN maintenance cost
-+base cost
++base cost:
 PT custo (m) de manutenção
 
 EN manufacturing cost
-+base cost
++base cost:
 PT custo (m) de fabricação
 
 EN marginal cost
-+base cost
++base cost:
 PT custo (m) marginal
 
 EN operating cost
-+base cost
++base cost:
 PT custo (m) operacional
 
 EN opportunity cost
-+base cost
++base cost:
 PT custo (m) de oportunidade
 
 EN replacement cost
-+base cost
++base cost:
 PT custo (m) de substituição
 
 EN retail cost
-+base cost
++base cost:
 PT custo (m) de varejo
 
 EN allocation of costs
-+base costs
++base costs:
 PT distribuição (f) de custos
 
 EN distribution costs
-+base costs
++base costs:
 PT custos (mpl) de distribuição
 
 EN fixed costs
-+base costs
++base costs:
 PT custos (mpl) fixos
 PT despesas (fpl) fixas
 
 EN estimating systems costs
-+base costs
++base costs:
 PT avaliação (f) de custos de sistemas
 
 EN managed costs
-+base costs
++base costs:
 PT custos (mpl) controlados
 
 EN set-up costs
-+base costs
++base costs:
 PT custos (mpl) de fundação
 
 EN standard costs
-+base costs
++base costs:
 PT custos (mpl) padrão
 
 EN variable costs
-+base costs
++base costs:
 PT custos (mpl) variáveis
 
 EN semi-variable costs
-+base costs
++base costs:
 PT custos (mpl) semi-variáveis
 
 EN absorption costing
-+base costing
++base costing:
 PT custeio (m) de absorção
 
 EN direct costing
-+base costing
++base costing:
 PT custeio (m) direto
 
 EN functional costing
-+base costing
++base costing:
 PT custeio (m) funcional
 
 EN marginal costing
-+base costing
++base costing:
 PT custeio (m) marginal
 
 EN product costing
-+base costing
++base costing:
 PT custeio (m) do produto
 
 EN standard costing
-+base costing
++base costing:
 PT custeio (m) padrão
 
 EN variable costing
-+base costing
++base costing:
 PT custeio (m) variável
 
 EN works council
-+base council
++base council:
 PT conselho (m) de fábrica
 
 EN employee counselling
-+base counselling
++base counselling:
 PT aconselhamento (m) do quadro de empregados
 
 EN country of origin
@@ -2340,71 +2340,71 @@ EN cover ratio
 PT índice (m) de cobertura
 
 EN sales coverage
-+base coverage
++base coverage:
 PT alcance (m) do serviço de vendas
 
 EN creative marketing
-+base creative
++base creative:
 PT marketing (m) criativo
 
 EN creative thinking
-+base creative
++base creative:
 PT espírito (m) criativo
 
 EN credit balance
-+base credit
++base credit:
 PT saldo (m) credor
 
 EN credit control
-+base credit
++base credit:
 PT controle (m) de crédito
 
 EN credit management
-+base credit
++base credit:
 PT administração (f) de crédito
 
 EN credit rating
-+base credit
++base credit:
 PT avaliação (f) de solvência
 
 EN credit squeeze
-+base credit
++base credit:
 PT aperto (m) de crédito
 
 EN credit terms
-+base credit
++base credit:
 PT condições (fpl) de crédito
 
 EN export credit
-+base credit
++base credit:
 PT crédito (m) para exportação
 
 EN import credit
-+base credit
++base credit:
 PT crédito (m) para importação
 
 EN irrevocable letter of credit
-+base credit
++base credit:
 PT carta (f) de crédito irrevogável
 
 EN line of credit
-+base credit
++base credit:
 PT linha (f) de crédito
 
 EN investment criteria
-+base criteria
++base criteria:
 PT normas (fpl) para investimentos
 
 EN critical mass
-+base critical
++base critical:
 PT massa (f) crítica
 
 EN critical path analysis (CPA)
-+base critical
++base critical:
 PT análise (f) do caminho crítico (CPA)
 
 EN critical path method (CPM)
-+base critical
++base critical:
 PT método (m) do caminho crítico (CPM)
 
 EN crosslicensing
@@ -2414,35 +2414,35 @@ EN currency
 PT moeda (m) corrente
 
 EN currency rate
-+base currency
++base currency:
 PT taxa (f) de câmbio
 
 EN free currency
-+base currency
++base currency:
 PT moeda (f) conversível
 
 EN foreign currency
-+base currency
++base currency:
 PT moeda (f) estrangeira
 
 EN hard currency
-+base currency
++base currency:
 PT moeda (f) forte
 
 EN current assets
-+base current
++base current:
 PT ativo (m) corrente
 
 EN current net assets
-+base current
++base current:
 PT ativo (m) corrente líquido
 
 EN current expenditure
-+base current
++base current:
 PT despesa (f) corrente
 
 EN current liabilities
-+base current
++base current:
 PT passivo (m) corrente
 PT passivo (m) exigível a curto prazo
 
@@ -2450,74 +2450,74 @@ EN curve
 PT curva (f) de distribuição normal
 
 EN bell-shaped curve
-+base curve
++base curve:
 PT curva (f) de Gauss curva (f) de Gauss
 PT curva (f)
 
 EN Gaussian curve
-+base curve
++base curve:
 PT de distribuição normal curva ff) de aprendizagem
 
 EN learning curve
-+base curve
++base curve:
 PT curva (f) de incremento de salários
 
 EN salary progression curve
-+base curve
++base curve:
 
 EN customer
 PT orientação (f) do consumidor
 
 EN customer orientation
-+base customer
++base customer:
 PT perfil (m) de consumidores
 
 EN customer profile
-+base customer
++base customer:
 PT serviço (m) ao consumidor
 
 EN customer service
-+base customer
++base customer:
 PT alfândega (f)
 
 EN customs
 PT desembaraço (m) aduaneiro
 
 EN customs clearance
-+base customs
++base customs:
 PT impostos (mpl) aduaneiros
 PT gravames
 
 EN customs duties
-+base customs
++base customs:
 PT (mpl) alfandegários fatura (f) aduaneira
 
 EN cut prices (to -)
 PT reduzir preços (mpl)
 
 EN price cutting
-+base cutting
++base cutting:
 PT redução (f) de preços
 
 EN cybernetics
-+base cutting
++base cutting:
 PT cibernética (f)
 
 EN business cycle
-+base cycle
++base cycle:
 PT ciclo (m) econômico
 
 EN life cycle (of a product)
-+base cycle
++base cycle:
 PT ciclo (m) de vida (de um produto)
 PT vida (f) útil
 
 EN trade cycle
-+base cycle
++base cycle:
 PT ciclo (m) comercial
 
 EN work cycle
-+base cycle
++base cycle:
 PT ciclo (m) de trabalho
 
 EN DCF (discounted cash flow)
@@ -2525,31 +2525,31 @@ PT relação (f) entre receita e investimento
 PT menos impostos
 
 EN data acquisition
-+base data
++base data:
 PT aquisição (f) de dados
 
 EN data bank
-+base data
++base data:
 PT banco (m) de dados
 
 EN data gathering
-+base data
++base data:
 PT coleta (f) de dados
 
 EN data processing
-+base data
++base data:
 PT processamento (m) de dados
 
 EN automatic data processing (ADP)
-+base data
++base data:
 PT processamento (m) automático de dados
 
 EN electronic data processing (EDP)
-+base data
++base data:
 PT processamento (m) eletrônico de dados
 
 EN package deal
-+base deal
++base deal:
 PT oferta (f) combinada
 PT pacote (m) de negociações
 
@@ -2565,11 +2565,11 @@ PT dívida (f)
 PT débito (m)
 
 EN debt ratio
-+base debt
++base debt:
 PT índice (m) de endividamento
 
 EN doubtful debt
-+base debt
++base debt:
 PT dívida (f) duvidosa
 
 EN debtors
@@ -2582,35 +2582,35 @@ EN decentralisation
 PT descentralização (f)
 
 EN decision analysis
-+base decision
++base decision:
 PT análise (f) de decisão
 
 EN decision making
-+base decision
++base decision:
 PT processo (m) de tomar decisões
 
 EN decision model
-+base decision
++base decision:
 PT modelo (m) de decisões
 
 EN decision process
-+base decision
++base decision:
 PT processo (m) de decisões
 
 EN decision theory
-+base decision
++base decision:
 PT teoria (f) de decisões
 
 EN decision tree
-+base decision
++base decision:
 PT árvore (f) de decisão
 
 EN declared capital
-+base declared
++base declared:
 PT capital (m) declarado
 
 EN declared dividend
-+base declared
++base declared:
 PT dividendo (m) declarado
 
 EN deed
@@ -2637,43 +2637,43 @@ EN delegation
 PT delegação (f)
 
 EN delivery against payment
-+base delivery
++base delivery:
 PT entrega (f) contra pagamento
 
 EN delivery note
-+base delivery
++base delivery:
 PT nota (f) de entrega
 
 EN demand deposit
-+base demand
++base demand:
 PT depósito (m) à vista
 
 EN industrial democracy
-+base democracy
++base democracy:
 PT democracia (f) industrial
 
 EN demurrage
 PT compensação (f) pela demora de um navio no porto
 
 EN accounting departament
-+base departament
++base departament:
 PT contadoria (f)
 PT departamento (m) de contabilidade
 
 EN engineering and design departament
-+base departament
++base departament:
 PT departamento (m) técnico e de projetos
 
 EN personnel departament
-+base departament
++base departament:
 PT departamento (m) de pessoal
 
 EN research departament
-+base departament
++base departament:
 PT departamento (m) de pesquisa
 
 EN sales departament
-+base departament
++base departament:
 PT departamento (m) de vendas
 
 EN departmental planning
@@ -2707,54 +2707,54 @@ EN depression
 PT depressão (f)
 
 EN depth analysis
-+base depth
++base depth:
 PT análise (f) em profundidade
 
 EN depth interview
-+base depth
++base depth:
 PT entrevista (f) em profundidade
 
 EN deputy chairman
-+base deputy
++base deputy:
 PT vice-presidente (m)
 
 EN deputy manager
-+base deputy
++base deputy:
 PT sub-gerente (m)
 
 EN deputy managing director
-+base deputy
++base deputy:
 PT sub-diretor (m)
 
 EN job description
-+base description
++base description:
 PT descrição (f) das atribuições do cargo
 
 EN design engineering
-+base design
++base design:
 PT estudo (m) de projetos
 
 EN engineering and design departament
-+base design
++base design:
 PT departamento (m) técnico e de projetos
 
 EN job design
-+base design
++base design:
 PT delineação (m) de tarefas
 
 EN product design
-+base design
++base design:
 PT planejamento (m) de produtos
 
 EN systems design
-+base design
++base design:
 PT planejamento (m) de sistemas
 
 EN desk research
 PT investigação (f) de gabinete
 
 EN price determination
-+base determination
++base determination:
 PT determinação (f) de preços
 
 EN devaluation
@@ -2764,144 +2764,144 @@ EN devalue (to-)
 PT desvalorizar
 
 EN development potential
-+base development
++base development:
 PT potencial (m) de desenvolvimento
 
 EN development programme
-+base development
++base development:
 PT programa (m) de desenvolvimento
 
 EN executive development
-+base development
++base development:
 PT formação (f) de executivos
 
 EN management development
-+base development
++base development:
 PT formação (f) de direção
 
 EN organisational development
-+base development
++base development:
 PT desenvolvimento (m) da organização
 
 EN product development
-+base development
++base development:
 PT desenvolvimento (m) de produtos
 
 EN new product development
-+base development
++base development:
 PT desenvolvimento (m) de novos produtos
 
 EN research and development (R and D)
-+base development
++base development:
 PT pesquisa (f) e desenvolvimento
 
 EN deviate from
 PT afastar-se de
 
 EN standard deviation
-+base deviation
++base deviation:
 PT desvio-padrão (m)
 
 EN diagnostic routine
 PT rotina (f) de diagnóstico
 
 EN scatter diagram
-+base diagram
++base diagram:
 PT diagrama fm) de dispersão
 
 EN price differential
-+base differential
++base differential:
 PT disparidade (f) de preços
 
 EN wage differential
-+base differential
++base differential:
 PT disparidade (f) de salários
 
 EN product differentiation
-+base differentiation
++base differentiation:
 PT diferenciação (f) entre produtos
 
 EN digital computer
 PT computador (m) digital
 
 EN dilution of equity
-+base dilution
++base dilution:
 PT diluição (f) do patrimônio líquido
 
 EN dilution of labour
-+base dilution
++base dilution:
 PT diluição (f) da mão-de-obra
 
 EN direct bill of lading
-+base direct
++base direct:
 PT conhecimento (m) sem transbordo
 
 EN direct cost
-+base direct
++base direct:
 PT disto (m) direto
 
 EN direct costing
-+base direct
++base direct:
 PT custeio (m) direto
 
 EN direct expenses
-+base direct
++base direct:
 PT despesas (fpl) diretas
 
 EN direct labour
-+base direct
++base direct:
 PT mão-de-obra (f) direta
 
 EN direct mail
-+base direct
++base direct:
 PT mala (f) direta
 
 EN direct purchasing
-+base direct
++base direct:
 PT compra (f) direta do produto
 
 EN direct selling
-+base direct
++base direct:
 PT venda (f) direta
 
 EN direct shipment
-+base direct
++base direct:
 PT embarque (m) direto
 
 EN director
 PT diretor (m)
 
 EN executive director
-+base director
++base director:
 PT diretor (m) executivo
 
 EN non-executive director
-+base director
++base director:
 PT diretor (m) sem poder executivo
 
 EN financial director
-+base director
++base director:
 PT diretor (m) financeiro
 
 EN managing director
-+base director
++base director:
 PT diretor-presidente (m)
 
 EN deputy managing director
-+base director
++base director:
 PT sub-diretor (m)
 
 EN outside director
-+base director
++base director:
 PT diretor (m) externo
 PT diretor (m) suplente
 
 EN interlocking directorate
-+base directorate
++base directorate:
 PT diretoria (f) entrosada
 
 EN board of directors
-+base directors
++base directors:
 PT diretoria (f)
 PT conselho (m) de administração
 
@@ -2919,7 +2919,7 @@ EN discount
 PT desconto (m)
 
 EN discount rate
-+base discount
++base discount:
 PT taxa (f) de desconto
 
 EN discounted cash flow
@@ -2927,11 +2927,11 @@ PT relação (f) entre receita e investimento
 PT menos impostos
 
 EN time span of discretion
-+base discretion
++base discretion:
 PT tempo (m) máximo discrecional
 
 EN diseconomy of scale discretion
-+base discretion
++base discretion:
 PT deseconomia (f) de escala
 
 EN disembark (to -)
@@ -2955,50 +2955,50 @@ PT despacho (m)
 PT expedição (f)
 
 EN source and disposition  of funds
-+base disposition
++base disposition:
 PT origem (m) e aplicação (f) de recursos
 
 EN labour dispute
-+base dispute
++base dispute:
 PT conflito (m) trabalhista
 
 EN dissolution
 PT dissolução (f)
 
 EN distribution costs
-+base distribution
++base distribution:
 PT custos de distribuição
 
 EN distribution manager
-+base distribution
++base distribution:
 PT gerente (m) de distribuição
 
 EN distribution network
-+base distribution
++base distribution:
 PT rede (f) de distribuição
 
 EN distribution planning
-+base distribution
++base distribution:
 PT planejamento (m) de distribuição
 
 EN chain of distribution
-+base distribution
++base distribution:
 PT cadeia (f) de distribuição
 
 EN channels of distribution
-+base distribution
++base distribution:
 PT canais (mpl) de distribuição
 
 EN frequency distribution
-+base distribution
++base distribution:
 PT distribuição (f) por freqüência
 
 EN normal distribution
-+base distribution
++base distribution:
 PT distribuição (f) normal
 
 EN physical distribution management
-+base distribution
++base distribution:
 PT controle (m) da distribuição física
 
 EN distributor
@@ -3009,11 +3009,11 @@ EN diversification
 PT diversificação (f)
 
 EN diversification strategy
-+base diversification
++base diversification:
 PT estratégia (f) de diversificação
 
 EN product diversification
-+base diversification
++base diversification:
 PT diversificação (f) de produtos
 
 EN diversify (to -)
@@ -3024,27 +3024,27 @@ PT redução (f) do ativo
 PT desinvestimento (m)
 
 EN dividend warrant
-+base dividend
++base dividend:
 PT fiança (f) de dividendo
 
 EN declared dividend
-+base dividend
++base dividend:
 PT dividendo (m) declarado
 
 EN deferred dividend
-+base dividend
++base dividend:
 PT dividendo (m) de pagamento futuro
 
 EN interim dividend
-+base dividend
++base dividend:
 PT dividendo (m) preliminar
 
 EN dividends policy
-+base dividends
++base dividends:
 PT política (f) de dividendos
 
 EN operating division
-+base division
++base division:
 PT divisão (f) operacional
 
 EN divisional management
@@ -3064,15 +3064,15 @@ PT de porta (f) em porta (f)
 PT porta (f) a porta (f)
 
 EN double entry
-+base double
++base double:
 PT partidas (fpl) dobradas
 
 EN double entry bookkeeping
-+base double
++base double:
 PT escrituração (f) por partidas dobradas
 
 EN double taxation relief
-+base double
++base double:
 PT descarga (f) de impostos duplicados
 
 EN doubtful debts
@@ -3094,19 +3094,19 @@ PT letra (f) de câmbio
 PT rascunho (m)
 
 EN draft contract
-+base draft
++base draft:
 PT esboço (m) de contrato
 
 EN advertising drive
-+base drive
++base drive:
 PT esforço (m) publicitário
 
 EN productivity drive
-+base drive
++base drive:
 PT esforço (m) para aumentar produtividade
 
 EN sales drive
-+base drive
++base drive:
 PT empurrão (m) de vendas
 
 EN due date
@@ -3119,42 +3119,42 @@ EN duplicate
 PT duplicata (f)
 
 EN duties customs
-+base duties
++base duties:
 PT impostos (mpl) alfandegários
 
 EN import duties
-+base duties
++base duties:
 PT taxas (fpl) de importação
 
 EN duty-free
 PT isento de impostos
 
 EN dynamic evaluation
-+base dynamic
++base dynamic:
 PT avaliação (f) dinâmica
 
 EN dynamic management model
-+base dynamic
++base dynamic:
 PT modelo (m) dinâmico de administração
 
 EN dynamic programming
-+base dynamic
++base dynamic:
 PT programação (f) dinâmica
 
 EN group dynamics
-+base dynamics
++base dynamics:
 PT dinâmica (f) de grupo
 
 EN industrial dynamics
-+base dynamics
++base dynamics:
 PT dinâmica (f) industrial
 
 EN market dynamics
-+base dynamics
++base dynamics:
 PT dinâmica (f) do mercado
 
 EN product dynamics
-+base dynamics
++base dynamics:
 PT dinâmica (f) do produto
 
 EN EDP (electronic data processing)
@@ -3170,125 +3170,125 @@ EN earn (to -)
 PT ganhar
 
 EN earn (to earn (to -)) income
-+base earn (to -)
++base earn (to -):
 PT salário (m)
 
 EN earn (to earn (to -)) surplus
-+base earn (to -)
++base earn (to -):
 PT lucro (m) excedente
 
 EN earning power
-+base earning
++base earning:
 PT capacidade (f) de lucro
 PT rentabilidade (f)
 
 EN gross earning
-+base earning
++base earning:
 PT renda (f) bruta
 
 EN earnings on assets
-+base earnings
++base earnings:
 PT rendimento (f) do ativo
 
 EN earnings per share
-+base earnings
++base earnings:
 PT lucro (m) por ação
 
 EN earnings performance
-+base earnings
++base earnings:
 PT rentabilidade (f)
 
 EN earnings yield
-+base earnings
++base earnings:
 PT taxa (f) de rendimento índice (m) de capitalização
 
 EN price earnings ratio (P/E)
-+base earnings
++base earnings:
 PT de benefícios lucros (mpl) não distribuídos
 
 EN retained earnings
-+base earnings
++base earnings:
 PT lucros (mpl) suspensos
 
 EN economic batch quantity
-+base economic
++base economic:
 PT tamanho (mpl) do lote econômico
 
 EN economic cost
-+base economic
++base economic:
 PT custo (m) econômico
 PT custo (m) corrente
 
 EN economic intelligence
-+base economic
++base economic:
 PT informações (fpl) econômicas
 
 EN economic life
-+base economic
++base economic:
 PT vida (f) econômica
 
 EN economic lot size
-+base economic
++base economic:
 PT tamanho (m) do lote econômico
 
 EN economic manufacturing quantity
-+base economic
++base economic:
 PT tamanho (m) do lote econômico de fabricação
 
 EN economic mission
-+base economic
++base economic:
 PT missão (f) econômica
 
 EN economic order quantity
-+base economic
++base economic:
 PT tamanho (m) econômico de pedidos
 
 EN economic research
-+base economic
++base economic:
 PT pesquisa (f) econômica
 
 EN economic trend
-+base economic
++base economic:
 PT tendência (f) econômica
 
 EN business economist
-+base economist
++base economist:
 PT economista (m) empresarial
 
 EN economy of scale
-+base economy
++base economy:
 PT economia (f) de escala
 
 EN motion economy
-+base economy
++base economy:
 PT economia (f) de movimentos
 
 EN competitive edge
-+base edge
++base edge:
 PT vantagem (f) sobre a concorrência
 
 EN effective management
-+base effective
++base effective:
 PT administração (f) eficaz
 
 EN effective rate
-+base effective
++base effective:
 PT taxa (f) efetiva
 
 EN advertising effectiveness
-+base effectiveness
++base effectiveness:
 PT eficácia (f) da publicidade
 
 EN cost effectiveness
-+base effectiveness
++base effectiveness:
 PT custo (m) da eficácia
 
 EN managerial effectiveness
-+base effectiveness
++base effectiveness:
 PT eficácia (f) gerencial
 
 EN organisational effectiveness
-+base effectiveness
++base effectiveness:
 PT eficácia (f) da organização
 
 EN effects
@@ -3299,7 +3299,7 @@ EN efficiency
 PT eficiência (f)
 
 EN sales expansion effort
-+base effort
++base effort:
 PT esforço (m) para aumentar vendas
 
 EN elasticity
@@ -3320,23 +3320,23 @@ PT desfalque (m)
 PT extravio (m)
 
 EN capital employed
-+base employed
++base employed:
 PT capital (m) investido
 
 EN return on employed (ROCE)
-+base employed
++base employed:
 PT rendimento (m) do capital investido
 
 EN employee counselling
-+base employee
++base employee:
 PT aconselhamento (m) ao quadro de empregados
 
 EN employee relations
-+base employee
++base employee:
 PT relações (fpl) com o quadro de empregados
 
 EN conditions of employment
-+base employment
++base employment:
 PT termos (mpl) de emprego
 
 EN employer
@@ -3354,41 +3354,41 @@ EN endorsement
 PT endosso (m)
 
 EN engineering and design department
-+base engineering
++base engineering:
 PT departamento (m) técnico e de projetos
 
 EN design engineering
-+base engineering
++base engineering:
 PT estudo (m) de projetos
 
 EN human engineering
-+base engineering
++base engineering:
 PT adaptação (f) do trabalho ao homem
 
 EN industrial engineering
-+base engineering
++base engineering:
 PT organização (f) industrial
 PT engenharia (f) industrial
 
 EN methods engineering
-+base engineering
++base engineering:
 PT estudo (m) de métodos
 
 EN production engineering
-+base engineering
++base engineering:
 PT técnicas (fpl) de produção
 
 EN systems engineering
-+base engineering
++base engineering:
 PT elaboração (f) de sistemas
 
 EN value engineering
-+base engineering
++base engineering:
 PT análise (f) de custos
 PT análise (f) de valores
 
 EN job enlargement
-+base enlargement
++base enlargement:
 PT ampliação (f) de tarefas
 
 EN enterprise
@@ -3404,27 +3404,27 @@ EN environment
 PT meio ambiente (m)
 
 EN forecasting
-+base environmental
++base environmental:
 PT previsão (f) sobre o meio ambiente
 
 EN equipment leasing
-+base equipment
++base equipment:
 PT aluguel (m) de equipamento
 
 EN peripheral equipment
-+base equipment
++base equipment:
 PT equipamento (m) periférico
 
 EN process equipment layout
-+base equipment
++base equipment:
 PT esquema (m) da instalação de produção
 
 EN dilution of equity
-+base equity
++base equity:
 PT diluição (f) do patrimônio líquido
 
 EN return on equity
-+base equity
++base equity:
 PT rendimento (m) de ações
 
 EN ergonometrics
@@ -3435,14 +3435,14 @@ PT ergonomia (f)
 PT relação (f) do homem com o trabalho
 
 EN price escalation
-+base escalation
++base escalation:
 PT escalada (f) de preços
 
 EN escalator clause
 PT cláusula (f) de reajuste
 
 EN industrial espionage
-+base espionage
++base espionage:
 PT espionagem (f) industrial
 
 EN estate
@@ -3450,7 +3450,7 @@ PT bem imóvel (m)
 PT espólio (m)
 
 EN sales estimate
-+base estimate
++base estimate:
 PT estimativa (f) de vendas
 
 EN estimated time of arrival
@@ -3472,71 +3472,71 @@ EN European Economic Community(EEC)
 PT Mercado (m) Comum Europeu (MCE)
 
 EN capital project evaluation
-+base evaluation
++base evaluation:
 PT avaliação (f) de projetos de investimentos
 
 EN dynamic evaluation job evaluation
-+base evaluation
++base evaluation:
 PT avaliação (f) dinâmica avaliação (f) de cargos e tarefas
 
 EN performance evaluation
-+base evaluation
++base evaluation:
 PT avaliação (f) de desempenho
 
 EN ex evaluation dock
-+base evaluation
++base evaluation:
 PT posto na doca (f)
 
 EN ex evaluation factory
-+base evaluation
++base evaluation:
 PT posto na fábrica (f)
 
 EN ex evaluation warehouse
-+base evaluation
++base evaluation:
 PT posto no depósito (m)
 
 EN management by exception
-+base exception
++base exception:
 PT direção (f) por exceção
 
 EN excess capacity
-+base excess
++base excess:
 PT capacidade (f) excessiva
 
 EN excess profits
-+base excess
++base excess:
 PT lucros (mpl) excessivos
 
 EN exchange at par
-+base exchange
++base exchange:
 PT taxa (f) de câmbio ao par
 
 EN exchange broker
-+base exchange
++base exchange:
 PT corretor (m) de câmbio
 
 EN exchange control
-+base exchange
++base exchange:
 PT controle (m) de câmbio
 
 EN exchange operations
-+base exchange
++base exchange:
 PT operações (fpl) de câmbio
 
 EN exchange rate
-+base exchange
++base exchange:
 PT taxa (f) de câmbio
 
 EN foreign exchange
-+base exchange
++base exchange:
 PT câmbio (m)
 
 EN free exchange
-+base exchange
++base exchange:
 PT câmbio (m) livre
 
 EN stock exchange
-+base exchange
++base exchange:
 PT bolsa (f) de valores
 
 EN excise
@@ -3548,42 +3548,42 @@ EN execute an order (to -)
 PT atender um pedido
 
 EN policy execution
-+base execution
++base execution:
 PT realização (f) de uma política
 
 EN executive board
-+base executive
++base executive:
 PT junta (f)
 PT diretoria (f) executiva
 
 EN executive competence
-+base executive
++base executive:
 PT competência (f) do executivo
 
 EN executive development
-+base executive
++base executive:
 PT formação (f) de executivos
 
 EN executive director
-+base executive
++base executive:
 PT diretor (m) executivo
 
 EN executive manpower strategy
-+base executive
++base executive:
 PT estratégia (f) para o quadro executivo
 
 EN executive search
-+base executive
++base executive:
 PT recrutamento (m) de executivos
 
 EN chief executive
-+base executive
++base executive:
 PT diretor-presidente (m)
 PT gerente (m) geral
 PT chefe (m) executivo
 
 EN line executive
-+base executive
++base executive:
 PT executivo (m) de linha
 
 EN exempt
@@ -3594,54 +3594,54 @@ EN expand (to)
 PT ampliar
 
 EN expansion strategy
-+base expansion
++base expansion:
 PT estratégia (f) de desenvolvimento
 
 EN sales expansion effort
-+base expansion
++base expansion:
 PT esforço (m) para aumentar vendas
 
 EN job expectations
-+base expectations
++base expectations:
 PT expectativas (fpl) do cargo
 
 EN sales expectations
-+base expectations
++base expectations:
 PT expectativas (fpl) de vendas
 
 EN expedite (to)
 PT expedir
 
 EN current expenditure
-+base expenditure
++base expenditure:
 PT despesa (f) corrente
 
 EN operating expense
-+base expense
++base expense:
 PT despesa (f) operacional
 
 EN direct expenses
-+base expenses
++base expenses:
 PT despesas (fpl) diretas
 
 EN general expenses
-+base expenses
++base expenses:
 PT despesas (fpl) gerais
 
 EN indirect expenses
-+base expenses
++base expenses:
 PT despesas (fpl) indiretas
 
 EN overhead expenses
-+base expenses
++base expenses:
 PT despesas (fpl) gerais
 
 EN recovery of expenses
-+base expenses
++base expenses:
 PT recuperação (f) de despesas
 
 EN running expenses
-+base expenses
++base expenses:
 PT despesas (fpl) operacionais
 
 EN expire (to)
@@ -3654,19 +3654,19 @@ EN exploitation
 PT exploração (f)
 
 EN market exploration
-+base exploration
++base exploration:
 PT investigação (f) de mercado
 
 EN exponential trends
-+base exponential
++base exponential:
 PT tendências (fpl) exponenciais
 
 EN exponential smoothing
-+base exponential
++base exponential:
 PT aproximação (f) exponencial
 
 EN export credit
-+base export
++base export:
 PT crédito (m) para exportação
 
 EN expropriation
@@ -3676,11 +3676,11 @@ EN extension services
 PT serviços (mpl) logísticos
 
 EN external audit
-+base external
++base external:
 PT exame (m) por auditores externos
 
 EN external relations
-+base external
++base external:
 PT relações (fpl) externas
 
 EN FAS (free alongside ship)
@@ -3690,15 +3690,15 @@ EN FOB (free on board)
 PT FOB
 
 EN cost factor
-+base factor
++base factor:
 PT fator (m) de custo
 
 EN load factor
-+base factor
++base factor:
 PT fator (m) de utilização de capacidade produtiva
 
 EN profit factor analysis
-+base factor
++base factor:
 PT análise (f) de elementos de lucro
 
 EN factoring
@@ -3723,67 +3723,67 @@ EN fiduciary
 PT administrador (m) de um espólio
 
 EN field research
-+base field
++base field:
 PT pesquisa (f) no campo de operações
 
 EN field testing
-+base field
++base field:
 PT provas (fpl) de mercado
 PT de funcionamento
 PT etc.
 
 EN financial administration
-+base financial
++base financial:
 PT administração (f) financeira
 
 EN financial analysis
-+base financial
++base financial:
 PT análise (f) financeira
 
 EN financial appraisal
-+base financial
++base financial:
 PT avaliação (f) financeira
 
 EN financial control
-+base financial
++base financial:
 PT controle (m) financeiro
 
 EN financial director
-+base financial
++base financial:
 PT diretor (m) financeiro
 
 EN financial management
-+base financial
++base financial:
 PT administração (f) financeira
 
 EN financial planning
-+base financial
++base financial:
 PT planejamento (m) financeiro
 
 EN financial ratio
-+base financial
++base financial:
 PT índice (m) financeiro
 
 EN financial review
-+base financial
++base financial:
 PT análise (f) financeira
 
 EN financial standards
-+base financial
++base financial:
 PT padrões (mpl) financeiros
 PT normas (fpl) financeiras
 
 EN financial strategy
-+base financial
++base financial:
 PT estratégia (f) financeira
 
 EN financial year
-+base financial
++base financial:
 PT exercício (m) financeiro
 PT ano contábil
 
 EN self financing
-+base financing
++base financing:
 PT auto-financiamento (m)
 
 EN fine
@@ -3802,25 +3802,25 @@ PT exercício (m) financeiro
 PT ano (m) contábil
 
 EN fixed assets
-+base fixed
++base fixed:
 PT ativo (m) fixo
 PT ativo (m) imobilizado
 
 EN fixed cost
-+base fixed
++base fixed:
 PT custos (m) fixos
 PT despesas (f) fixas
 
 EN fixed term deposits
-+base fixed
++base fixed:
 PT depósitos (mpl) a prazo fixo
 
 EN flat fee
-+base flat
++base flat:
 PT taxa (f) fixa
 
 EN flat rate
-+base flat
++base flat:
 PT taxa (f) sem juros constantes
 
 EN flexible budget
@@ -3830,12 +3830,12 @@ EN float (to -)
 PT colocar no mercado
 
 EN floating capital
-+base floating
++base floating:
 PT capital (mj de giro
 PT capital (m) circulante
 
 EN floating exchange rate
-+base floating
++base floating:
 PT taxa (f) de câmbio flutuante
 
 EN flotation
@@ -3843,44 +3843,44 @@ PT flutuação (f)
 PT levantar empréstimo (m)
 
 EN flow chart
-+base flow
++base flow:
 PT fluxograma (m)
 
 EN flow line
-+base flow
++base flow:
 PT linha (f) de fluxo
 
 EN flow process chart
-+base flow
++base flow:
 PT gráfico (m) de fluxo de processo
 
 EN flow production
-+base flow
++base flow:
 PT produção (f) em cadeia
 
 EN continuous flow
-+base flow
++base flow:
 PT fluxo (mj contínuo
 
 EN cash flow
-+base flow
++base flow:
 PT fluxo (m) em caixa
 
 EN discounted cash flow (DCF)
-+base flow
++base flow:
 PT relação (f) entre receita e investimento
 PT menos impostos
 
 EN incremental cash flow
-+base flow
++base flow:
 PT fluxo (m) de caixa adicional
 
 EN funds flows
-+base flow
++base flow:
 PT movimento (m)de recursos
 
 EN information flows
-+base flow
++base flow:
 PT fluxo (m) de dados
 
 EN follow-up
@@ -3888,53 +3888,53 @@ PT seguimento (m)
 PT acompanhamento
 
 EN sales force
-+base force
++base force:
 PT equipe (f) de vendas
 
 EN task force
-+base force
++base force:
 PT grupo (m) de trabalho
 PT grupo (mj de estudos
 
 EN market forces
-+base forces
++base forces:
 PT tendências (Jpl) do mercado
 
 EN market forecast
-+base forecast
++base forecast:
 PT previsão (f) do mercado
 
 EN sales forecast
-+base forecast
++base forecast:
 PT previsão (f) de vendas
 
 EN technological forecast
-+base forecast
++base forecast:
 PT previsão (f) tecnológica
 
 EN budget forecast
-+base forecast
++base forecast:
 PT previsão (f) orçamentária
 
 EN business forecast
-+base forecast
++base forecast:
 PT previsão (f) comercial
 PT prognóstico (m) comercial
 
 EN environmental forecast
-+base forecast
++base forecast:
 PT previsão (f) sobre o meio ambiente
 
 EN manpower forecast
-+base forecast
++base forecast:
 PT previsão (f) de mão-de-obra
 
 EN foreign currency
-+base foreign
++base foreign:
 PT moeda (f) estrangeira
 
 EN foreign exchange
-+base foreign
++base foreign:
 PT câmbio (m)
 
 EN foreman
@@ -3943,39 +3943,39 @@ PT contramestre (m)
 PT chefe (m) de seção
 
 EN capital formation
-+base formation
++base formation:
 PT formação (f) de capital
 
 EN policy formulation
-+base formulation
++base formulation:
 PT formulação (f) de política
 
 EN strategy formulation
-+base formulation
++base formulation:
 PT formulação (f) de estratégia
 
 EN forward contract
-+base forward
++base forward:
 PT contrato (m) a termo
 
 EN forward planning
-+base forward
++base forward:
 PT planejamento (m) para o futuro
 
 EN free along side ship (FAS)
-+base free
++base free:
 PT despesas (fpl) pagas até a doca
 
 EN free currency
-+base free
++base free:
 PT moeda (f) conversível
 
 EN free exchange
-+base free
++base free:
 PT câmbio (m) livre
 
 EN free o n board (F.O.B.)
-+base free
++base free:
 PT FOB
 
 EN freelance
@@ -3989,63 +3989,63 @@ EN frequency distribution
 PT distribuição (f) de freqüência
 
 EN fringe benefits
-+base fringe
++base fringe:
 PT recompensas (fpl) não assalariadas
 PT vantagens (fpl) adicionais
 
 EN fringe market
-+base fringe
++base fringe:
 PT mercado (m) marginal
 
 EN full time
 PT tempo (m) integral
 
 EN managerial function
-+base function
++base function:
 PT função (f) administrativa
 
 EN functional analysis
-+base functional
++base functional:
 PT análise (f) funcional
 
 EN functional costing
-+base functional
++base functional:
 PT custeio (m) funcional
 
 EN functional layout
-+base functional
++base functional:
 PT esquema (m) funcional
 
 EN functional management
-+base functional
++base functional:
 PT administração (f) funcional
 
 EN functional organisation
-+base functional
++base functional:
 PT organização (f) funcional
 
 EN functional relations
-+base functional
++base functional:
 PT relações (fpl) funcionais
 
 EN functional responsibility
-+base functional
++base functional:
 PT responsabilidade (f) funcional
 
 EN loan fund
-+base fund
++base fund:
 PT fundo (m) para empréstimos
 
 EN sinking fund
-+base fund
++base fund:
 PT fundo (m) para amortização
 
 EN funds flows
-+base funds
++base funds:
 PT movimento (m) de recursos
 
 EN source and disposition of
-+base funds
++base funds:
 PT origem (m) e aplicação (f) de recursos
 
 EN future price
@@ -4059,31 +4059,31 @@ PT ganho (m)
 PT lucro (m)
 
 EN gain or loss
-+base gain
++base gain:
 PT lucro (m) ou perda (f)
 
 EN capital gain
-+base gain
++base gain:
 PT lucro (m) na venda de investimentos
 
 EN game theory
-+base game
++base game:
 PT teoria (f) dos jogos
 
 EN business game
-+base game
++base game:
 PT jogo (m) empresarial
 PT simulação (f) de direção
 
 EN management game
-+base game
++base game:
 PT simulação (f) de direção
 
 EN Gantt chart
 PT quadro (m) de Gantt
 
 EN data gathering
-+base gathering
++base gathering:
 PT coleta de dados
 
 EN gap study
@@ -4117,29 +4117,29 @@ PT objetivo (m)
 PT meta (f)
 
 EN goal seeking
-+base goal
++base goal:
 PT identificação (f) de objetivos
 
 EN goal setting
-+base goal
++base goal:
 PT estabelecimento (m) de objetivos
 
 EN company goal
-+base goal
++base goal:
 PT objetivo (m) da empresa
 
 EN profit goal
-+base goal
++base goal:
 PT objetivo (m) de lucro
 PT meta (f) de lucro
 
 EN sales goal
-+base goal
++base goal:
 PT objetivo (m) de vendas
 PT meta (f) de vendas
 
 EN hierarchy of goals
-+base goals
++base goals:
 PT hierarquia (f) de objetivos
 
 EN gold standard
@@ -4149,17 +4149,17 @@ EN goods
 PT bens (mpl)
 
 EN capital goods
-+base goods
++base goods:
 PT bens (mpl) de capital
 PT ativo (m) fixo
 PT bens (mpl) imobilizados
 
 EN consumer goods
-+base goods
++base goods:
 PT bens (mpl) de consumo
 
 EN industrial goods
-+base goods
++base goods:
 PT bens (mpl) industriais
 
 EN goodwill
@@ -4173,67 +4173,67 @@ PT gratificação (f)
 PT gorjeta (f)
 
 EN grid structure
-+base grid
++base grid:
 PT estrutura (f) de grade
 
 EN managerial grid
-+base grid
++base grid:
 PT grade (f) administrativa
 
 EN grievance procedure
 PT procedimento (m) para atender queixas
 
 EN gross balance
-+base gross
++base gross:
 PT resultado (m) bruto
 
 EN gross earning
-+base gross
++base gross:
 PT renda (f) bruta
 
 EN gross income
-+base gross
++base gross:
 PT renda (f) bruta
 
 EN gross loss
-+base gross
++base gross:
 PT perda (f) bruta
 
 EN gross margin
-+base gross
++base gross:
 PT margem (f) bruta
 PT lucro (m) bruto
 
 EN gross profit
-+base gross
++base gross:
 PT lucro (m) bruto
 
 EN group accounts
-+base group
++base group:
 PT contas (fpl) de grupo
 
 EN group bonus
-+base group
++base group:
 PT prêmio (m) coletivo
 
 EN group dynamics
-+base group
++base group:
 PT dinâmica (f) de grupo
 
 EN group incentive
-+base group
++base group:
 PT incentivo (m) coletivo
 
 EN group training
-+base group
++base group:
 PT treinamento (m) em grupo
 
 EN T group training
-+base group
++base group:
 PT diagnóstico (m) de grupo
 
 EN group product group
-+base group
++base group:
 PT grupo (m) de produtos
 
 EN groupage
@@ -4243,35 +4243,35 @@ EN growth
 PT crescimento (m)
 
 EN growth area
-+base growth
++base growth:
 PT área (f) de crescimento
 
 EN growth index
-+base growth
++base growth:
 PT índice (m) de crescimento
 
 EN growth industry
-+base growth
++base growth:
 PT indústria (f) em crescimento
 
 EN growth potential
-+base growth
++base growth:
 PT potencial (m) de crescimento
 
 EN growth rate
-+base growth
++base growth:
 PT índice (m) de crescimento
 
 EN growth strategy
-+base growth
++base growth:
 PT estratégia (f) de crescimento
 
 EN corporate growth
-+base growth
++base growth:
 PT crescimento (m) da empresa
 
 EN guarantee bond
-+base guarantee
++base guarantee:
 PT obrigação (f) garantida
 
 EN guarantor
@@ -4282,28 +4282,28 @@ EN guesstimate
 PT estimativa (f) aproximada
 
 EN handling charges
-+base handling
++base handling:
 PT taxas (fpl) de serviço
 
 EN information handling
-+base handling
++base handling:
 PT manipulação (m) de dados
 
 EN materials handling
-+base handling
++base handling:
 PT manuseio (m) de materiais
 
 EN hard cash
-+base hard
++base hard:
 PT dinheiro (m) vivo
 PT espécie (m)
 
 EN hard currency
-+base hard
++base hard:
 PT moeda (f) forte
 
 EN hard selling
-+base hard
++base hard:
 PT venda (f) agressiva
 
 EN hardware
@@ -4333,11 +4333,11 @@ PT contratar
 PT admitir
 
 EN plant hire
-+base hire
++base hire:
 PT aluguel (m) de equipamento
 
 EN hire purchase
-+base hire
++base hire:
 PT compra (f) a prazo
 PT compra (f) a prestação
 
@@ -4356,18 +4356,18 @@ EN holdings
 PT participação (f)
 
 EN sataggered holidays
-+base holidays
++base holidays:
 PT férias (fpl) escalonadas
 
 EN horizontal integration
 PT integração (f) horizontal
 
 EN human engineering
-+base human
++base human:
 PT adaptação (f) do trabalho ao homem
 
 EN human relations
-+base human
++base human:
 PT relações (fpl) humanas
 
 EN hypermarket
@@ -4385,70 +4385,70 @@ EN IRR (internal rate of return)
 PT taxa (f) de rendimento interno
 
 EN idle capacity
-+base idle
++base idle:
 PT capacidade (f) ociosa
 
 EN idle time
-+base idle
++base idle:
 PT tempo (m) ocioso
 
 EN brand image
-+base image
++base image:
 PT imagem (f) de uma marca
 
 EN corporate image
-+base image
++base image:
 PT imagem (f) da companhia
 
 EN product image
-+base image
++base image:
 PT imagem (f) do produto
 
 EN profit impact
-+base impact
++base impact:
 PT incidência (f) sobre o lucro
 
 EN strategy implementation
-+base implementation
++base implementation:
 PT execução (f) da estratégia
 
 EN profit implication
-+base implication
++base implication:
 PT implicação (f) sobre o lucro
 
 EN import credit
-+base import
++base import:
 PT crédito (m) para importação
 
 EN import duties
-+base import
++base import:
 PT taxas (fpl) de importação
 
 EN import licence
-+base import
++base import:
 PT licença (f) de importação
 
 EN import permit
-+base import
++base import:
 PT permissão (f) de importação
 
 EN import tariff
-+base import
++base import:
 PT tarifa (f) de importação
 
 EN impound (to -)
 PT apreender judicialmente
 
 EN job improvement
-+base improvement
++base improvement:
 PT aperfeiçoamento (m) do cargo
 
 EN product improvement
-+base improvement
++base improvement:
 PT aperfeiçoamento (m) do produto
 
 EN profit improvement
-+base improvement
++base improvement:
 PT melhora (f) do lucro
 
 EN in bond
@@ -4461,46 +4461,46 @@ EN in-plant training
 PT treinamento (m) interno
 
 EN incentive scheme
-+base incentive
++base incentive:
 PT sistema (m) de incentivos
 
 EN group incentive
-+base incentive
++base incentive:
 PT incentivo (m) coletivo
 
 EN incidental costs
 PT custos (mpl) adicionais
 
 EN income bond
-+base income
++base income:
 PT debenture (m) que paga juro se houver lucro
 
 EN income per head
-+base income
++base income:
 PT renda (f) per capita
 
 EN income statement
-+base income
++base income:
 PT demonstração (f) de lucros e perdas
 
 EN income tax
-+base income
++base income:
 PT imposto (m) de renda
 
 EN income tax return
-+base income
++base income:
 PT declaração (f) de renda
 
 EN national income
-+base income
++base income:
 PT renda (f) interna
 
 EN net income
-+base income
++base income:
 PT renda (f) líquida
 
 EN operating income
-+base income
++base income:
 PT renda (f) operacional
 
 EN incorporate (to -)
@@ -4519,70 +4519,70 @@ EN indemnity
 PT indenização (f)
 
 EN cost of living index
-+base index
++base index:
 PT índice (m) de custo de vida
 
 EN growth index
-+base index
++base index:
 PT índice (m) de crescimento
 
 EN indirect cost
-+base indirect
++base indirect:
 PT custo (m) indireto
 
 EN indirect expenses
-+base indirect
++base indirect:
 PT despesas (fpl) indiretas
 
 EN indirect labour
-+base indirect
++base indirect:
 PT mão-de-obra (f) indireta
 
 EN industrial democracy
-+base industrial
++base industrial:
 PT democracia (f) industrial
 
 EN industrial dynamics
-+base industrial
++base industrial:
 PT dinâmica (f) industrial
 
 EN industrial engineering
-+base industrial
++base industrial:
 PT organização (f) industrial
 PT engenharia (f) industrial
 
 EN industrial espionage
-+base industrial
++base industrial:
 PT espionagem (f) industrial
 
 EN industrial goods
-+base industrial
++base industrial:
 PT bens (mpl) industriais
 
 EN industrial psychology
-+base industrial
++base industrial:
 PT psicologia (f) industrial
 
 EN industrial relations
-+base industrial
++base industrial:
 PT relações (fpl) industriais
 
 EN industrial security
-+base industrial
++base industrial:
 PT contra-espionagem (f) industrial
 
 EN growth industry
-+base industry
++base industry:
 PT indústria
 PT (f) em crescimento
 
 EN nationalized industry
-+base industry
++base industry:
 PT indústria (f) estatal
 PT indústria (f) nacionalizada
 
 EN training within (TWI)
-+base industry
++base industry:
 PT treinamento (m) dentro da indústria
 
 EN inequality
@@ -4595,51 +4595,51 @@ EN informal organisation
 PT organização (f) informal
 
 EN information flows
-+base information
++base information:
 PT fluxo (m) de dados
 
 EN information handling
-+base information
++base information:
 PT manipulação (f) de dados
 
 EN information network
-+base information
++base information:
 PT rede (f) de informações
 
 EN information processing
-+base information
++base information:
 PT processamento (m) de dados
 
 EN information retrieval
-+base information
++base information:
 PT recuperação (f) de dados
 
 EN information systems
-+base information
++base information:
 PT sistema (m) de dados
 
 EN management information system (MIS)
-+base information
++base information:
 PT sistema (m) de dados para gestão
 
 EN computerised information system (COINS)
-+base information
++base information:
 PT sistema (m) computadorizado de dados
 
 EN information technology
-+base information
++base information:
 PT tecnologia (f) da informação
 
 EN information theory
-+base information
++base information:
 PT teoria (f) da informação
 
 EN information control
-+base information
++base information:
 PT dados (mpl) de controle
 
 EN management information
-+base information
++base information:
 PT dados (mpl) para gestão
 
 EN infringe (to -)
@@ -4649,15 +4649,15 @@ EN input
 PT insumo
 
 EN computer input
-+base input
++base input:
 PT entrada (f) de computador
 
 EN input-output analysis
-+base input-output
++base input-output:
 PT análise de entrada e saída
 
 EN input-output table
-+base input-output
++base input-output:
 PT tabela (f) de entrada e saída
 
 EN insolvency
@@ -4665,42 +4665,42 @@ PT insolvência (f)
 PT falência (f)
 
 EN staff inspection
-+base inspection
++base inspection:
 PT vistoria (f) ao quadro de empregados
 
 EN instalment payment
-+base instalment
++base instalment:
 PT parcela (f)
 PT prestação (f)
 
 EN instalment plan
-+base instalment
++base instalment:
 PT plano (m) de pagamento em prestações
 
 EN instalment sale
-+base instalment
++base instalment:
 PT venda (f) a prestação
 
 EN insurable value
 PT valor (m) segurável
 
 EN insurance against all risks
-+base insurance
++base insurance:
 PT seguro (m) contra todos os riscos
 
 EN insurance premium
-+base insurance
++base insurance:
 PT prêmio (m) de seguro
 
 EN intangible assets
 PT ativo (m) intangível
 
 EN integrated management system
-+base integrated
++base integrated:
 PT sistema (m) integrado de gestão
 
 EN integrated project management (IPM)
-+base integrated
++base integrated:
 PT gestão (f) integrada de projetos
 
 EN interbank rate
@@ -4710,19 +4710,19 @@ EN intercompany profit
 PT lucro (m) sobre transações entre companhias associadas
 
 EN job interest
-+base interest
++base interest:
 PT atração (f) do cargo
 
 EN majority interest
-+base interest
++base interest:
 PT participação (f) majoritária
 
 EN minority interest
-+base interest
++base interest:
 PT participação (f) minoritária
 
 EN rate of interest
-+base interest
++base interest:
 PT taxa (f) de juros
 
 EN interface
@@ -4732,89 +4732,89 @@ EN interfirm comparison
 PT comparação (f) interempresarial
 
 EN interim dividend
-+base interim
++base interim:
 PT dividendo (m) preliminar
 
 EN interlocking directorate
 PT diretoria (f) entrosada
 
 EN internal audit
-+base internal
++base internal:
 PT auditoria (f) interna
 
 EN internal rate of return (IRR)
-+base internal
++base internal:
 PT taxa (f) de rendimento interno
 
 EN depth interview
-+base interview
++base interview:
 PT entrevista (f) em profundidade
 
 EN in transit interview
-+base interview
++base interview:
 PT em trânsito (m)
 
 EN intuitive management
 PT gestão (f) intuitiva
 
 EN inventory control
-+base inventory
++base inventory:
 PT controle (m) de inventário
 
 EN inventory turnover
-+base inventory
++base inventory:
 PT giro (m) do estoque
 PT rotação (f) do estoque
 
 EN perpetual inventory
-+base inventory
++base inventory:
 PT registro (m) permanente de estoque
 
 EN invest (to -)
 PT investir
 
 EN investment analysis
-+base investment
++base investment:
 PT análise (f) de investimentos
 
 EN investment appraisal
-+base investment
++base investment:
 PT avaliação (f) de investimentos
 
 EN investment budget
-+base investment
++base investment:
 PT orçamento (m) de investimentos
 
 EN investment company
-+base investment
++base investment:
 PT empresa (f) de investimentos
 
 EN investment criteria
-+base investment
++base investment:
 PT normas (fpl) para investimentos
 
 EN investment management
-+base investment
++base investment:
 PT administração (f) de investimentos
 
 EN investment mix
-+base investment
++base investment:
 PT combinação (f) de investimentos
 
 EN investment policy
-+base investment
++base investment:
 PT política (f) de investimentos
 
 EN investment programme
-+base investment
++base investment:
 PT plano (m) de investimentos
 
 EN investment trust
-+base investment
++base investment:
 PT traste (m) de investimentos
 
 EN return on investment
-+base investment
++base investment:
 PT rendimento (m) de investimentos
 
 EN invoice
@@ -4836,79 +4836,79 @@ EN issuing house
 PT emissor (m)
 
 EN job analysis
-+base job
++base job:
 PT avaliação (f) de cargo
 
 EN job assignment
-+base job
++base job:
 PT designação (f) de tarefas
 
 EN job challenge
-+base job
++base job:
 PT desafio (m) de cargo
 
 EN job classification
-+base job
++base job:
 PT classificação (f) de tarefas
 
 EN job competence
-+base job
++base job:
 PT competência (f) no cargo
 
 EN job description
-+base job
++base job:
 PT descrição (f) das atribuições do cargo
 
 EN job design
-+base job
++base job:
 PT delineação (f) de tarefas
 
 EN job enlargement
-+base job
++base job:
 PT ampliação (f) de tarefas
 
 EN job enrichment
-+base job
++base job:
 PT enriquecimento (m) do trabalho
 
 EN job evaluation
-+base job
++base job:
 PT avaliação (f) de cargos e tarefas
 
 EN job expectations
-+base job
++base job:
 PT expectativas (fpl) do cargo
 
 EN job improvement
-+base job
++base job:
 PT aperfeiçoamento (m) do cargo
 
 EN job interest
-+base job
++base job:
 PT atração (f) do cargo
 
 EN job performance
-+base job
++base job:
 PT desempenho (m) do cargo
 
 EN job rotation
-+base job
++base job:
 PT rotação (f) de cargos
 
 EN job satisfaction
-+base job
++base job:
 PT satisfação (f) no trabalho
 
 EN job simplification
-+base job
++base job:
 PT simplificação (f) de tarefas
 
 EN job specification
-+base job
++base job:
 PT descrição (f) das atribuições do cargo
 
 EN job stability
-+base job
++base job:
 PT estabilidade (f) de emprego
 
 EN jobber
@@ -4919,35 +4919,35 @@ EN jobbing
 PT agiotagem (m)
 
 EN joint account
-+base joint
++base joint:
 PT conta (f) conjunta
 
 EN joint consultation
-+base joint
++base joint:
 PT consulta (f) conjunta
 
 EN joint liability
-+base joint
++base joint:
 PT responsabilidade (f) conjunta
 
 EN joint negotiation
-+base joint
++base joint:
 PT negociação (f) conjunta
 
 EN joint ownership
-+base joint
++base joint:
 PT propriedade (f) conjunta
 
 EN joint representation
-+base joint
++base joint:
 PT representação (f) conjunta
 
 EN joint stock company
-+base joint
++base joint:
 PT sociedade (f) anônima por ações
 
 EN joint venture company
-+base joint
++base joint:
 PT sociedade (f) em conta de participação
 
 EN jurisdiction
@@ -4968,31 +4968,31 @@ EN LTD (limited)
 PT Ltda. (limitada)
 
 EN labour dispute
-+base labour
++base labour:
 PT conflito (m) trabalhista
 
 EN labour intensive
-+base labour
++base labour:
 PT com predomínio (m) demão-de
 
 EN labour mobility
-+base labour
++base labour:
 PT mobilidade (f) da mão-de-obra
 
 EN labour relations
-+base labour
++base labour:
 PT relações (fpl) trabalhistas
 
 EN labour turnover
-+base labour
++base labour:
 PT rotação (f) da mão-de-obra
 
 EN direct labour
-+base labour
++base labour:
 PT mão-de-obra (f) direta
 
 EN indirect labour
-+base labour
++base labour:
 PT mão-de-obra (f) indireta
 
 EN lag
@@ -5006,15 +5006,15 @@ EN landing charges
 PT despesas (fpl) de desembarque
 
 EN common languague
-+base languague
++base languague:
 PT linguagem (f) comum
 
 EN computer languague
-+base languague
++base languague:
 PT linguagem (f) de computador
 
 EN machine languague
-+base languague
++base languague:
 PT linguagem (f) de máquina
 
 EN Latin American Free TradeAssociation (LAFTA)
@@ -5027,15 +5027,15 @@ EN lay days
 PT demora (f) para carga ou descarga
 
 EN functional lay-out
-+base lay-out 
++base lay-out :
 PT esquema (m) funcional
 
 EN plant lay-out  study
-+base lay-out 
++base lay-out :
 PT estudo (m) do esquema de uma instalação
 
 EN process equipament lay-out
-+base lay-out 
++base lay-out :
 PT esquema (m) da instalação de produção
 
 EN lead time
@@ -5043,31 +5043,31 @@ PT prazo (m) de entrega
 PT prazo (m) de execução
 
 EN leader merchandising
-+base leader
++base leader:
 PT comercialização (f) com produto chave
 
 EN loss leader
-+base leader
++base leader:
 PT produto (m) vendido com perda
 PT para atrair o consumidor
 
 EN market leader
-+base leader
++base leader:
 PT líder (m) do mercado
 
 EN price leader
-+base leader
++base leader:
 PT pauta (f) de preço
 
 EN leadership
 PT liderança (f)
 
 EN learning curve
-+base learning
++base learning:
 PT curva (f) de aprendizagem
 
 EN programmed learning
-+base learning
++base learning:
 PT aprendizagem (f) programada
 
 EN lease contract
@@ -5081,31 +5081,31 @@ PT arrendamento (m)
 PT aluguel (m)
 
 EN equipment leasing
-+base leasing
++base leasing:
 PT aluguel (m) de equipamento
 
 EN ledger
 PT livro-razão (m)
 
 EN legal capital
-+base legal
++base legal:
 PT capital (m) legal
 PT capital (m) registrado
 
 EN legal entity
-+base legal
++base legal:
 PT pessoa (f) jurídica
 
 EN legal tender
-+base legal
++base legal:
 PT pagamento (m) garantido por lei
 
 EN letter of credit
-+base letter
++base letter:
 PT carta (f) de crédito
 
 EN letter of introduction
-+base letter
++base letter:
 PT carta (f) de apresentação
 
 EN leverage
@@ -5121,12 +5121,12 @@ PT obrigação (f)
 PT passivo (m) exigível
 
 EN current liabilities
-+base liabilities
++base liabilities:
 PT passivo (m) exigível a curto prazo
 PT passivo (m) corrente
 
 EN long-term liabilities
-+base liabilities
++base liabilities:
 PT passivo (m) exigível a longo prazo
 
 EN licence
@@ -5134,28 +5134,28 @@ PT licença (f)
 PT autorização (f)
 
 EN crosslicensing
-+base licensing
++base licensing:
 PT concessão (f) recíproca de licenças
 
 EN life cycle (of a product)
-+base life
++base life:
 PT ciclo (m)de vida (de um produto)
 PT vida (f) útil
 
 EN economic life
-+base life
++base life:
 PT vida (f) econômica
 
 EN product life
-+base life
++base life:
 PT vida (f) do produto
 
 EN product life expectancy
-+base life
++base life:
 PT previsão (f) de vida do produto
 
 EN limited company
-+base life
++base life:
 PT companhia (f) limitada
 PT sociedade (f) de responsabilidade limitada
 
@@ -5163,72 +5163,72 @@ EN line
 PT linha (f)
 
 EN line and staff
-+base line
++base line:
 PT quadros (mpl) inferiores e gerência
 
 EN line assistant
-+base line
++base line:
 PT assistente (mj de linha
 
 EN line authority
-+base line
++base line:
 PT autoridade (f) de linha
 
 EN line executive
-+base line
++base line:
 PT executivo (m) de linha
 
 EN line management
-+base line
++base line:
 PT estrutura (f) de linhas de administração
 
 EN line manager
-+base line
++base line:
 PT gerente (m) de linha
 
 EN line of command
-+base line
++base line:
 PT linha (f) de comando
 
 EN line of credit
-+base line
++base line:
 PT linha (f) de crédito
 
 EN line organisation
-+base line
++base line:
 PT organização (f) linear
 
 EN line production
-+base line
++base line:
 PT produção (f) em linha
 
 EN assembly line
-+base line
++base line:
 PT linha (f) de montagem
 
 EN down theline
-+base line
++base line:
 PT em níveis (mpl) mais baixos
 
 EN flow line
-+base line
++base line:
 PT linha (f) de fluxo
 
 EN on line
-+base line
++base line:
 PT em linha (f)
 PT em execução (f)
 
 EN product line
-+base line
++base line:
 PT linha (f) de produtos
 
 EN linear programming
-+base linear
++base linear:
 PT programação (f) linear
 
 EN linear responsibility
-+base linear
++base linear:
 PT responsabilidade (f) linear
 
 EN liquid assets
@@ -5238,30 +5238,30 @@ EN liquidation
 PT liquidação (f)
 
 EN self liquidating
-+base liquidating
++base liquidating:
 PT auto-amortizável
 
 EN liquidity ratio
 PT índice (m) de liquidez
 
 EN load factor
-+base load
++base load:
 PT fator (m) de utilização da capacidade produtiva
 
 EN work load
-+base load
++base load:
 PT carga (f) de trabalho
 
 EN loan capital
-+base loan
++base loan:
 PT capital (m) tomado por empréstimo
 
 EN loan fund
-+base loan
++base loan:
 PT fundo (m) para empréstimos
 
 EN plant location
-+base location
++base location:
 PT localização (f) das instalações
 
 EN lockout
@@ -5280,34 +5280,34 @@ EN long-term liabilities
 PT passivo (m) exigível a longo prazo
 
 EN closed loop
-+base loop
++base loop:
 PT ciclo (m) fechado
 
 EN loss leader
-+base loss
++base loss:
 PT produto (m) vendido com perda
 PT para atrair o consumidor
 
 EN loss maker
-+base loss
++base loss:
 PT produto (m)
 PT empresa (f)
 PT que dá prejuízo
 
 EN loss ratio
-+base loss
++base loss:
 PT índice (m) de perda
 
 EN net loss
-+base loss
++base loss:
 PT perda (f) líquida
 
 EN brand loyalty
-+base loyalty
++base loyalty:
 PT lealdade (f) a uma marca
 
 EN lamp sum appropriation
-+base lamp sum
++base lamp sum:
 PT orçamento (m) não discriminado
 
 EN MBO (management by objectives)
@@ -5323,7 +5323,7 @@ EN machine language
 PT linguagem (f) de máquina
 
 EN direct mail
-+base mail
++base mail:
 PT mala (f) direta
 
 EN main office
@@ -5331,15 +5331,15 @@ PT sede (f)
 PT matriz (f)
 
 EN maintenance cost
-+base maintenance
++base maintenance:
 PT custo (m) de manutenção
 
 EN planned maintenance
-+base maintenance
++base maintenance:
 PT manutenção (f) programada
 
 EN preventive maintenance resale price maintenance (RPM)
-+base maintenance
++base maintenance:
 PT manutenção (f) preventiva controle (m) de preços de revenda
 
 EN majority interest
@@ -5355,11 +5355,11 @@ PT dirigir
 PT controlar
 
 EN managed costs
-+base managed
++base managed:
 PT custos (mpl) controlados companhia (f) dirigida de forma
 
 EN system managed company
-+base managed
++base managed:
 PT sistematizada gerência (f)
 PT administração (f)
 
@@ -5368,322 +5368,322 @@ PT direção (f)
 PT gestão (f)
 
 EN management accounting
-+base management
++base management:
 PT contabilidade (f) gerencial
 
 EN management audit
-+base management
++base management:
 PT parecer (m) para gerência
 
 EN management by exception
-+base management
++base management:
 PT gestão (f) por exceção
 
 EN management by objectives (MBO)
-+base management
++base management:
 PT gestão (f) por objetivos
 
 EN management chart
-+base management
++base management:
 PT organograma (f) de direção
 
 EN management consultant
-+base management
++base management:
 PT consultor (m) de gerência
 PT assessor (m) empresarial
 
 EN management development
-+base management
++base management:
 PT formação (f) da direção
 
 EN management game
-+base management
++base management:
 PT simulação (f) de direção
 
 EN management information
-+base management
++base management:
 PT dados (mpl) para gestão
 
 EN management information system (MIS)
-+base management
++base management:
 PT sistema (m) de dados para gestão
 
 EN management potential
-+base management
++base management:
 PT potencial (m) para gerência
 
 EN management practices
-+base management
++base management:
 PT métodos (mpl) para gestão
 
 EN management ratios
-+base management
++base management:
 PT quociente (m) gerência/quadros inferiores
 
 EN management science
-+base management
++base management:
 PT teoria (f) de política administrativa
 
 EN management services
-+base management
++base management:
 PT serviços (mpl) para gestão
 
 EN management succession
-+base management
++base management:
 PT plano (m) de sucessão de dirigentes
 
 EN management system
-+base management
++base management:
 PT sistema (m) de gestão
 
 EN integrated management system
-+base management
++base management:
 PT sistema (m) integrado de gestão
 
 EN management team
-+base management
++base management:
 PT quadro (m) de gerência
 
 EN management techniques
-+base management
++base management:
 PT técnicas (fpl) de gestão
 
 EN management theory
-+base management
++base management:
 PT teoria (f) de política administrativa
 
 EN business management
-+base management
++base management:
 PT administração (f) de empresas
 
 EN cash management
-+base management
++base management:
 PT controle (m) de caixa
 
 EN credit management
-+base management
++base management:
 PT administração (f) de crédito
 
 EN division management
-+base management
++base management:
 PT controle (m) por setores
 
 EN dynamic management model
-+base management
++base management:
 PT modelo (m) dinâmico de administração
 
 EN effective management
-+base management
++base management:
 PT administração (f) eficaz
 
 EN financial management
-+base management
++base management:
 PT administração (f) financeira
 
 EN functional management
-+base management
++base management:
 PT administração (f) funcional
 
 EN general management
-+base management
++base management:
 PT direção (f) geral
 
 EN intuitive management
-+base management
++base management:
 PT gestão (f) intuitiva
 
 EN investment management
-+base management
++base management:
 PT administração (f) de investimentos
 
 EN line management
-+base management
++base management:
 PT estrutura (f) de linhas de administração
 
 EN manpower management
-+base management
++base management:
 PT administração (f) de mão-de-obra
 
 EN market management
-+base management
++base management:
 PT gestão (f) de mercados
 
 EN matrix management
-+base management
++base management:
 PT organização (f) de matriz
 
 EN middle management
-+base management
++base management:
 PT gerência (f) de segundo escalão
 
 EN multiple management
-+base management
++base management:
 PT gestão (f) múltipla
 
 EN office management
-+base management
++base management:
 PT administração (f) do escritório
 
 EN operating management
-+base management
++base management:
 PT gestão (f) operativa
 
 EN operations management
-+base management
++base management:
 PT gestão (f) de operações
 
 EN participative management
-+base management
++base management:
 PT gestão (f) participativa
 
 EN personnel management
-+base management
++base management:
 PT administração (f) de pessoal
 
 EN physical distribution management
-+base management
++base management:
 PT controle (m) da distribuição física
 
 EN portfolio management
-+base management
++base management:
 PT administração (f) da carteira de valores
 
 EN product management
-+base management
++base management:
 PT gerência (f) de produtos
 
 EN production management
-+base management
++base management:
 PT gestão (f) de produção
 
 EN programmed management
-+base management
++base management:
 PT gestão (f) programada
 
 EN project management
-+base management
++base management:
 PT gestão (f) de projetos
 
 EN integrated project management (IPM)
-+base management
++base management:
 PT gestão (f) integrada de projetos
 
 EN sales management
-+base management
++base management:
 PT administração (f) de vendas
 
 EN scientific management
-+base management
++base management:
 PT organização (f) científica do trabalho
 
 EN staff management
-+base management
++base management:
 PT administração (f) de recursos humanos
 
 EN supervisory management
-+base management
++base management:
 PT gestão (f) supervisora
 
 EN systems management
-+base management
++base management:
 PT gestão (f) de sistemas
 
 EN top management
-+base management
++base management:
 PT diretoria (f)
 PT diretoria (f) executiva
 
 EN top management approach
-+base management
++base management:
 PT abordagem (f) da diretoria
 
 EN venture management
-+base management
++base management:
 PT gestão (f) de empreendimentos
 
 EN advertising manager
-+base manager
++base manager:
 PT gerente (m) de publicidade
 
 EN assistant manager
-+base manager
++base manager:
 PT gerente-adjunto (m)
 
 EN assistant to manager
-+base manager
++base manager:
 PT assistente (m) do gerente
 
 EN brand manager
-+base manager
++base manager:
 PT gerente (m) de marca
 
 EN deputy manager
-+base manager
++base manager:
 PT sub-gerente (m)
 
 EN distribution manager
-+base manager
++base manager:
 PT gerente (m) de distribuição
 
 EN first line manager
-+base manager
++base manager:
 PT gerente (m) de primeira linha
 
 EN general manager
-+base manager
++base manager:
 PT gerente (m) geral
 
 EN marketing manager
-+base manager
++base manager:
 PT gerente (m) de marketing
 PT gerente (m) de mercadologia
 
 EN personnel manager
-+base manager
++base manager:
 PT gerente (m) pessoal
 
 EN plant manager
-+base manager
++base manager:
 PT gerente (m) de fábrica
 
 EN product manager
-+base manager
++base manager:
 PT gerente (m) de produto
 
 EN purchasing manager
-+base manager
++base manager:
 PT gerente (m) de compras
 
 EN sales manager
-+base manager
++base manager:
 PT gerente (m) de vendas
 
 EN works manager
-+base manager
++base manager:
 PT gerente (m) de fábrica
 
 EN managerial control
-+base managerial
++base managerial:
 PT controle (m) gerencial
 
 EN managerial effectiveness
-+base managerial
++base managerial:
 PT eficácia (f) gerencial
 
 EN managerial function
-+base managerial
++base managerial:
 PT função (f) administrativa
 
 EN managerial grid
-+base managerial
++base managerial:
 PT grade (f) administrativa
 
 EN managerial structure
-+base managerial
++base managerial:
 PT estrutura (f) administrativa
 
 EN managerial style
-+base managerial
++base managerial:
 PT estilo (m) gerencial
 
 EN managing director
@@ -5691,239 +5691,239 @@ PT diretor-presidente (m)
 PT diretor-gerente (m)
 
 EN deputy managing director
-+base managing director
++base managing director:
 PT sub-diretor (m)
 PT diretor-adjunto (m)
 
 EN manpower audit
-+base manpower
++base manpower:
 PT análise (f) de mão-de-obra
 
 EN manpower forecasting
-+base manpower
++base manpower:
 PT previsão (f) de mão-de-obra
 
 EN manpower management
-+base manpower
++base manpower:
 PT administração (f) de mão-de-obra
 
 EN manpower planning
-+base manpower
++base manpower:
 PT planejamento (f) de mão-de-obra
 
 EN manpower resourcing
-+base manpower
++base manpower:
 PT recrutamento (m) e gestão (f) de recursos humanos
 
 EN executive manpower strategy
-+base manpower
++base manpower:
 PT estratégia (f) para o quadro executivo
 
 EN manufacturing capacity
-+base manufacturing
++base manufacturing:
 PT capacidade (f) de fabricação
 
 EN manufacturing control
-+base manufacturing
++base manufacturing:
 PT controle (m) de fabricação
 
 EN manufacturing cost
-+base manufacturing
++base manufacturing:
 PT custo (m) de fabricação
 
 EN economic manufacturing quantity
-+base manufacturing
++base manufacturing:
 PT tamanho (m) do lote econômico de fabricação
 
 EN gross margin
-+base margin
++base margin:
 PT margem (f) bruta
 
 EN net margin
-+base margin
++base margin:
 PT margem (f) líquida
 
 EN profit margin
-+base margin
++base margin:
 PT margem (f) de lucro
 
 EN to hold margins
-+base margins
++base margins:
 PT manter a margem
 
 EN analysis
-+base marginal
++base marginal:
 PT análise (f) marginal
 
 EN marginal cost
-+base marginal
++base marginal:
 PT custo (f) marginal
 
 EN marginal costing
-+base marginal
++base marginal:
 PT custeio (f) marginal
 
 EN marginal costing system
-+base marginal
++base marginal:
 PT sistema (m) de custeio marginal
 
 EN market appraisal
-+base market
++base market:
 PT avaliação (f) de mercado
 
 EN market dynamics
-+base market
++base market:
 PT dinâmica (f) do mercado
 
 EN market exploration
-+base market
++base market:
 PT investigação (f) de mercado
 
 EN market forces
-+base market
++base market:
 PT tendências (fpl) do mercado
 
 EN forecast
-+base market
++base market:
 PT previsão (f) do mercado
 
 EN market intelligence
-+base market
++base market:
 PT informação (f) do mercado
 
 EN market leader
-+base market
++base market:
 PT líder (m) do mercado
 
 EN market management
-+base market
++base market:
 PT gestão (f) de mercados
 
 EN market opportunity
-+base market
++base market:
 PT oportunidade (f) de mercado
 
 EN market penetration
-+base market
++base market:
 PT penetração (f) do mercado
 
 EN market plan
-+base market
++base market:
 PT plano (m) de mercado
 
 EN market potential
-+base market
++base market:
 PT potencial (m) do mercado
 
 EN market price
-+base market
++base market:
 PT valor (m) do mercado
 PT preço (m) de mercado
 
 EN market profile
-+base market
++base market:
 PT perfil (m) de mercado
 
 EN market prospects
-+base market
++base market:
 PT perspectivas (fpl) do mercado
 
 EN market rating
-+base market
++base market:
 PT avaliação (f) de mercado
 
 EN market research
-+base market
++base market:
 PT pesquisa (f) de mercado
 
 EN market saturation
-+base market
++base market:
 PT saturação (f) do mercado
 
 EN market segments
-+base market
++base market:
 PT segmento (m) do mercado
 PT fatia (f) do mercado
 
 EN market segmentation
-+base market
++base market:
 PT segmentação (f) do mercado
 
 EN market share
-+base market
++base market:
 PT fatia (f) do mercado
 
 EN market structure
-+base market
++base market:
 PT estrutura (f) de mercado
 
 EN market study
-+base market
++base market:
 PT estudo (m) de mercado
 
 EN market test
-+base market
++base market:
 PT teste (m) de mercado
 
 EN market trend
-+base market
++base market:
 PT tendência (f) do mercado
 
 EN market value
-+base market
++base market:
 PT valor (m) de mercado
 
 EN buyers' market
-+base market
++base market:
 PT mercado (m) do comprador
 
 EN fringe market
-+base market
++base market:
 PT mercado fm) marginal
 
 EN money market
-+base market
++base market:
 PT mercado (m) financeiro
 
 EN sellers' market
-+base market
++base market:
 PT mercado (m) do vendedor
 
 EN stock market
-+base market
++base market:
 PT bolsa (f) de valores
 
 EN marketing appropriation
-+base marketing
++base marketing:
 PT verba (f) para marketing
 
 EN marketing budget
-+base marketing
++base marketing:
 PT orçamento (m) de marketing
 
 EN marketing manager
-+base marketing
++base marketing:
 PT gerente (m) de marketing
 PT gerente (m) de mercadologia
 
 EN mix marketing
-+base marketing
++base marketing:
 PT combinação (f) de atividades de marketing
 
 EN marketing research
-+base marketing
++base marketing:
 PT pesquisa (f) mercadológica
 
 EN marketing strategy
-+base marketing
++base marketing:
 PT estratégia (f) mercadológica
 
 EN creative marketing
-+base marketing
++base marketing:
 PT marketing (m) criativo
 
 EN test marketing
-+base marketing
++base marketing:
 PT ensaio (m) mercadológico
 
 EN mark-up
@@ -5932,12 +5932,12 @@ PT margem (f) cambial
 PT taxa (f) de imprevistos.
 
 EN mass production
-+base mass
++base mass:
 PT produção (f) em massa
 PT produção (f) em série
 
 EN critical mass
-+base mass
++base mass:
 PT massa (f) crítica
 
 EN materials handling
@@ -5950,42 +5950,42 @@ EN matrix management
 PT organização (f) de matriz
 
 EN maturity date
-+base maturity
++base maturity:
 PT data (f) de vencimento
 
 EN profit maximisation
-+base maximisation
++base maximisation:
 PT maximização (f) de lucro
 
 EN mean
 PT média (f)
 
 EN performance measurement
-+base measurement
++base measurement:
 PT medição (f) de desempenho
 
 EN productivity measurement
-+base measurement
++base measurement:
 PT medição (f) de produtividade
 
 EN work measurement
-+base measurement
++base measurement:
 PT medição (f) de trabalho
 
 EN clerical work measurement (CWM)
-+base measurement
++base measurement:
 PT medição (f) de trabalho administrativo
 
 EN analysis
-+base media
++base media:
 PT análise (f) de mídia
 
 EN media selection
-+base media
++base media:
 PT seleção (f) de mídia
 
 EN advertising media
-+base media
++base media:
 PT mídia (f) de publicidade
 
 EN median
@@ -5995,14 +5995,14 @@ EN mediation
 PT mediação (f)
 
 EN board meeting
-+base meeting
++base meeting:
 PT reunião (f) de diretoria
 
 EN memory
 PT memória
 
 EN leader merchandising
-+base merchandising
++base merchandising:
 PT comercialização (f) comproduto chave
 
 EN merger
@@ -6013,42 +6013,42 @@ EN merit rating
 PT classificação (f) por méritos
 
 EN advertising message
-+base message
++base message:
 PT tema (m) publicitário
 
 EN methectics
 PT dinâmica (f) de grupos
 
 EN methods engineering
-+base method
++base method:
 PT estudo (m) de métodos
 
 EN methods study
-+base method
++base method:
 PT estudo (m) de métodos
 
 EN organisation and methods (O and M)
-+base method
++base method:
 PT organização (f) e métodos (mpl)
 
 EN points rating method
-+base method
++base method:
 PT método (m) de classificação por pontos
 
 EN present value method
-+base method
++base method:
 PT método (m) de valor atual
 
 EN random observation method
-+base method
++base method:
 PT método (m) de observação ao acaso
 
 EN simplex method
-+base method
++base method:
 PT método (m) simplex (usado na programação linear)
 
 EN time and method study
-+base method
++base method:
 PT estudo (m) de tempos e métodos
 
 EN middle management
@@ -6069,38 +6069,38 @@ PT desviar
 PT obter por fraude
 
 EN economic mission
-+base mission
++base mission:
 PT missão (f) econômica
 
 EN investment mix
-+base mix
++base mix:
 PT combinação (f) de investimentos
 
 EN marketing mix
-+base mix
++base mix:
 PT combinação (f) de atividades de marketing
 
 EN product mix
-+base mix
++base mix:
 PT combinação (f) de produtos
 
 EN promotional mix
-+base mix
++base mix:
 PT combinação (f) de atividades de promoção
 
 EN sales mix
-+base mix
++base mix:
 PT combinação (f) de atividades de vendas
 
 EN mixed capital company
 PT companhia (f) de capital misto
 
 EN labour mobility
-+base mobility
++base mobility:
 PT mobilidade (f) de mão-de-obra
 
 EN staff mobility
-+base mobility
++base mobility:
 PT mobilidade (f) de funcionários
 
 EN mode
@@ -6109,19 +6109,19 @@ PT modo (m)
 PT moda (em estatística)
 
 EN accounting model
-+base model
++base model:
 PT modelo (m) contábil
 
 EN corporate model
-+base model
++base model:
 PT modelo (m) de empresa
 
 EN decision model
-+base model
++base model:
 PT modelo (m) de decisão
 
 EN dynamic management model
-+base model
++base model:
 PT modelo (m) dinâmico de administração
 
 EN modular production
@@ -6131,15 +6131,15 @@ EN monetary correction
 PT correção (f) monetária
 
 EN money making
-+base money
++base money:
 PT lucrativo
 
 EN money market
-+base money
++base money:
 PT mercado (m) financeiro
 
 EN money order
-+base money
++base money:
 PT vale (m) postal
 PT ordem (m) de pagamento
 
@@ -6156,23 +6156,23 @@ EN mortgage
 PT hipoteca (f)
 
 EN motion economy
-+base motion
++base motion:
 PT economia (f) de movimentos
 
 EN motion study
-+base motion
++base motion:
 PT estudo (m) de movimentos
 
 EN time and motion study
-+base motion
++base motion:
 PT estudo (m) de tempos e movimentos
 
 EN predetermined motion time system (PMTS)
-+base motion
++base motion:
 PT sistema (m) de movimentos pré-determinados
 
 EN self motivation
-+base motivation
++base motivation:
 PT automotivação (f)
 
 EN motivational research
@@ -6182,7 +6182,7 @@ EN motivador
 PT motivador (m)
 
 EN profit motive
-+base motive
++base motive:
 PT motivo (m) de lucro
 
 EN moving average
@@ -6195,15 +6195,15 @@ EN multinacional
 PT multinacional
 
 EN multiple management
-+base multiple
++base multiple:
 PT gestão (f) múltipla
 
 EN multiple regression analysis (MRA)
-+base multiple
++base multiple:
 PT análise (f) de regressão múltipla
 
 EN multiple store
-+base multiple
++base multiple:
 PT grande armazém (m)
 
 EN NPV (net present value)
@@ -6217,7 +6217,7 @@ EN national income
 PT renda (f) interna
 
 EN nationalized industry
-+base nationalized
++base nationalized:
 PT indústria (f) nacionalizada
 PT indústria (f) estatizada
 
@@ -6228,85 +6228,85 @@ EN needs analysis
 PT análise (f) de necessidades
 
 EN negotiable instrument
-+base negotiable
++base negotiable:
 PT título (m) negociável
 
 EN strategy
-+base negotiation
++base negotiation:
 PT estratégia (f) de negociação
 
 EN joint negotiation
-+base negotiation
++base negotiation:
 PT negociação (f) conjunta
 
 EN net assets
-+base net
++base net:
 PT patrimônio (m) líquido
 PT ativo (m) líquido
 
 EN net current assets
-+base net
++base net:
 PT ativo (m) corrente líquido
 
 EN net earning
-+base net
++base net:
 PT renda (f) líquida
 
 EN net income
-+base net
++base net:
 PT renda (f) líquida
 
 EN net loss
-+base net
++base net:
 PT perda (f) líquida
 
 EN net margin
-+base net
++base net:
 PT margem (f) líquida
 PT lucro (m) líquido
 
 EN net operating profit
-+base net
++base net:
 PT lucro (m) operacional líquido
 
 EN net present value (NPV)
-+base net
++base net:
 PT valor (m) líquido atual
 
 EN net price
-+base net
++base net:
 PT preço (m) líquido
 
 EN net profit
-+base net
++base net:
 PT lucro (m) líquido
 
 EN net weight
-+base net
++base net:
 PT peso (m) líquido
 
 EN net working capital
-+base net
++base net:
 PT capital (m) líquido de giro
 
 EN net worth
-+base net
++base net:
 PT patrimônio (m) líquido
 
 EN network analysis
-+base network
++base network:
 PT análise (f) de rede
 
 EN communications network
-+base network
++base network:
 PT rede (f) de comunicações
 
 EN distribution network
-+base network
++base network:
 PT rede (f) de distribuição
 
 EN information network
-+base network
++base network:
 PT rede (f) de informações
 
 EN new product development
@@ -6325,15 +6325,15 @@ EN non-profit making
 PT sem fins (mpl) lucrativos
 
 EN normal curve
-+base normal
++base normal:
 PT curva (f) normal
 
 EN normal distribution
-+base normal
++base normal:
 PT distribuição (f) normal
 
 EN normal return
-+base normal
++base normal:
 PT renda (f) normal
 
 EN notarize
@@ -6363,23 +6363,23 @@ PT investigação (f) de operações
 PT investigação (f) operacional
 
 EN objective setting
-+base objective
++base objective:
 PT definição (f) de objetivos
 
 EN company objectives
-+base objective
++base objective:
 PT objetivos (mpl) empresariais
 
 EN overall objective
-+base objective
++base objective:
 PT objetivos (mpl) globais da empresa
 
 EN management by objectives (MBO)
-+base objective
++base objective:
 PT gestão por objetivos
 
 EN performance against objectives
-+base objective
++base objective:
 PT relação (f) resultados/objetivos
 
 EN obligation
@@ -6388,18 +6388,18 @@ PT debenture (m)
 PT título (m)
 
 EN random observation method
-+base observation
++base observation:
 PT método (m) de observação ao acaso
 
 EN obsolescence
 PT obsolescência (f)
 
 EN built in obsolescence
-+base obsolescence
++base obsolescence:
 PT obsolescência (f) planejada
 
 EN planned obsolescence
-+base obsolescence
++base obsolescence:
 PT obsolescência (f) planejada
 
 EN ocean freight
@@ -6413,28 +6413,28 @@ EN off-the-job training
 PT treinamento (f) fora da empresa
 
 EN office management
-+base office
++base office:
 PT administração (f) do escritório
 
 EN branch office
-+base office
++base office:
 PT filial (f)
 
 EN head office
-+base office
++base office:
 PT sede (f)
 PT matriz (f)
 
 EN training officer
-+base officer
++base officer:
 PT chefe (m) de treinamento
 
 EN official exchange rate
-+base official
++base official:
 PT câmbio (m) oficial
 
 EN official strike
-+base official
++base official:
 PT greve (f) apoiada pelo sindicato
 
 EN offset
@@ -6480,98 +6480,98 @@ EN on-the-job training
 PT treinamento (m) dentro da empresa
 
 EN open credit
-+base open
++base open:
 PT crédito (m) aberto
 
 EN open market
-+base open
++base open:
 PT mercado (m) aberto
 PT open market
 
 EN operating cost
-+base operating
++base operating:
 PT custo (m) operacional
 
 EN operating division
-+base operating
++base operating:
 PT divisão (f) operacional
 
 EN operating expense
-+base operating
++base operating:
 PT despesa (f) operacional
 
 EN operating income
-+base operating
++base operating:
 PT renda (f) operacional
 
 EN operating management
-+base operating
++base operating:
 PT gestão (f) operativa
 
 EN operating profit
-+base operating
++base operating:
 PT lucro (m) operacional
 
 EN operating research
-+base operating
++base operating:
 PT pesquisa (f) operacional
 
 EN operations audit
-+base operations
++base operations:
 PT avaliação (f) de operações
 
 EN operations breakdown
-+base operations
++base operations:
 PT desdobramento (m) de operações
 
 EN operations management
-+base operations
++base operations:
 PT gestão (f) de operações
 
 EN operations research (OR)
-+base operations
++base operations:
 PT investigação (f) de operações
 
 EN ancillary operations
-+base operations
++base operations:
 PT operações (fpl) periféricas
 
 EN hedging operations
-+base operations
++base operations:
 PT operações (fpl) de cobertura
 
 EN operational planning
-+base operational
++base operational:
 PT planejamento (m) operacional
 
 EN operational research (OR)
-+base operational
++base operational:
 PT investigação (f) operacional
 
 EN opportunity cost
-+base opportunity
++base opportunity:
 PT custo (m) de oportunidade
 
 EN market opportunity
-+base opportunity
++base opportunity:
 PT oportunidade (f) de mercado
 
 EN profit optimisation
-+base optimisation
++base optimisation:
 PT otimização (f) de lucro
 
 EN optimise (to)
 PT otimizar
 
 EN stock option plan
-+base option
++base option:
 PT plano (m) de compra opcional de ações
 
 EN optional dividend
 PT dividendo (m) optativo
 
 EN economic order quantity
-+base order
++base order:
 PT tamanho (m) econômico de pedidos
 
 EN ordinary interest
@@ -6581,97 +6581,97 @@ EN origin certificate
 PT certificado (m) de origem
 
 EN organisation and methods (O and M)
-+base organisation
++base organisation:
 PT organização (f) e métodos (mpl)
 
 EN organisation chart
-+base organisation
++base organisation:
 PT organograma (m)
 
 EN organisation planning
-+base organisation
++base organisation:
 PT planejamento (m) da organização
 
 EN organisation structure
-+base organisation
++base organisation:
 PT estrutura (f) da organização
 
 EN organisation theory
-+base organisation
++base organisation:
 PT teoria (f) de organização
 
 EN functional organisation
-+base organisation
++base organisation:
 PT organização (f) funcional
 
 EN informal organisation
-+base organisation
++base organisation:
 PT organização (f) informal
 
 EN line organisation
-+base organisation
++base organisation:
 PT organização (f) linear
 
 EN staff organisation
-+base organisation
++base organisation:
 PT organização (f) de recursos humanos
 
 EN organisational behaviour
-+base organisational
++base organisational:
 PT comportamento (m) do homem na organização
 
 EN organisational change
-+base organisational
++base organisational:
 PT transformação (m) da organização
 
 EN organisational development
-+base organisational
++base organisational:
 PT desenvolvimento (m) da organização
 
 EN organisational effectiveness
-+base organisational
++base organisational:
 PT eficácia (f) da organização
 
 EN organogram
 PT organograma (m)
 
 EN customer orientation
-+base orientation
++base orientation:
 PT orientação (f) do consumidor
 
 EN out-of-pocket expense
 PT despesa (f) desembolsada
 
 EN retail outlet
-+base outlet
++base outlet:
 PT ponto (m) de venda a varejo
 
 EN sales outlet
-+base outlet
++base outlet:
 PT ponto (m) de venda
 PT canal (m) de venda
 
 EN profit outlook
-+base outlook
++base outlook:
 PT perspectiva (f) de lucro
 
 EN output
 PT produção
 
 EN output budgeting
-+base output
++base output:
 PT controle (m) orçamentário de produção
 
 EN capital output ratio
-+base output
++base output:
 PT índice (m) rendimento/capital
 
 EN input output analysis
-+base output
++base output:
 PT análise (f) de entrada e saída
 
 EN input output table
-+base output
++base output:
 PT tabela (f) de entrada e saída
 
 EN outside director
@@ -6709,15 +6709,15 @@ EN overhead expenses
 PT despesas (fpl) gerais
 
 EN overheads recovery
-+base overheads
++base overheads:
 PT recuperação (f) de despesas gerais
 
 EN administrative overheads
-+base overheads
++base overheads:
 PT despesas (fpl) de administração
 
 EN factory overheads
-+base overheads
++base overheads:
 PT despesas (f) gerais de fábrica
 
 EN overtime
@@ -6746,7 +6746,7 @@ EN package.
 PT pacote (m)
 
 EN package. deal
-+base package.
++base package.:
 PT oferta (f) combinada
 PT pacote (m) de negociações
 
@@ -6761,7 +6761,7 @@ PT capital (m) integralizado
 PT capital (m) realizado
 
 EN paid-up capital
-+base paid-up
++base paid-up:
 PT capital (m) integralizado
 PT capital (m) realizado
 
@@ -6773,14 +6773,14 @@ PT pallet (m)
 PT estrado (m)
 
 EN consumers panel
-+base panel
++base panel:
 PT quadro (m) de consumidores
 
 EN paper profit
 PT lucro (m) escriturai
 
 EN Tar value
-+base Tar
++base Tar:
 PT valor (m) par
 
 EN parametric programming
@@ -6796,7 +6796,7 @@ EN part payment
 PT pagamento (m) a prestação
 
 EN worker participation
-+base participation
++base participation:
 PT participação (f) dos trabalhadores
 
 EN participative management
@@ -6810,11 +6810,11 @@ PT sociedade (f)
 PT participação (f)
 
 EN working party
-+base party
++base party:
 PT grupo (m) de trabalho
 
 EN patent trading
-+base patent
++base patent:
 PT negociação (f) de patentes
 
 EN patron
@@ -6826,15 +6826,15 @@ PT retorno (m)
 PT reembolso (m)
 
 EN payback period
-+base payback
++base payback:
 PT período (m) de reembolso (de investimentos)
 
 EN payment by results
-+base payment
++base payment:
 PT pagamento (m) por resultados
 
 EN payment in advance
-+base payment
++base payment:
 PT pagamento (m) antecipado
 
 EN payoff
@@ -6851,7 +6851,7 @@ EN penalty
 PT multa (f)
 
 EN market penetration
-+base penetration
++base penetration:
 PT penetração (f) do mercado
 
 EN per cent
@@ -6864,52 +6864,52 @@ EN per-share earnings
 PT lucro (m) por ação
 
 EN performance against objectives
-+base performance
++base performance:
 PT relação (f) resultados/objetivos
 
 EN performance appraisal
-+base performance
++base performance:
 PT avaliação (f) de desempenho
 
 EN performance budgeting
-+base performance
++base performance:
 PT controle (m) orçamentário de rendi mento
 
 EN performance evaluation
-+base performance
++base performance:
 PT avaliação (f) de desempenho
 
 EN performance measurement
-+base performance
++base performance:
 PT medição (f) de desempenho
 
 EN performance rating
-+base performance
++base performance:
 PT classificação (f) de desempenho
 
 EN performance standards
-+base performance
++base performance:
 PT padrões (mpl) de desempenho
 PT normas (fpl) de desempenho
 
 EN earnings performance
-+base performance
++base performance:
 PT rentabilidade (f)
 
 EN job performance
-+base performance
++base performance:
 PT desempenho (m) do cargo
 
 EN product performance
-+base performance
++base performance:
 PT desempenho (m) do produto
 
 EN profit performance
-+base performance
++base performance:
 PT rentabilidade (f)
 
 EN standard performance
-+base performance
++base performance:
 PT desempenho (m) padrão
 
 EN peripheral equipment
@@ -6926,42 +6926,42 @@ EN personal growth
 PT formação (f) pessoal
 
 EN personnel department
-+base personnel
++base personnel:
 PT departamento (m) de pessoal
 
 EN personnel management
-+base personnel
++base personnel:
 PT administração (f) de pessoal
 
 EN personnel manager
-+base personnel
++base personnel:
 PT gerente (m) de pessoal
 
 EN policy
-+base personnel
++base personnel:
 PT política (f) de recursos humanos
 
 EN personnel rating
-+base personnel
++base personnel:
 PT classificação (f) do pessoal
 
 EN personnel specification
-+base personnel
++base personnel:
 PT especificação (f) do pessoal
 
 EN pertinence tree
 PT árvore (m) de pertinência
 
 EN company philosophy
-+base philosophy
++base philosophy:
 PT filosofia (f) empresarial
 
 EN physical depreciation
-+base physical
++base physical:
 PT depreciação (f) física
 
 EN physical distribution management
-+base physical
++base physical:
 PT controle (m) da distribuição física
 
 EN picket
@@ -6984,127 +6984,127 @@ EN pioneer products
 PT produtos (m) pioneiros
 
 EN action plan
-+base plan
++base plan:
 PT plano (m) de ação
 
 EN market plan
-+base plan
++base plan:
 PT plano (m) de mercado
 
 EN share of production plan
-+base plan
++base plan:
 PT plano (m) de participação na produção
 
 EN stock option plan
-+base plan
++base plan:
 PT plano (m) de compra opcional de ações
 
 EN tactical plan
-+base plan
++base plan:
 PT plano (m) tático
 
 EN planned maintenance
-+base planned
++base planned:
 PT manutenção (f) programada
 
 EN planned obsolescence
-+base planned
++base planned:
 PT obsolescência (f) planejada
 
 EN planning department
-+base planning
++base planning:
 PT departamento (m) de planejamento
 
 EN planning programming-budgeting
-+base planning
++base planning:
 PT sistema (m) orçamentário de
 
 EN system (PPBS)
-+base planning
++base planning:
 PT programação e planejamento
 
 EN carreer planning
-+base planning
++base planning:
 PT planejamento (m) de desenvolvimento profissional
 
 EN company planning
-+base planning
++base planning:
 PT planejamento (m) empresarial
 
 EN corporate planning
-+base planning
++base planning:
 PT planejamento (m) empresarial
 
 EN departmental planning
-+base planning
++base planning:
 PT planejamento (m) departamental
 
 EN distribution planning
-+base planning
++base planning:
 PT planejamento (m) de distribuição
 
 EN financial planning
-+base planning
++base planning:
 PT planejamento (m) financeiro
 
 EN forward planning
-+base planning
++base planning:
 PT planejamento (m) para o futuro
 
 EN long-range planning
-+base planning
++base planning:
 PT planejamento (m) de longo alcance
 
 EN long-term planning
-+base planning
++base planning:
 PT planejamento (m) a longo prazo
 
 EN manpower planning
-+base planning
++base planning:
 PT planejamento (m) de mão-de-obra
 
 EN operational planning
-+base planning
++base planning:
 PT planejamento (m) operacional
 
 EN organisation planning
-+base planning
++base planning:
 PT planejamento (m) da organização
 
 EN product planning
-+base planning
++base planning:
 PT planejamento (m) de produtos
 
 EN production planning
-+base planning
++base planning:
 PT planejamento (m) de produção
 
 EN production planning and control
-+base planning
++base planning:
 PT planejamento (m) e controle da produção
 
 EN profit planning
-+base planning
++base planning:
 PT planejamento (m) de lucro
 
 EN project planning
-+base planning
++base planning:
 PT planejamento (m) de projetos
 
 EN sales planning
-+base planning
++base planning:
 PT planejamento (m) de vendas
 
 EN short-term planning
-+base planning
++base planning:
 PT planejamento (m) a curto prazo
 
 EN strategic planning
-+base planning
++base planning:
 PT planejamento (m) estratégico
 
 EN systems planning
-+base planning
++base planning:
 PT planejamento (m) de sistemas
 
 EN plant
@@ -7112,169 +7112,169 @@ PT parque (m) industrial
 PT instalações (fpl)
 
 EN plant bargainning
-+base plant
++base plant:
 PT negociação (f) a nível de fábrica
 
 EN plant capacity
-+base plant
++base plant:
 PT capacidade (f) das instalações
 
 EN plant hire
-+base plant
++base plant:
 PT aluguel (m) de equipamento
 
 EN plant layout study
-+base plant
++base plant:
 PT estudo (m) do esquema de uma instalação
 
 EN plant location
-+base plant
++base plant:
 PT localização (f) das instalações
 
 EN plant manager
-+base plant
++base plant:
 PT gerente (m) de fábrica
 
 EN role playing
-+base playing
++base playing:
 PT interpretação (f) de papéis
 
 EN ploughback
 PT reinvestimento (m) de lucros
 
 EN point of sale
-+base point
++base point:
 PT ponto (m) de venda
 
 EN points rating method
-+base point
++base point:
 PT método (m) de classificação por pontos
 
 EN breakeven point
-+base point
++base point:
 PT ponto (m) de equilíbrio
 
 EN policy execution
-+base policy
++base policy:
 PT realização (f) de uma política
 
 EN policy formulation
-+base policy
++base policy:
 PT formulação (f) de política
 
 EN policy statement
-+base policy
++base policy:
 PT declaração (f) de política
 
 EN business policy
-+base policy
++base policy:
 PT política (f) de negócios
 
 EN company policy
-+base policy
++base policy:
 PT política (f) empresarial
 
 EN distribution policy
-+base policy
++base policy:
 PT política (f) de distribuição
 
 EN dividend policy
-+base policy
++base policy:
 PT política (f) de dividendos
 
 EN investment policy
-+base policy
++base policy:
 PT política (f) de investimentos
 
 EN personnel policy
-+base policy
++base policy:
 PT política (f) de recursos humanos
 
 EN pricing policy
-+base policy
++base policy:
 PT política (f) de preços
 
 EN promotional policy
-+base policy
++base policy:
 PT política (f) promocional
 
 EN sales policy
-+base policy
++base policy:
 PT política (f) de vendas
 
 EN selling policy
-+base policy
++base policy:
 PT política (f) de venda
 
 EN pooling arrangements
 PT acordos (mpl) consorciais
 
 EN portfolio management
-+base portfolio
++base portfolio:
 PT administração (f) de carteira de valores
 
 EN portfolio selection
-+base portfolio
++base portfolio:
 PT seleção (f) de valores de carteira
 
 EN competitive position
-+base position
++base position:
 PT posição (f) competitiva
 
 EN potencial buyer
-+base potencial
++base potencial:
 PT comprador (m) em potencial
 
 EN development potencial
-+base potencial
++base potencial:
 PT potencial (m) de desenvolvimento
 
 EN growth potencial
-+base potencial
++base potencial:
 PT potencial (m) de crescimento
 
 EN management potencial
-+base potencial
++base potencial:
 PT potencial (m) para gerência
 
 EN market potencial
-+base potencial
++base potencial:
 PT potencial (m) de mercado
 
 EN sales potencial
-+base potencial
++base potencial:
 PT potencial (m) de vendas
 
 EN power of attorney
-+base power
++base power:
 PT procuração (f) legal
 
 EN earning power
-+base power
++base power:
 PT capacidade (f) de lucro
 PT rentabilidade (f)
 
 EN purchasing power
-+base power
++base power:
 PT poder (m) aquisitivo
 
 EN management practices
-+base practices
++base practices:
 PT métodos (mpl) de gestão
 
 EN restrictive practices
-+base practices
++base practices:
 PT práticas (fpl) restritivas
 
 EN predetermined motion timesystem (PMTS)
 PT sistema (m) de movimentos pré-determinados
 
 EN preferred shares
-+base preferred
++base preferred:
 PT ações (fpl) preferenciais
 
 EN preferred stock
-+base preferred
++base preferred:
 PT ação (f) preferencial
 
 EN premium
@@ -7296,96 +7296,96 @@ PT diretor-gerente (m)
 PT diretor (m) geral
 
 EN vice president
-+base president
++base president:
 PT vice-presidente (m)
 
 EN preventive maintenance
 PT manutenção (f) preventiva
 
 EN price cutting
-+base price
++base price:
 PT redução (f) de preços
 
 EN price determination
-+base price
++base price:
 PT determinação (f) de preços
 
 EN price differencial
-+base price
++base price:
 PT disparidade (f) de preços
 
 EN price earnings ratio (PIE)
-+base price
++base price:
 PT índice (m) de capitalização de benefícios
 
 EN price escalation
-+base price
++base price:
 PT escalada (f) de preços
 
 EN price fixing
-+base price
++base price:
 PT fixação (f) de preços
 
 EN price leader
-+base price
++base price:
 PT pauta (f) de preço
 PT líder (m) de preços
 
 EN price list
-+base price
++base price:
 PT lista (f) de preços
 
 EN price range
-+base price
++base price:
 PT faixa (f) de preço
 
 EN price structure
-+base price
++base price:
 PT estrutura (f) de preços
 
 EN competitive price
-+base price
++base price:
 PT preço (m) competitivo
 
 EN cut prices (to -)
-+base price
++base price:
 PT reduzir preços (mpl)
 
 EN differential price
-+base price
++base price:
 PT preço (m) diferencial
 
 EN market price
-+base price
++base price:
 PT valor (m) do mercado
 PT preço (m) de mercado
 
 EN resale price maintenance (RPM)
-+base price
++base price:
 PT controle (m) de preços de revenda
 
 EN retail price
-+base price
++base price:
 PT preço (m) de varejo
 
 EN support price
-+base price
++base price:
 PT preço (m) de sustentação
 
 EN pricing policy
-+base pricing
++base pricing:
 PT política (f) de preços
 
 EN pricing strategy
-+base pricing
++base pricing:
 PT estratégia (f) de preços
 
 EN transfer pricing
-+base pricing
++base pricing:
 PT estabelecimento (m) de preços
 
 EN risk pricing
-+base pricing
++base pricing:
 PT perfil (m) de riscos de transferência
 
 EN prime rate
@@ -7398,414 +7398,414 @@ EN probability theory
 PT teoria (f) das probabilidades
 
 EN problem analysis
-+base problem
++base problem:
 PT análise (f) de problemas
 
 EN problem area
-+base problem
++base problem:
 PT area (f) problemática
 
 EN problem solving
-+base problem
++base problem:
 PT resolução (f) de problemas
 
 EN administrative control procedure
-+base procedure
++base procedure:
 PT procedimento (m) de controle
 
 EN grievance procedure
-+base procedure
++base procedure:
 PT administrativo
 
 EN systems and procedures
-+base procedure
++base procedure:
 PT procedimento (m) para atender queixa
 
 EN process
 PT sistemas (mpl) e procedimentos
 
 EN process control
-+base process
++base process:
 PT controle (m) de processo
 
 EN process costing
-+base process
++base process:
 PT custeio (m) de processos
 
 EN process equipment layout
-+base process
++base process:
 PT esquema (m) da instalação de produção
 
 EN decision process
-+base process
++base process:
 PT processo (m) de decisões
 
 EN flow process chart process
-+base process
++base process:
 PT gráfico (m) de fluxo de processo
 
 EN production process
-+base process
++base process:
 PT processo (m) de produção
 
 EN batch
-+base processing
++base processing:
 PT processamento (m) por batelada
 PT em lote
 
 EN data processing
-+base processing
++base processing:
 PT processamento (m) de dados
 
 EN automatic data (ADP)processing
-+base processing
++base processing:
 PT processamento (m) automático de dados (PAD)
 
 EN electronic data (EDP)processing
-+base processing
++base processing:
 PT processamento (m) eletrônico de dados (PED)
 
 EN information processing
-+base processing
++base processing:
 PT processamento (m) de dados
 
 EN product abandonment
-+base product
++base product:
 PT retirada (f) de um produto
 
 EN product advertising
-+base product
++base product:
 PT publicidade (f) de produtos
 
 EN product area
-+base product
++base product:
 PT setor (m) de produtos
 
 EN product conception
-+base product
++base product:
 PT concepção (f) de produtos
 
 EN product costing
-+base product
++base product:
 PT custeio (m) do produto
 
 EN product design
-+base product
++base product:
 PT planejamento (m) de produtos
 
 EN product development
-+base product
++base product:
 PT desenvolvimento (m) de produtos
 
 EN new product development
-+base product
++base product:
 PT desenvolvimento (m) de novos produtos
 
 EN product differentiation
-+base product
++base product:
 PT diferenciação (f) entre produtos
 
 EN product diversification
-+base product
++base product:
 PT diversificação (f) de produtos
 
 EN product dynamics
-+base product
++base product:
 PT dinâmica (f) do produto
 
 EN product generation
-+base product
++base product:
 PT geração (f) de produtos
 
 EN product group
-+base product
++base product:
 PT grupo (m) de produtos
 
 EN product image
-+base product
++base product:
 PT imagem (f) do produto
 
 EN product improvement
-+base product
++base product:
 PT aperfeiçoamento (m) do produto
 
 EN product life
-+base product
++base product:
 PT vida (f) do produto
 
 EN product life expectancy
-+base product
++base product:
 PT previsão (f) de vida do produto
 
 EN product line
-+base product
++base product:
 PT linha (f) de produtos
 
 EN product management
-+base product
++base product:
 PT gestão (f) de produtos
 
 EN product manager
-+base product
++base product:
 PT gerente (m) de produto
 
 EN product mix
-+base product
++base product:
 PT combinação (f) de produtos
 
 EN product performance
-+base product
++base product:
 PT desempenho (m) do produto
 
 EN product planning
-+base product
++base product:
 PT planejamento (m) de produtos
 
 EN product profile
-+base product
++base product:
 PT perfil (m) do produto
 
 EN product profitability
-+base product
++base product:
 PT rentabilidade (f) do produto
 
 EN product range
-+base product
++base product:
 PT série (f) de produtos
 
 EN product research
-+base product
++base product:
 PT pesquisa (f) de produtos
 
 EN product strategy
-+base product
++base product:
 PT estratégia (f) de produtos
 
 EN product testing
-+base product
++base product:
 PT teste (m) de produtos
 PT avaliação (f) de produtos
 
 EN by product
-+base product
++base product:
 PT subproduto (m)
 PT derivado (m)
 
 EN production control
-+base production
++base production:
 PT controle (m) de produção
 
 EN production costs
-+base production
++base production:
 PT custos (mpl) de produção
 
 EN production engineering
-+base production
++base production:
 PT gestão (f) de produção
 
 EN production management
-+base production
++base production:
 PT gestão (f) de produção
 
 EN production manager
-+base production
++base production:
 PT gerente (m) de produção
 
 EN production planning
-+base production
++base production:
 PT planejamento (m) de produção
 
 EN production planning and control
-+base production
++base production:
 PT planejamento (m) e controle de produção
 
 EN production schedule
-+base production
++base production:
 PT programa (m) de produção
 
 EN production scheduling
-+base production
++base production:
 PT programação (f) de produção
 
 EN production standards
-+base production
++base production:
 PT normas (fpl) de produção
 PT padrões (m) de produção
 
 EN batch production
-+base production
++base production:
 PT produção (f) por batelada
 PT por lote
 
 EN flow production
-+base production
++base production:
 PT produção (f) em cadeia
 
 EN continuous flow production
-+base production
++base production:
 PT produção (f) contínua
 
 EN intensive production
-+base production
++base production:
 PT produção (f) intensiva
 
 EN line production
-+base production
++base production:
 PT produção (f) em linha
 
 EN mass production
-+base production
++base production:
 PT produção (f) em massa
 PT produção (f) em série
 
 EN modular production
-+base production
++base production:
 PT produção (f) modular
 
 EN pilot production
-+base production
++base production:
 PT produção (f) piloto
 
 EN share of production plan
-+base production
++base production:
 PT plano (m) de participação na produção
 
 EN productivity agreement
-+base productivity
++base productivity:
 PT acordo (m) de produtividade
 
 EN productivity bargaining
-+base productivity
++base productivity:
 PT negociação (f) de produtividade
 
 EN productivity drive
-+base productivity
++base productivity:
 PT esforço (m) para aumentar a produtividade
 
 EN productivity measurement
-+base productivity
++base productivity:
 PT medição (f) de produtividade
 
 EN acquisition profile
-+base profile
++base profile:
 PT perfil (m) de aquisição
 
 EN company profile
-+base profile
++base profile:
 PT perfil (m) da empresa
 
 EN customer profile
-+base profile
++base profile:
 PT perfil (m) dos consumidores
 
 EN market profile
-+base profile
++base profile:
 PT perfil (m) dos consumidores
 
 EN product profile
-+base profile
++base profile:
 PT perfil (m) do produto
 
 EN profit (to-)
 PT lucrar
 
 EN profit and loss
-+base profit
++base profit:
 PT lucro (m) e perda (f)
 
 EN profit and loss account
-+base profit
++base profit:
 PT conta (f) de lucros e perdas
 
 EN profit centre
-+base profit
++base profit:
 PT centro (m) de lucro
 
 EN profit centre accounting
-+base profit
++base profit:
 PT contabilidade (f) por centros de lucro
 
 EN profit factor analysis
-+base profit
++base profit:
 PT análise (f) de elementos de lucro
 
 EN profit goal
-+base profit
++base profit:
 PT objetivo (m) de lucro
 PT meta (f) de lucro
 
 EN profit impact
-+base profit
++base profit:
 PT incidência (f) sobre o lucro
 
 EN profit implication
-+base profit
++base profit:
 PT implicação (f) sobre o lucro
 
 EN profit improvement
-+base profit
++base profit:
 PT melhora (f) do lucro
 
 EN profit margin
-+base profit
++base profit:
 PT margem (f) de lucro
 
 EN profit maximisation
-+base profit
++base profit:
 PT maximização (f) de lucro
 
 EN profit motive
-+base profit
++base profit:
 PT motivo (m) de lucro
 
 EN profit optimisation
-+base profit
++base profit:
 PT otimização (f) do lucro
 
 EN profit outlook
-+base profit
++base profit:
 PT perspectiva (f) de lucro
 
 EN profit planning
-+base profit
++base profit:
 PT planejamento (m) dos lucros
 
 EN profit sharing
-+base profit
++base profit:
 PT participação (f) em lucros
 
 EN profit strategy
-+base profit
++base profit:
 PT estratégia (f) de lucro
 
 EN profit target
-+base profit
++base profit:
 PT objetivo (m) de lucro
 PT meta (f) de lucro índice (m) de rentabilidade sobre o
 
 EN profit volume ratio (P/V)
-+base profit
++base profit:
 PT movimento
 
 EN cost-volume-analysis
-+base profit
++base profit:
 PT análise (f) de custo
 PT volume e benefício
 
 EN gross movimento
-+base profit
++base profit:
 PT lucro (m) bruto
 
 EN net movimento
-+base profit
++base profit:
 PT lucro (m) líquido
 
 EN profitability analysis
-+base profitability
++base profitability:
 PT análise (f) de rentabilidade
 
 EN product profitability
-+base profitability
++base profitability:
 PT rentabilidade (f) do produto
 
 EN profitable
@@ -7814,134 +7814,134 @@ PT rendoso
 PT rentável
 
 EN proforma invoice
-+base proforma
++base proforma:
 PT fatura (f) pro forma
 
 EN programme budgeting
-+base programme
++base programme:
 PT sistema (m) de orçamentos programados
 
 EN programme evaluation and review
-+base programme
++base programme:
 PT técnica (f) de avaliação e revisão de
 
 EN technique (PERT)
-+base programme
++base programme:
 PT programas
 
 EN programme package
-+base programme
++base programme:
 PT pacote (m) de programas
 
 EN development programme
-+base programme
++base programme:
 PT programa (m) de desenvolvimento
 
 EN investment programme
-+base programme
++base programme:
 PT plano (m) de investimentos
 
 EN programmed learning
-+base programmed
++base programmed:
 PT aprendizagem (f) programada
 
 EN programmed management
-+base programmed
++base programmed:
 PT gestão (f) programada
 
 EN computer programming
-+base programming
++base programming:
 PT programação (f) de computador
 
 EN dynamic programming
-+base programming
++base programming:
 PT programação (f) dinâmica
 
 EN linear programming
-+base programming
++base programming:
 PT programação (f) linear
 
 EN mathematical programming
-+base programming
++base programming:
 PT programação (f) matemática
 
 EN non-linear programming
-+base programming
++base programming:
 PT programação (f) não linear
 
 EN parametric programming
-+base programming
++base programming:
 PT programação (f) paramétrica
 
 EN scientific programming
-+base programming
++base programming:
 PT programação (f) científica
 
 EN progress control
-+base progress
++base progress:
 PT controle (m) de progresso
 
 EN work in progress
-+base progress
++base progress:
 PT produção (f) em curso
 PT produtos (mpl) em andamento
 
 EN salary progression curve
-+base progression
++base progression:
 PT curva (f) de incremento de salários
 
 EN progressive tax
 PT imposto (m) progressivo
 
 EN project analysis
-+base project
++base project:
 PT análise (f) de projeto
 
 EN project assessment
-+base project
++base project:
 PT avaliação (f) de projeto
 
 EN project management
-+base project
++base project:
 PT gestão (f) de projetos
 
 EN project planning
-+base project
++base project:
 PT planejamento (m) de projetos
 
 EN capital project evaluation
-+base project
++base project:
 PT avaliação (f) de projetos de investimentos
 
 EN integrated project management (IPM)
-+base project
++base project:
 PT gestão (f) integrada de projetos
 
 EN profit projection
-+base projection
++base projection:
 PT projeção (f) de lucro
 
 EN promissory note
 PT nota (f) promissória
 
 EN (of personnel)
-+base promotion
++base promotion:
 PT promoção (f) (de cargo)
 
 EN promotion expense
-+base promotion
++base promotion:
 PT despesa (f) de promoção
 
 EN sales promotion
-+base promotion
++base promotion:
 PT promoção (f) de vendas
 
 EN promotional mix
-+base promotional
++base promotional:
 PT combinação (f) de atividades de promoção
 
 EN promotional policy
-+base promotional
++base promotional:
 PT política (f) promocional
 
 EN proprietor
@@ -7955,7 +7955,7 @@ EN prospect
 PT cliente em potencial
 
 EN market prospects
-+base prospects
++base prospects:
 PT perspectivas (fpl) do mercado
 
 EN protested bill
@@ -7968,7 +7968,7 @@ EN proxy
 PT procuração (f)
 
 EN industrial psychology
-+base psychology
++base psychology:
 PT psicologia (f) industrial
 
 EN public corporation
@@ -7985,16 +7985,16 @@ PT compra (f)
 PT aquisição (f)
 
 EN hire purchasing
-+base purchasing
++base purchasing:
 PT compra (f) a prazo
 PT compra (f) a prestação
 
 EN purchasing manager
-+base purchasing
++base purchasing:
 PT gerente (m) de compras
 
 EN purchasing power
-+base purchasing
++base purchasing:
 PT poder (m) aquisitivo
 
 EN QC (quality control)total quality control
@@ -8005,23 +8005,23 @@ PT qualificação (f)
 PT competência (f)
 
 EN quality control
-+base quality
++base quality:
 PT controle (m) de qualidade
 
 EN quantity discount
-+base quantity
++base quantity:
 PT desconto (m) para quantidade
 
 EN economic batch quantity
-+base quantity
++base quantity:
 PT tamanho (m) do lote econômico
 
 EN economic manufacturing quantity
-+base quantity
++base quantity:
 PT tamanho (m) do lote econômico de fabricação
 
 EN economic order quantity
-+base quantity
++base quantity:
 PT tamanho (m) econômico de pedidos
 
 EN quarterly
@@ -8034,7 +8034,7 @@ EN quick asset
 PT ativo (m) de realização imediata
 
 EN sales quota
-+base quota
++base quota:
 PT cota (f) de vendas
 
 EN quotation
@@ -8054,30 +8054,30 @@ EN RPM (resale price maintenance)
 PT controle (m) de preços de revenda
 
 EN capital raising
-+base raising
++base raising:
 PT aumento (m) de capital
 
 EN rake-off
 PT comissão (f) ilegal
 
 EN random access
-+base random
++base random:
 PT acesso (m) por acaso
 
 EN random observation method
-+base random
++base random:
 PT método (m) de observação ao acaso
 
 EN random sampling
-+base random
++base random:
 PT amostragem (f) casual
 
 EN price range
-+base range
++base range:
 PT faixa (f) de preço
 
 EN product range
-+base range
++base range:
 PT série (f) de produtos
 
 EN rate (to)
@@ -8085,90 +8085,90 @@ PT taxar
 PT classificar
 
 EN rate of exchange
-+base rate
++base rate:
 PT taxa (f) de câmbio
 
 EN rate of interest
-+base rate
++base rate:
 PT taxa (f) de juros
 
 EN growth rate
-+base rate
++base rate:
 PT índice (m) de crescimento
 
 EN rate of return
 PT taxa (f) de rendimento
 
 EN internal rate of return (IRR)
-+base rate of return
++base rate of return:
 PT taxa (f) de rendimento interno
 
 EN credit rating
-+base rating
++base rating:
 PT avaliação (f) de solvência
 
 EN market rating
-+base rating
++base rating:
 PT avaliação (f) de mercado
 
 EN merit rating
-+base rating
++base rating:
 PT classificação (f) por méritos
 
 EN performance rating
-+base rating
++base rating:
 PT classificação (f) de desempenho
 
 EN personnel rating
-+base rating
++base rating:
 PT classificação (f) de pessoal
 
 EN points rating method
-+base rating
++base rating:
 PT método (m) de classificação por pontos
 
 EN accounting ratio
-+base ratio
++base ratio:
 PT índice (m) contábil
 
 EN capital output ratio
-+base ratio
++base ratio:
 PT índice (m) rendimento/capital
 
 EN cash ratio
-+base ratio
++base ratio:
 PT índice (m) de dinheiro em caixa
 
 EN cover ratio
-+base ratio
++base ratio:
 PT índice (m) de cobertura
 
 EN current ratio
-+base ratio
++base ratio:
 PT índice (m) de liquidez
 
 EN debt ratio
-+base ratio
++base ratio:
 PT índice (m) de endividamento
 
 EN financial ratio
-+base ratio
++base ratio:
 PT índice (m) financeiro
 
 EN liquidity ratio
-+base ratio
++base ratio:
 PT índice (m) de liquidez
 
 EN management ratio
-+base ratio
++base ratio:
 PT quociente (m) gerência/quadros inferiores
 
 EN price ratio earnings ratio (PIE)
-+base ratio
++base ratio:
 PT índice (m) de capitalização de benefícios
 
 EN profit-volume ratio (P/V)
-+base ratio
++base ratio:
 PT índice (m) de rentabilidade sobre o movimento
 
 EN rationalisation
@@ -8179,7 +8179,7 @@ EN rationing
 PT racionamento (m)
 
 EN capital rationing
-+base rationing
++base rationing:
 PT racionamento (m) de capital
 
 EN raw material
@@ -8189,24 +8189,24 @@ EN ready money
 PT dinheiro (m) vivo
 
 EN real cost
-+base real
++base real:
 PT custo (m) real
 
 EN real estate
-+base real
++base real:
 PT imóvel (m)
 PT propriedade (f) imobiliária
 
 EN real estate bonds
-+base real
++base real:
 PT letras (fpl) imobiliárias
 
 EN real time
-+base real
++base real:
 PT tempo (m) real
 
 EN real wage
-+base real
++base real:
 PT salário (m) real
 
 EN rebate
@@ -8219,29 +8219,29 @@ EN receiver
 PT liquidante (m)
 
 EN brand recognition
-+base recognition
++base recognition:
 PT identificação (f) de marca
 
 EN reconciliation
 PT reconciliação (f)
 
 EN company reconstruction
-+base reconstruction
++base reconstruction:
 PT reconstrução (f) da empresa
 
 EN recoverable cost
 PT custo (m) recuperável
 
 EN recovery of expenses
-+base recovery
++base recovery:
 PT recuperação (f) de despesas
 
 EN recovery value
-+base recovery
++base recovery:
 PT valor (m) recuperável
 
 EN overhead recovery
-+base recovery
++base recovery:
 PT recuperação (f) de despesas gerais
 
 EN recruitment
@@ -8262,12 +8262,12 @@ EN redeployment
 PT reorganização (f)
 
 EN cost reduction
-+base reduction
++base reduction:
 PT redução (f) de custos
 PT remarcação (f)
 
 EN variety reduction
-+base reduction
++base reduction:
 PT redução (f) de variedade
 
 EN redundancy
@@ -8284,7 +8284,7 @@ EN regression analysis
 PT análise (f) de regressão
 
 EN multiple regression analysis analysis (MPA)
-+base regression analysis
++base regression analysis:
 PT análise (f) de regressão múltipla
 
 EN regressive tax
@@ -8297,35 +8297,35 @@ EN reimbursement
 PT reembolso (m)
 
 EN business relations
-+base relations
++base relations:
 PT relações (fpl) comerciais
 
 EN employee relations
-+base relations
++base relations:
 PT relações (fpl) com o quadro de empregados
 
 EN external relations
-+base relations
++base relations:
 PT relações (fpl) externas
 
 EN functional relations
-+base relations
++base relations:
 PT relações (fpl) funcionais
 
 EN human relations
-+base relations
++base relations:
 PT relações (fpl) humanas
 
 EN industrial relations
-+base relations
++base relations:
 PT relações (fpl) industriais
 
 EN labour relations
-+base relations
++base relations:
 PT relações (fpl) trabalhistas
 
 EN public relations (PR)
-+base relations
++base relations:
 PT relações (fpl) públicas
 
 EN remittance
@@ -8349,15 +8349,15 @@ EN replacement cost
 PT custo (m) de substituição (f)
 
 EN joint representation
-+base representation
++base representation:
 PT representação (f) conjunta
 
 EN worker representation
-+base representation
++base representation:
 PT representação (f) dos trabalhadores
 
 EN sales representative
-+base representative
++base representative:
 PT representante (m) de vendas
 
 EN requisition
@@ -8370,106 +8370,106 @@ EN resale price maintenance (RPM)
 PT controle (m) de preços de revenda
 
 EN research and development (R and D)
-+base research
++base research:
 PT pesquisa (f) e desenvolvimento
 
 EN research department
-+base research
++base research:
 PT departamento (m) de pesquisa
 
 EN advertising research
-+base research
++base research:
 PT pesquisa (f) publicitária
 
 EN consumer research
-+base research
++base research:
 PT pesquisa (f) de consumidores
 
 EN desk research
-+base research
++base research:
 PT pesquisa (f) de gabinete
 
 EN economic research
-+base research
++base research:
 PT pesquisa (f) econômica
 
 EN field research
-+base research
++base research:
 PT pesquisa (f) no campo de operações
 
 EN market research
-+base research
++base research:
 PT pesquisa (f) mercadológica
 
 EN motivational research
-+base research
++base research:
 PT pesquisa (f) de motivação
 
 EN operational research (OR)
-+base research
++base research:
 PT investigação (f) operacional
 
 EN operations research (OR)
-+base research
++base research:
 PT investigação (f) de operações
 
 EN product research
-+base research
++base research:
 PT pesquisa (f) de produtos
 
 EN reserve fund
-+base reserve
++base reserve:
 PT fundo (m) de reserva
 
 EN contingency
-+base reserve
++base reserve:
 PT reserva (f) para contingências
 
 EN residual cost
 PT custo (m) residual
 
 EN consumer resistance
-+base resistance
++base resistance:
 PT resistência (f) por parte do consumidor
 
 EN sales resistance
-+base resistance
++base resistance:
 PT resistência (f) de venda
 
 EN resource allocation
-+base resource
++base resource:
 PT distribuição (f) de recursos
 
 EN resource appraisal
-+base resource
++base resource:
 PT avaliação (f) de recursos
 
 EN manpower resourcing
-+base resourcing
++base resourcing:
 PT recrutamento (m) e gestão de recursos humanos
 
 EN anticipatory response
-+base response
++base response:
 PT resposta (f) antecipada
 
 EN lag response
-+base response
++base response:
 PT resposta (f) retardada
 
 EN allocation of responsibilities
-+base responsibilities
++base responsibilities:
 PT distribuição (f) de responsabilidades
 
 EN responsibility accounting
-+base responsibility
++base responsibility:
 PT custeio (m) por responsabilidades
 
 EN functional responsibility
-+base responsibility
++base responsibility:
 PT responsabilidade (f) funcional
 
 EN linear responsibility
-+base responsibility
++base responsibility:
 PT responsabilidade (f) linear
 
 EN restrictive practices
@@ -8479,19 +8479,19 @@ EN restructuring
 PT reestruturação (f)
 
 EN payment by results
-+base results
++base results:
 PT pagamento (m) por resultados
 
 EN retail cost
-+base retail
++base retail:
 PT custo (m) de varejo
 
 EN retail outlet
-+base retail
++base retail:
 PT ponto (m) de venda a varejo
 
 EN retail price
-+base retail
++base retail:
 PT preço (m) de varejo
 
 EN retailer
@@ -8508,36 +8508,36 @@ EN retraining
 PT retreinamento (m)
 
 EN information retrieval
-+base retrieval
++base retrieval:
 PT recuperação (f) de dados
 
 EN return on capital
-+base return
++base return:
 PT rendimento (m)
 PT receita (f)
 
 EN return on capital employed (ROCE)
-+base return
++base return:
 PT rendimento (m) de capital investido
 
 EN return on equity
-+base return
++base return:
 PT rendimento (m) de ações
 
 EN return on investment
-+base return
++base return:
 PT rendimento (m) de investimentos
 
 EN return on sales
-+base return
++base return:
 PT rendimento (m) de vendas
 
 EN internal rate of return (1RR)
-+base return
++base return:
 PT taxa (f) de rendimento interno
 
 EN rate of return
-+base return
++base return:
 PT taxa (f) de rendimento
 
 EN revaluation
@@ -8552,7 +8552,7 @@ PT receita (f)
 PT renda (f)
 
 EN financial review
-+base review
++base review:
 PT análise (f) financeira
 
 EN revolving credit
@@ -8563,23 +8563,23 @@ EN rights
 PT direitos (mpl)
 
 EN risk analysis
-+base risk
++base risk:
 PT análise (f) de riscos
 
 EN risk assessment
-+base risk
++base risk:
 PT avaliação (f) de riscos
 
 EN risk capital
-+base risk
++base risk:
 PT capital (m) de risco
 
 EN risk profile
-+base risk
++base risk:
 PT perfil (m) de riscos
 
 EN role playing
-+base role
++base role:
 PT interpretação (f) de papéis
 
 EN roll-on-roll-off
@@ -8587,15 +8587,15 @@ PT " r o r o "
 PT sistema (m) de transporte de contêineres
 
 EN board room
-+base room
++base room:
 PT sala (f) da diretoria
 
 EN job rotations
-+base rotations
++base rotations:
 PT rotação (f) de cargos
 
 EN diagnostic routine
-+base routine
++base routine:
 PT rotina (f) de diagnóstico
 
 EN royalty
@@ -8610,178 +8610,178 @@ EN running expenses
 PT despesas (fplj operacionais
 
 EN safety bank
-+base safety
++base safety:
 PT reserva (f) para imprevistos
 
 EN safety stock
-+base safety
++base safety:
 PT estoque (m) regulador
 PT estoque (m) para imprevistos
 
 EN salary progression curve
-+base salary
++base salary:
 PT curva (f) de incremento de salários
 
 EN salary structure
-+base salary
++base salary:
 PT estrutura (f) de salários
 
 EN point of sale
-+base sale
++base sale:
 PT ponto (m) de venda
 
 EN sales analysis
-+base sales
++base sales:
 PT análise (f) de vendas
 
 EN sales appeal
-+base sales
++base sales:
 PT atração (f) comercial
 PT garra (f) comercial
 
 EN sales area
-+base sales
++base sales:
 PT área (f) de vendas
 
 EN sales budget
-+base sales
++base sales:
 PT orçamento (m) de vendas
 
 EN sales coverage
-+base sales
++base sales:
 PT alcance (m) do serviço de vendas
 
 EN sales department
-+base sales
++base sales:
 PT departamento (m) de vendas
 
 EN sales drive
-+base sales
++base sales:
 PT esforço (m) de vendas
 
 EN sales estimate
-+base sales
++base sales:
 PT estimativa (f) de vendas
 
 EN sales expansion effort
-+base sales
++base sales:
 PT esforço (m) para aumentar vendas
 
 EN sales expectations
-+base sales
++base sales:
 PT expectativas (fpl) de vendas
 
 EN sales force
-+base sales
++base sales:
 PT equipe (m) de vendas
 
 EN sales forecast
-+base sales
++base sales:
 PT previsão (f) de vendas
 
 EN sales goal
-+base sales
++base sales:
 PT objetivo (m) de vendas
 PT meta (f) de vendas
 
 EN sales management
-+base sales
++base sales:
 PT administração (f) de vendas
 
 EN sales manager
-+base sales
++base sales:
 PT gerente (m) de vendas
 
 EN sales mix
-+base sales
++base sales:
 PT combinação (f) de atividades de vendas
 
 EN sales outlet
-+base sales
++base sales:
 PT ponto (m) de venda
 PT canal (m) de venda
 
 EN sales planning
-+base sales
++base sales:
 PT planejamento (m) de vendas
 
 EN sales policy
-+base sales
++base sales:
 PT política (f) de vendas
 
 EN sales potential
-+base sales
++base sales:
 PT potencial (m) de vendas
 
 EN sales promotion
-+base sales
++base sales:
 PT promoção (f) de vendas
 
 EN sales quota
-+base sales
++base sales:
 PT cota (f) de vendas
 
 EN sales representative
-+base sales
++base sales:
 PT representante (m) de vendas
 
 EN sales resistance
-+base sales
++base sales:
 PT resistência (f) de venda
 
 EN sales return
-+base sales
++base sales:
 PT total (m) de vendas
 
 EN sales revenue
-+base sales
++base sales:
 PT receita (f) de vendas
 
 EN sales talk
-+base sales
++base sales:
 PT argumento (m) de vendas
 
 EN sales territory
-+base sales
++base sales:
 PT área (f) de vendas
 
 EN sales trend
-+base sales
++base sales:
 PT tendência (f) de vendas
 
 EN sales turnover
-+base sales
++base sales:
 PT movimento (m) de vendas
 
 EN sales volume
-+base sales
++base sales:
 PT volume (m) de vendas
 
 EN return on sales
-+base sales
++base sales:
 PT rendimento (m) de vendas
 
 EN sample size
 PT tamanho (m) de amostra
 
 EN sampling error
-+base sampling
++base sampling:
 PT erro (m) de amostragem
 
 EN activity sampling
-+base sampling
++base sampling:
 PT amostragem (f) por atividades
 
 EN random sampling
-+base sampling
++base sampling:
 PT amostragem (f) casual
 
 EN consumer satisfaction job satisfaction
-+base satisfaction
++base satisfaction:
 PT satisfação (f) por parte do consumidor satisfação (f) no trabalho
 
 EN market saturation
-+base saturation
++base saturation:
 PT saturação (f) do mercado
 
 EN saving deposit
@@ -8791,42 +8791,42 @@ EN scab
 PT fura-greve (mlf)
 
 EN diseconomy of scale
-+base scale
++base scale:
 PT deseconomia (f) de escala
 
 EN economy of scale
-+base scale
++base scale:
 PT economia (f) de escala
 
 EN scatter diagram
 PT diagrama (m) de dispersão
 
 EN production schedule
-+base schedule
++base schedule:
 PT programa (m) de produção
 
 EN production scheduling
-+base scheduling
++base scheduling:
 PT programação (m) de produção
 
 EN bonus scheme
-+base scheme
++base scheme:
 PT sistema (m) de prêmios
 
 EN incentive scheme
-+base scheme
++base scheme:
 PT sistema (m) de incentivos
 
 EN suggestion scheme
-+base scheme
++base scheme:
 PT sistema (m) de sugestões
 
 EN behavioural science
-+base science
++base science:
 PT ciência (f) do comportamento
 
 EN management science
-+base science
++base science:
 PT teoria (f) da política administrativa
 
 EN scientific programming
@@ -8843,7 +8843,7 @@ PT certificado (m) de compra de ações
 PT ação (f) de bonificação
 
 EN executive search
-+base search
++base search:
 PT recrutamento (m) de executivos
 
 EN securities
@@ -8852,81 +8852,81 @@ PT valores (mpl)
 PT obrigações (mpl)
 
 EN industrial security
-+base security
++base security:
 PT contra-espionagem (m) industrial
 
 EN job security
-+base security
++base security:
 PT estabilidade (f) de emprego
 
 EN goal seeking
-+base seeking
++base seeking:
 PT identificação (f) de objetivos
 
 EN market segmentation
-+base segmentation
++base segmentation:
 PT segmentação (f) do mercado
 
 EN portfolio selection
-+base selection
++base selection:
 PT seleção (f) de valores de carteira
 
 EN self actualisation
-+base self
++base self:
 PT auto-atualização (f)
 
 EN self appraisal
-+base self
++base self:
 PT auto-avaliação (f)
 
 EN self financing
-+base self
++base self:
 PT auto-financiamento (m)
 
 EN self liquidating
-+base self
++base self:
 PT auto-amortizável
 
 EN self motivation
-+base self
++base self:
 PT auto-motivação (f)
 
 EN sellers market
 PT mercado (m) do vendedor
 
 EN selling policy
-+base selling
++base selling:
 PT política (f) de venda
 
 EN selling price
-+base selling
++base selling:
 PT preço (m) de venda
 
 EN selling value
-+base selling
++base selling:
 PT valor (m) de mercado
 
 EN direct selling
-+base selling
++base selling:
 PT venda (f) direta
 
 EN hard selling soft selling
-+base selling
++base selling:
 PT venda (f) agressiva venda (f) sutil
 
 EN switch selling
-+base selling
++base selling:
 PT venda (f) com combinação de marcas
 
 EN semi-variable costs
 PT custos (mpl) semi-variáveis
 
 EN sensitivity analysis
-+base sensitivity
++base sensitivity:
 PT análise (f) de sensibilidade
 
 EN sensitivity training
-+base sensitivity
++base sensitivity:
 PT treinamento (m) de sensibilidade
 
 EN sensitise (to -)
@@ -8936,35 +8936,35 @@ EN sequential analysis
 PT análise (f) seqüencial
 
 EN time series
-+base series
++base series:
 PT séries (mpl) de tempos
 
 EN advisory services
-+base service
++base service:
 PT serviços (mpl) de assessoramento
 
 EN after-sales service
-+base service
++base service:
 PT serviço (m) pós-venda
 
 EN computer services
-+base service
++base service:
 PT serviços (mpl) de computação
 
 EN computer services bureau
-+base service
++base service:
 PT departamento (m) de serviços de computação
 
 EN customer service
-+base service
++base service:
 PT serviço (m) ao consumidor
 
 EN extension services
-+base service
++base service:
 PT serviços (mpl) logísticos
 
 EN management services
-+base service
++base service:
 PT serviços (mpl) para gestão
 
 EN set-up time
@@ -8975,60 +8975,60 @@ PT demissão (f)
 PT dispensa (f)
 
 EN share bonus
-+base share
++base share:
 PT bonificação (f) em ações
 
 EN share capital
-+base share
++base share:
 PT capital (m) social
 PT capital (m) em ações
 
 EN share holder
-+base share
++base share:
 PT acionista (m)
 
 EN share of production plan
-+base share
++base share:
 PT plano (m) de participação na produção
 
 EN earnings per share
-+base share
++base share:
 PT lucro (m) por ação
 
 EN market share
-+base share
++base share:
 PT fatia (f) do mercado
 
 EN profit sharing
-+base sharing
++base sharing:
 PT participação (f) em lucros
 
 EN time sharing
-+base sharing
++base sharing:
 PT tempo (m) compartilhado
 
 EN shipping documents
 PT documentos (mpl) de embarque
 
 EN shop floor
-+base shop
++base shop:
 PT oficina (f)
 PT pessoal (m) de fábrica
 
 EN shop steward
-+base shop
++base shop:
 PT delegado (m) sindical
 
 EN closed shop
-+base shop
++base shop:
 PT fábrica (f) com operários sindicalizados exclusivamente
 
 EN short term liability
-+base short term
++base short term:
 PT passivo (m) exigível a curto prazo
 
 EN short term method
-+base short term
++base short term:
 PT planejamento (m) a curto prazo
 
 EN shut down
@@ -9048,18 +9048,18 @@ EN simplex method
 PT método (m) simplex (usado na programação linear)
 
 EN job simplifications
-+base simplifications
++base simplifications:
 PT simplificação (f) de tarefas
 
 EN work simplifications
-+base simplifications
++base simplifications:
 PT simplificação (f) do trabalho
 
 EN simulate (to -)
 PT simular
 
 EN computer simulation
-+base simulation
++base simulation:
 PT simulação (f) de computação
 
 EN sinking fund
@@ -9081,11 +9081,11 @@ EN soft selling
 PT venda (f) sutil
 
 EN software broker
-+base software
++base software:
 PT corretor (m) de sistemas
 
 EN software firm
-+base software
++base software:
 PT fabricante (m) de sistemas
 
 EN sole agent
@@ -9095,18 +9095,18 @@ EN solvency
 PT solvência (f)
 
 EN problem solving
-+base solving
++base solving:
 PT resolução (f) de problemas
 
 EN source and disposition of funds
 PT origem (m) e aplicação (f) de recursos
 
 EN span of control
-+base span
++base span:
 PT esfera (f) de controle
 
 EN time span of discretion
-+base span
++base span:
 PT tempo (m) máximo discrecional
 
 EN specie
@@ -9114,11 +9114,11 @@ PT espécie (m)
 PT dinheiro (m) vivo
 
 EN job specification
-+base specification
++base specification:
 PT descrição (f) das atribuições do cargo
 
 EN personnel specification
-+base specification
++base specification:
 PT especificação (f) de pessoal
 
 EN speculator
@@ -9128,7 +9128,7 @@ EN spin-off effects
 PT resultados (mpl) secundários
 
 EN entrepreneurial spirit
-+base spirit
++base spirit:
 PT espírito (m) empreendedor
 
 EN spot price
@@ -9138,35 +9138,35 @@ EN spread rate
 PT taxa de risco
 
 EN credit squeeze
-+base squeeze
++base squeeze:
 PT aperto (m) de crédito
 
 EN staff and line
-+base  staff
++base  staff:
 PT quadros (mpl) inferiores e gerência (staff e linha)
 
 EN staff assistant
-+base  staff
++base  staff:
 PT assistente (m) consultivo
 
 EN staff inspection
-+base  staff
++base  staff:
 PT vistoria (f) do quadro de empregados
 
 EN staff management
-+base  staff
++base  staff:
 PT administração (f) de recursos humanos
 
 EN staff mobility
-+base  staff
++base  staff:
 PT mobilidade (f) de funcionários
 
 EN staff organisation
-+base  staff
++base  staff:
 PT organização (f) de recursos humanos
 
 EN staff transfers
-+base  staff
++base  staff:
 PT translado (m) de pessoal
 
 EN staggered holidays
@@ -9176,41 +9176,41 @@ EN stamp duty
 PT imposto (m) do selo
 
 EN standard costs
-+base standard
++base standard:
 PT custos (mpl) padrão
 
 EN standard costing
-+base standard
++base standard:
 PT custeio (m) padrão
 
 EN standard deviation
-+base standard
++base standard:
 PT desvio-padrão (m)
 
 EN standard performance
-+base standard
++base standard:
 PT desempenho (m) padrão
 
 EN standard time
-+base standard
++base standard:
 PT tempo (m) padrão
 
 EN budget standard
-+base standard
++base standard:
 PT padrão (m)
 PT norma (f) de orçamento
 
 EN costs standard
-+base standard
++base standard:
 PT padrão (m) de custos
 
 EN financial standard
-+base standard
++base standard:
 PT padrão (m) financeiro
 PT norma (f) financeira
 
 EN performance standard
-+base standard
++base standard:
 PT padrão (m) de desempenho
 PT norma (f) de produção
 
@@ -9218,59 +9218,59 @@ EN standardisation
 PT padronização (f)
 
 EN statement of account
-+base statement
++base statement:
 PT extrato (m) de conta
 
 EN statement of profit and loss
-+base statement
++base statement:
 PT demonstração (f) da conta de lucros e perdas
 
 EN policy statement
-+base statement
++base statement:
 PT declaração (f) política
 
 EN statistical control
 PT controle (m) estatístico
 
 EN competitive stimulus
-+base stimulus
++base stimulus:
 PT estímulo (m) competitivo
 
 EN stock control
-+base stock
++base stock:
 PT controle (m) de estoque
 
 EN stock exchange
-+base stock
++base stock:
 PT bolsa (f) de valores
 
 EN stock in trade
-+base stock
++base stock:
 PT mercadorias (fpl) para revenda
 
 EN stock market
-+base stock
++base stock:
 PT bolsa (f) de valores
 
 EN stock option plan
-+base stock
++base stock:
 PT plano (m) de compra opcional de ações
 
 EN stock turnover
-+base stock
++base stock:
 PT rotação (f) de estoque
 
 EN stock valuation
-+base stock
++base stock:
 PT valorização (f) de estoque
 
 EN buffer stock
-+base stock
++base stock:
 PT estoque (m) regulador
 PT inventário (m) para imprevistos
 
 EN safety stock
-+base stock
++base stock:
 PT estoque (m) regulador
 PT estoque (m) para imprevistos
 
@@ -9285,14 +9285,14 @@ PT estocar
 PT armazenar
 
 EN continuous stocktaking
-+base stocktaking
++base stocktaking:
 PT inventário (m) contínuo
 
 EN stocks
 PT estoques (mpl)
 
 EN computer storage
-+base storage
++base storage:
 PT memória (f)
 
 EN store
@@ -9301,208 +9301,208 @@ PT armazém (m)
 PT memória
 
 EN strategic interdependence
-+base strategic
++base strategic:
 PT interdependência (f) estratégica
 
 EN strategic planning
-+base strategic
++base strategic:
 PT planejamento (m) estratégico
 
 EN strategy formulation
-+base strategy
++base strategy:
 PT formulação (f) de estratégia
 
 EN strategy implementation
-+base strategy
++base strategy:
 PT execução (f) de estratégia
 
 EN brand strategy
-+base strategy
++base strategy:
 PT estratégia (f) de uma marca
 
 EN business strategy
-+base strategy
++base strategy:
 PT estratégia (f) comercial
 
 EN competitive strategy
-+base strategy
++base strategy:
 PT estratégia (f) competitiva
 
 EN corporate strategy
-+base strategy
++base strategy:
 PT estratégia (f) empresarial
 
 EN defensive strategy
-+base strategy
++base strategy:
 PT estratégia (f) defensiva
 
 EN diversification strategy
-+base strategy
++base strategy:
 PT estratégia (f) de diversificação
 
 EN executive manpower
-+base strategy
++base strategy:
 PT estratégia (f) para o quadro executivo
 
 EN expansion strategy
-+base strategy
++base strategy:
 PT estratégia (f) de desenvolvimento
 
 EN financial strategy
-+base strategy
++base strategy:
 PT estratégia (f) financeira
 
 EN growth strategy
-+base strategy
++base strategy:
 PT estratégia (f) de crescimento
 
 EN marketing strategy
-+base strategy
++base strategy:
 PT estratégia (f) mercadológica
 
 EN negotiation strategy
-+base strategy
++base strategy:
 PT estratégia (f) de negociação
 
 EN pricing strategy
-+base strategy
++base strategy:
 PT estratégia (f) de preços
 
 EN product strategy
-+base strategy
++base strategy:
 PT estratégia (f) de produtos
 
 EN profit strategy
-+base strategy
++base strategy:
 PT estratégia (f) de lucro
 
 EN survival strategy
-+base strategy
++base strategy:
 PT estratégia (f) de sobrevivência
 
 EN user strategy
-+base strategy
++base strategy:
 PT estratégia (f) de consumidores
 
 EN streamline (to -)
 PT racionalizar
 
 EN lightning strike
-+base strike
++base strike:
 PT greve (f) relâmpago
 
 EN official strike
-+base strike
++base strike:
 PT greve (f) apoiada pelo sindicato
 
 EN sit down strike
-+base strike
++base strike:
 PT greve (f) branca
 
 EN unofficial strike
-+base strike
++base strike:
 PT greve (f) não apoiada pelo sindicato
 
 EN wild-cat strike
-+base strike
++base strike:
 PT greve (f) não autorizada pelo sindicato
 
 EN strike breaker
-+base strike
++base strike:
 PT fura-greve (m/f)
 
 EN structure (to -)
 PT estruturar
 
 EN authority structure
-+base structure
++base structure:
 PT estrutura (f) de autoridade
 
 EN capital structure
-+base structure
++base structure:
 PT estrutura (f) de capital
 
 EN corporate structure
-+base structure
++base structure:
 PT estrutura (f) da empresa
 
 EN cost structure
-+base structure
++base structure:
 PT estrutura (f) de custos
 
 EN grid structure
-+base structure
++base structure:
 PT estrutura (f) de grade
 
 EN managerial structure
-+base structure
++base structure:
 PT estrutura (f) administrativa
 
 EN market structure
-+base structure
++base structure:
 PT estrutura (f) de mercado
 
 EN organisation structure
-+base structure
++base structure:
 PT estrutura (f) da organização
 
 EN price
-+base structure
++base structure:
 PT estrutura (f) de preços
 
 EN salary structure
-+base structure
++base structure:
 PT estrutura (f) de salários
 
 EN wage structure
-+base structure
++base structure:
 PT estrutura (f) de salários
 
 EN work  structuring
-+base  structuring
++base  structuring:
 PT estruturação (f) do trabalho
 
 EN   case
 PT estudo (m) de caso
 
 EN feasibility   case gap   case
-+base   case
++base   case:
 PT estudo (m) de viabilidade estudo (m) de intervalos
 
 EN market   case
-+base   case
++base   case:
 PT estudo (m) de mercado
 
 EN methods   case
-+base   case
++base   case:
 PT estudo (m) de métodos
 
 EN time and methods   case
-+base   case
++base   case:
 PT estudo (m) de métodos e tempos
 
 EN motion   case
-+base   case
++base   case:
 PT estudo (m) de movimentos
 
 EN time and motion   case
-+base   case
++base   case:
 PT estudo (m) de tempos e movimentos
 
 EN plant layout   case
-+base   case
++base   case:
 PT estudo (m) do esquema de uma instalação
 
 EN time   case
-+base   case
++base   case:
 PT estudo (m) de tempos
 
 EN work   case
-+base   case
++base   case:
 PT estudo (m) de trabalho
 
 EN managerial style
-+base style
++base style:
 PT estilo (m) gerencial
 
 EN subcontract
@@ -9526,7 +9526,7 @@ EN subvention
 PT subvenção (f)
 
 EN management succession
-+base succession
++base succession:
 PT plano (m) de sucessão de dirigentes
 
 EN suggestion scheme
@@ -9548,16 +9548,16 @@ EN supervisory management
 PT gestão (f) supervisora
 
 EN supply and demand
-+base supply
++base supply:
 PT oferta (f) e demanda (f)
 PT oferta (f) e procura (f)
 
 EN support activities
-+base support
++base support:
 PT atividades (fpl) de apoio
 
 EN support price
-+base support
++base support:
 PT preço (m) de sustentação
 
 EN supporting document
@@ -9574,11 +9574,11 @@ EN surtax
 PT sobretaxa (f)
 
 EN attitude survey
-+base survey
++base survey:
 PT levantamento (m) de opiniões
 
 EN market survey
-+base survey
++base survey:
 PT levantamento (m) de mercado
 
 EN survival strategy
@@ -9596,27 +9596,27 @@ PT sinergia (f)
 PT coordenação (f)
 
 EN information system
-+base system
++base system:
 PT sistema (m) de dados
 
 EN computerised information system (COINS)
-+base system
++base system:
 PT sistema (m) computadorizado de dados
 
 EN management information system (MIS)
-+base system
++base system:
 PT sistema (m) de dados para gestão
 
 EN integrated management system
-+base system
++base system:
 PT sistema (m) integrado de gestão
 
 EN planning-programming system budgeting system  (PPBS)
-+base system
++base system:
 PT sistema (m) orçamentário de planejamento e programação
 
 EN predetermined motion time (PMTS)
-+base system
++base system:
 PT sistema (m) de movimentos pré-determinados
 
 EN systematise (to -)
@@ -9635,7 +9635,7 @@ EN systems design
 PT planejamento (m) de sistemas
 
 EN systems managed company
-+base systems managed
++base systems managed:
 PT empresa (f) dirigida de forma sistematizada
 
 EN systems planning
@@ -9654,33 +9654,33 @@ EN tactical plan
 PT plano (m) tático
 
 EN competitive tactics
-+base tactics
++base tactics:
 PT tática (f) competitiva
 
 EN take-off
 PT decolagem (f)
 
 EN takeover bid
-+base takeover
++base takeover:
 PT oferta (f) de compra (de umacompa nhia)
 
 EN sales talk
-+base talk
++base talk:
 PT argumento (m) de venda
 
 EN tangible assets
 PT ativo (m) tangível
 
 EN target setting
-+base target
++base target:
 PT estabelecimento (m) de objetivos
 
 EN production target
-+base target
++base target:
 PT meta (f) de produção
 
 EN profit target
-+base target
++base target:
 PT objetivo (m) de lucro
 PT meta (f) de lucro
 
@@ -9692,32 +9692,32 @@ PT grupo (m) de trabalho
 PT grupo (m) de estudos
 
 EN corporation tax
-+base tax
++base tax:
 PT imposto (m) sobre a empresa
 
 EN value added tax (VAT)
-+base tax
++base tax:
 PT imposto (m) sobre circulação de mercadorias (ICM)
 
 EN taxable profit
 PT lucro (m) tributável
 
 EN double taxation relief
-+base taxation relief
++base taxation relief:
 PT descarga (f) de impostos duplicados
 
 EN taxpayer
 PT contribuinte (m) (de imposto)
 
 EN management techniques
-+base techniques
++base techniques:
 PT técnicas (fpl) de gestão
 
 EN technological forecasting
 PT previsão (f) tecnológica
 
 EN information technology
-+base technology
++base technology:
 PT tecnologia (f) da informação
 
 EN tender
@@ -9725,154 +9725,154 @@ PT proposta (f)
 PT oferta (f)
 
 EN term bonds
-+base term
++base term:
 PT obrigações (fpl) com vencimento fixo
 
 EN term loan
-+base term
++base term:
 PT empréstimo (m) a prazo fixo
 
 EN terms of payment
-+base terms
++base terms:
 PT condições (fpl) de pagamento
 
 EN terms of trade
-+base terms
++base terms:
 PT condições (fpl) comerciais
 
 EN sales territory
-+base territory
++base territory:
 PT área (f) de vendas
 
 EN test marketing
-+base test
++base test:
 PT ensaio (m) mercadológico
 
 EN aptitude test
-+base test
++base test:
 PT teste (m) de aptidão
 
 EN market test
-+base test
++base test:
 PT teste (m) de mercado
 
 EN field testing
-+base testing
++base testing:
 PT provas (fpl) de mercado
 PT de funcionamento
 PT etc.
 
 EN product testing
-+base testing
++base testing:
 PT teste (m) de produtos
 PT avaliação (f) de produtos
 
 EN advertising theme
-+base theme
++base theme:
 PT tema (m) publicitario
 
 EN administrative theory
-+base theory
++base theory:
 PT teoria (f) de administração
 
 EN communication theory
-+base theory
++base theory:
 PT teoria (f) da comunicação
 
 EN decision theory
-+base theory
++base theory:
 PT teoria (f) das decisões
 
 EN game theory
-+base theory
++base theory:
 PT teoria (f) dos jogos
 
 EN information theory
-+base theory
++base theory:
 PT teoria (f) da informação
 
 EN management theory
-+base theory
++base theory:
 PT teoria (f) da política administrativa
 
 EN organisation theory
-+base theory
++base theory:
 PT teoria (f) da organização
 
 EN probability theory
-+base theory
++base theory:
 PT teoria (f) das probabilidades
 
 EN queuing theory
-+base theory
++base theory:
 PT teoria (f) de filas
 
 EN systems theory
-+base theory
++base theory:
 PT teoria (f) de sistemas
 
 EN creative thinking
-+base thinking
++base thinking:
 PT espírito (m) criativo
 
 EN throughput
 PT produção (f) total
 
 EN competitive thrust
-+base thrust
++base thrust:
 PT ímpeto (m) competitivo
 
 EN time and methods study
-+base time
++base time:
 PT estudo (m) de métodos e tempos
 
 EN time and motion study
-+base time
++base time:
 PT estudo (m) de tempos e movimentos
 
 EN time deposit
-+base time
++base time:
 PT depósito (m) a prazo fixo
 
 EN time series
-+base time
++base time:
 PT série (f) de tempos
 
 EN time sharing
-+base time
++base time:
 PT tempo (m) compartilhado
 
 EN time span of discretion
-+base time
++base time:
 PT tempo (m) máximo discrecional
 
 EN time study
-+base time
++base time:
 PT estudo (m) de tempos
 
 EN down time
-+base time
++base time:
 PT tempo (m) ocioso
 
 EN lead time
-+base time
++base time:
 PT prazo (m) de entrega
 PT de execução
 
 EN predetermined motion time
-+base time
++base time:
 PT sistema (m) de movimentos
 
 EN system (PMTS)
-+base time
++base time:
 PT pré-determinados
 
 EN real time
-+base time
++base time:
 PT tempo (m) real
 
 EN standard time
-+base time
++base time:
 PT tempo (m) padrão
 
 EN top management
@@ -9886,118 +9886,118 @@ EN total quality control
 PT controle (m) geral de qualidade
 
 EN trade association
-+base trade
++base trade:
 PT associação (f) comercial
 PT entidade (f) de classe
 
 EN trade cycle
-+base trade
++base trade:
 PT ciclo (m) comercial
 
 EN trade discount
-+base trade
++base trade:
 PT desconto (m) comercial
 
 EN trade mark
-+base trade
++base trade:
 PT marca (f) registrada
 
 EN trade off
-+base trade
++base trade:
 PT substituição (f)
 
 EN trade price
-+base trade
++base trade:
 PT preço (m) de revendedor
 
 EN trade union
-+base trade
++base trade:
 PT sindicato (m)
 
 EN trading area
-+base trading
++base trading:
 PT área (f) comercial
 
 EN trading profit
-+base trading
++base trading:
 PT lucro (m) comercial
 
 EN fair trading
-+base trading
++base trading:
 PT comércio (m) leal
 
 EN patent trading
-+base trading
++base trading:
 PT negociação (f) de patentes
 
 EN trainee turnover
-+base trainee
++base trainee:
 PT rotação (f) de estagiários
 
 EN traineeship
 PT estágio (m)
 
 EN training officer
-+base training
++base training:
 PT chefe (m) de treinamento
 
 EN training within industry (TWI)
-+base training
++base training:
 PT treinamento (mj dentro da indústria
 
 EN analytical training
-+base training
++base training:
 PT treinamento (m) analítico
 
 EN booster training
-+base training
++base training:
 PT reciclagem (f)
 
 EN group training
-+base training
++base training:
 PT treinamento (m) em grupo
 
 EN in-plant training
-+base training
++base training:
 PT treinamento (m) interno
 
 EN off-the-job training
-+base training
++base training:
 PT treinamento (m) fora da empresa
 
 EN on-the-job training
-+base training
++base training:
 PT treinamento (m) dentro da empresa
 
 EN part-analysis training
-+base training
++base training:
 PT treinamento (m) e avaliação de funções
 
 EN sensitivity training
-+base training
++base training:
 PT treinamento (m) de sensibilidade
 
 EN T-group training
-+base training
++base training:
 PT diagnóstico (m) de grupos
 
 EN vocational training
-+base training
++base training:
 PT treinamento (m) profissionalizante
 
 EN transactions
 PT transações (fpl)
 
 EN transfer pricing
-+base transfer
++base transfer:
 PT estabelecimento (m) de preços de transferência
 
 EN staff transfer
-+base transfer
++base transfer:
 PT translado (m) de pessoal
 
 EN in transit
-+base transit
++base transit:
 PT em trânsito (m)
 
 EN transportation
@@ -10007,38 +10007,38 @@ EN traveller's cheque
 PT cheque (mj de viagem
 
 EN decision tree
-+base tree
++base tree:
 PT árvore (f) de decisão
 
 EN family tree
-+base tree
++base tree:
 PT árvore (f) genealógica
 
 EN pertinence tree
-+base tree
++base tree:
 PT árvore (f) de pertinência
 
 EN economic trend
-+base trend
++base trend:
 PT tendência (f) econômica
 
 EN exponential trend
-+base trend
++base trend:
 PT tendência (f) exponencial
 
 EN market trend
-+base trend
++base trend:
 PT tendência (f) do mercado
 
 EN sales trend
-+base trend
++base trend:
 PT tendência (f) de vendas
 
 EN trouble shooting
 PT investigação (f) e resolução (f) de problemas
 
 EN trust fund
-+base trust
++base trust:
 PT fundo (m) de fideicomisso
 
 EN trustee
@@ -10046,24 +10046,24 @@ PT fideicomissário (m)
 PT administrador (m)
 
 EN inventory
-+base turnover
++base turnover:
 PT giro (m) de estoque
 PT rotação (f) do estoque
 
 EN labour turnover
-+base turnover
++base turnover:
 PT rotação (f) da mão-de-obra
 
 EN sales turnover
-+base turnover
++base turnover:
 PT movimento (f) de vendas
 
 EN stock turnover
-+base turnover
++base turnover:
 PT rotação (f) do estoque
 
 EN trainee turnover
-+base turnover
++base turnover:
 PT rotação (f) de estagiários
 
 EN unbundling
@@ -10103,19 +10103,19 @@ EN upkeep
 PT manutenção
 
 EN user attitude
-+base user
++base user:
 PT atitude (f) do consumidor
 
 EN user cost
-+base user
++base user:
 PT custo (m) de utilização
 
 EN user strategy
-+base user
++base user:
 PT estratégia (f) de consumidores
 
 EN capacity utilisation
-+base utilisation
++base utilisation:
 PT utilização (f) de capacidade total
 
 EN utility
@@ -10128,87 +10128,87 @@ EN VAT (value added tax)
 PT imposto (m) sobre circulação de mercadorias
 
 EN stock valuation
-+base valuation
++base valuation:
 PT valorização (f) de estoque
 
 EN value added
-+base value
++base value:
 PT valor (m) agregado
 
 EN value added tax (VAT)
-+base value
++base value:
 PT imposto (m) sobre circulação de mercadorias (ICM)
 
 EN value analysis (VA)
-+base value
++base value:
 PT análise (f) de valores
 
 EN concept
-+base value
++base value:
 PT conceito (m) de valor
 
 EN engineering
-+base value
++base value:
 PT análise (f) de custos
 PT análise (f) de valores
 
 EN value judgment
-+base value
++base value:
 PT juízo (m) de valor
 
 EN book value
-+base value
++base value:
 PT valor (m) contábil
 
 EN break-up value
-+base value
++base value:
 PT valor (m) de liquidação forçada
 
 EN market value
-+base value
++base value:
 PT valor (m) de mercado
 
 EN net present value (NPV)
-+base value
++base value:
 PT valor (m) liquido atual
 
 EN present value method
-+base value
++base value:
 PT método (m) de valor atual
 
 EN variable costs
-+base variable
++base variable:
 PT custos (mpl) variáveis
 
 EN variable costing
-+base variable
++base variable:
 PT custeio (m) variável
 
 EN semi variable costs
-+base variable
++base variable:
 PT custos (mpl) semi-variáveis
 
 EN variance analysis
-+base variance
++base variance:
 PT análise (f) de variação
 
 EN cost variance
-+base variance
++base variance:
 PT divergência (f) de custo
 
 EN variety reduction
 PT redução (f) de variedade
 
 EN venture capital
-+base venture
++base venture:
 PT capital (m) de risco
 
 EN venture management
-+base venture
++base venture:
 PT gestão (f) de empreendimentos
 
 EN joint venture
-+base venture
++base venture:
 PT sociedade (f) em conta de participação
 
 EN vertical integration
@@ -10230,35 +10230,35 @@ EN vice-president
 PT vice-presidente (m)
 
 EN vocational guidance
-+base vocational
++base vocational:
 PT orientação (f) profissional
 
 EN vocational training
-+base vocational
++base vocational:
 PT treinamento (m) profissionalizante
 
 EN volume discount
-+base volume
++base volume:
 PT desconto (m) de volume análise (f) de custo
 PT volume
 
 EN cost volume profit analysis
-+base volume
++base volume:
 PT e benefício índice (m) de rentabilidade
 
 EN profit volume ratio (P/V)
-+base volume
++base volume:
 PT sobre o movimento volume (m) de vendas
 
 EN salesvolume
-+base volume
++base volume:
 
 EN wage differential
-+base wage
++base wage:
 PT disparidade (f) de salários
 
 EN wage structure
-+base wage
++base wage:
 PT estrutura (f) de salários
 
 EN wages
@@ -10269,7 +10269,7 @@ PT abandono (m) do trabalho
 PT entrando em greve
 
 EN warehouse bonded warehouse
-+base warehouse
++base warehouse:
 PT entreposto (m) aduaneiro
 
 EN warehousing
@@ -10300,95 +10300,95 @@ EN withdrawal
 PT retirada (f)
 
 EN work content
-+base work
++base work:
 PT atribuições (fpl) no trabalho
 
 EN work cycle
-+base work
++base work:
 PT ciclo (m) de trabalho
 
 EN work in process
-+base work
++base work:
 PT produção (f) em curso
 PT produtos (mpl) em andamento
 
 EN work in progres
-+base work
++base work:
 PT produção (f) em curso
 PT produtos (mpl) em andamento
 
 EN work load
-+base work
++base work:
 PT carga (f) de trabalho
 
 EN work measurement
-+base work
++base work:
 PT medição (f) de trabalho
 
 EN clerical work measurement (CWM)
-+base work
++base work:
 PT medição (f) de trabalho administrativo
 
 EN work simplification
-+base work
++base work:
 PT simplificação (f) do trabalho
 
 EN work structuring
-+base work
++base work:
 PT estruturação (f) do trabalho
 
 EN work study
-+base work
++base work:
 PT estudo (m) de trabalho
 
 EN work to-rule (to work)
-+base work
++base work:
 PT trabalhar estritamente de acordo com as normas de trabalho
 
 EN shift work
-+base work
++base work:
 PT trabalho (m) em turno
 
 EN worker participation
-+base worker
++base worker:
 PT participação (f) dos trabalhadores
 
 EN worker representation
-+base worker
++base worker:
 PT representação (f) dos trabalhadores
 
 EN working capital
-+base working
++base working:
 PT capital (m) circulante
 PT capital (m) de giro
 
 EN working day
-+base working
++base working:
 PT dia (m) útil
 PT jornada (f)
 
 EN working hours
-+base working
++base working:
 PT expediente (m)
 PT horário (m)
 
 EN working party
-+base working
++base working:
 PT grupo (m) de trabalho
 
 EN workmanship
 PT artesanato (m)
 
 EN works council
-+base works
++base works:
 PT conselho (m) de fábrica
 
 EN works manager
-+base works
++base works:
 PT gerente (m) de fábrica
 
 EN net worth
-+base worth
++base worth:
 PT patrimônio (m) líquido
 
 EN write off (to -)
@@ -10401,15 +10401,15 @@ PT medida (f)
 PT padrão (m)
 
 EN year of account
-+base year
++base year:
 PT exercício (m) contábil
 
 EN year base year
-+base year
++base year:
 PT ano-base (m)
 
 EN financial year
-+base year
++base year:
 PT exercício (m) financeiro
 PT ano (m) contábil
 
@@ -10417,7 +10417,7 @@ EN yearly report
 PT relatório (m) anual
 
 EN earnings yield
-+base yield
++base yield:
 PT taxa (f) de rendimento
 
 EN Z-chart
