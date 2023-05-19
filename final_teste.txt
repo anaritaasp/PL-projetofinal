@@ -1,0 +1,34 @@
+EN labour dispute
++base dispute:
+PT conflito (m) trabalhista
+
+EN dissolution
+PT dissolução (f)
+
+EN distribution costs
++base distribution:
+PT custos de distribuição
+
+EN channels of distribution
++base distribution:
+PT canais (mpl) de distribuição
+
+EN physical distribution management
++base distribution:
+PT controle (m) da distribuição física
+
+EN distributor
+PT distribuidor (m)
+PT atacadista (m)
+
+EN diversification
+PT diversificação (f)
+
+EN diversification strategy
++base diversification:
+PT estratégia (f) de diversificação
+
+EN product diversification
++base diversification:
+PT diversificação (f) de produtos
+

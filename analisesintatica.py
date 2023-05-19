@@ -310,13 +310,13 @@ def p_error(p):
 
 
 
-with open('dic-finance-en.pt.txt', 'r') as file:
-    data = file.read()
+#with open('dic-finance-en.pt.txt', 'r') as file:
+#    data = file.read()
 
 parser = yacc.yacc()
 #print(parser.parse(data)) #print(parser.parse(text, debug=1)) #print(parser.parse(text))
-dicionario = parser.parse(data)
+#dicionario = parser.parse(data)
 
-dicionario = OrderedDict(reversed(list(dicionario.items())))
+#dicionario = OrderedDict(reversed(list(dicionario.items())))
 
 #print(dicionario)

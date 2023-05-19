@@ -1,0 +1,13 @@
+D
+
+dispute:
+ labour -                conflito (m) trabalhista
+dissolution              dissolução (f)
+distribution:
+ - costs                 custos de distribuição
+ channels of -           canais (mpl) de distribuição
+ physical - management   controle (m) da distribuição física
+distributor              distribuidor (m), atacadista (m)
+diversification:         diversificação (f)
+ - strategy              estratégia (f) de diversificação
+ product -               diversificação (f) de produtos
