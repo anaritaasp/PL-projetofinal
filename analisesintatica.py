@@ -278,7 +278,7 @@ def p_multipleTranslations6(p):
     '''
 
     portugueseTranslations = [p[2]]
-    if re.search(r'[,;]', p[2]):
+    if re.search(r'[,;]', p[2]) and not re.search(',', p[1]):
         portugueseTranslations = re.split(r'[,;]\s*', p[2])
     
     p[3][p[1]] = portugueseTranslations

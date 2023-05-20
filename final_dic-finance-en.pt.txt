@@ -423,7 +423,7 @@ EN sensitivity analysis
 +base analysis:
 PT análise (/) de sensibilidade
 
-EN sequential analysis skill analysis
+EN sequential analysis skill-analysis
 +base analysis:
 PT análise (f) seqüencial análise (f) de habilidades
 
@@ -472,7 +472,7 @@ EN market appraisal
 +base appraisal:
 PT avaliação (f) de mercado
 
-EN performance appraisal self appraisal
+EN performance appraisal self-appraisal
 +base appraisal:
 PT avaliação (f) de desempenho auto-avaliação (f)
 
@@ -615,7 +615,7 @@ EN assistant to manager
 +base assistant:
 PT assistente (m) do gerente
 
-EN line assistant staff assistant
+EN line assistant staff-assistant
 +base assistant:
 PT assistente (m) de linha assistente (m) consultivo
 
@@ -1438,7 +1438,7 @@ EN cash flow
 +base cash:
 PT fluxo (m) de caixa
 
-EN discounted cash flow (DCF)
+EN discounted-cash flow (DCF)
 +base cash:
 PT relação (f) entre receita e investimento
 PT menos impostos
@@ -1575,7 +1575,7 @@ EN organisation chart
 +base chart:
 PT organograma (m)
 
-EN pie chart Z chart
+EN pie chart Z-chart
 +base chart:
 PT gráfico (m) circular em setores gráfico (m) Z
 
@@ -2085,7 +2085,7 @@ EN span of control
 +base control:
 PT esfera (f) de controle
 
-EN statistical control stock control
+EN statistical control stock-control
 +base control:
 PT controle (m) estatístico controle (m) de estoque
 
@@ -2172,10 +2172,9 @@ EN cost factor
 +base cost:
 PT fator (m) de custo
 
-EN cost insurance and freight
+EN cost, insurance and freight
 +base cost:
-PT custo (m)
-PT seguro e frete
+PT custo (m), seguro e frete
 
 EN cost of production
 +base cost:
@@ -2738,7 +2737,7 @@ EN engineering and design departament
 +base design:
 PT departamento (m) técnico e de projetos
 
-EN job design
+EN job-design
 +base design:
 PT delineação (m) de tarefas
 
@@ -3475,7 +3474,7 @@ EN capital project evaluation
 +base evaluation:
 PT avaliação (f) de projetos de investimentos
 
-EN dynamic evaluation job evaluation
+EN dynamic evaluation job-evaluation
 +base evaluation:
 PT avaliação (f) dinâmica avaliação (f) de cargos e tarefas
 
@@ -3782,7 +3781,7 @@ EN financial year
 PT exercício (m) financeiro
 PT ano contábil
 
-EN self financing
+EN self-financing
 +base financing:
 PT auto-financiamento (m)
 
@@ -3831,8 +3830,9 @@ PT colocar no mercado
 
 EN floating capital
 +base floating:
-PT capital (mj de giro
-PT capital (m) circulante
+PT capital (m) de giro
+PT capital (m)
+                             circulante
 
 EN floating exchange rate
 +base floating:
@@ -3860,7 +3860,7 @@ PT produção (f) em cadeia
 
 EN continuous flow
 +base flow:
-PT fluxo (mj contínuo
+PT fluxo (m) contínuo
 
 EN cash flow
 +base flow:
@@ -3894,7 +3894,8 @@ PT equipe (f) de vendas
 EN task force
 +base force:
 PT grupo (m) de trabalho
-PT grupo (mj de estudos
+PT grupo (m)
+                            de estudos
 
 EN market forces
 +base forces:
@@ -5168,7 +5169,7 @@ PT quadros (mpl) inferiores e gerência
 
 EN line assistant
 +base line:
-PT assistente (mj de linha
+PT assistente (m) de linha
 
 EN line authority
 +base line:
@@ -5237,7 +5238,7 @@ PT ativo (m) líquido
 EN liquidation
 PT liquidação (f)
 
-EN self liquidating
+EN self-liquidating
 +base liquidating:
 PT auto-amortizável
 
@@ -5338,7 +5339,7 @@ EN planned maintenance
 +base maintenance:
 PT manutenção (f) programada
 
-EN preventive maintenance resale price maintenance (RPM)
+EN preventive maintenance resale price-maintenance (RPM)
 +base maintenance:
 PT manutenção (f) preventiva controle (m) de preços de revenda
 
@@ -6171,7 +6172,7 @@ EN predetermined motion time system (PMTS)
 +base motion:
 PT sistema (m) de movimentos pré-determinados
 
-EN self motivation
+EN self-motivation
 +base motivation:
 PT automotivação (f)
 
@@ -7079,7 +7080,7 @@ EN production planning
 +base planning:
 PT planejamento (m) de produção
 
-EN production planning and control
+EN production-planning and control
 +base planning:
 PT planejamento (m) e controle da produção
 
@@ -7150,7 +7151,7 @@ EN points rating method
 +base point:
 PT método (m) de classificação por pontos
 
-EN breakeven point
+EN breakeven-point
 +base point:
 PT ponto (m) de equilíbrio
 
@@ -7457,11 +7458,11 @@ EN data processing
 +base processing:
 PT processamento (m) de dados
 
-EN automatic data (ADP)processing
+EN  automatic data processing automatic data (ADP)
 +base processing:
 PT processamento (m) automático de dados (PAD)
 
-EN electronic data (EDP)processing
+EN  electronic data processing electronic data (EDP)
 +base processing:
 PT processamento (m) eletrônico de dados (PED)
 
@@ -7586,7 +7587,7 @@ EN product testing
 PT teste (m) de produtos
 PT avaliação (f) de produtos
 
-EN by product
+EN by-product
 +base product:
 PT subproduto (m)
 PT derivado (m)
@@ -7913,7 +7914,7 @@ EN capital project evaluation
 +base project:
 PT avaliação (f) de projetos de investimentos
 
-EN integrated project management (IPM)
+EN integrated-project management (IPM)
 +base project:
 PT gestão (f) integrada de projetos
 
@@ -8776,7 +8777,7 @@ EN random sampling
 +base sampling:
 PT amostragem (f) casual
 
-EN consumer satisfaction job satisfaction
+EN consumer satisfaction job-satisfaction
 +base satisfaction:
 PT satisfação (f) por parte do consumidor satisfação (f) no trabalho
 
@@ -8910,7 +8911,7 @@ EN direct selling
 +base selling:
 PT venda (f) direta
 
-EN hard selling soft selling
+EN hard selling soft-selling
 +base selling:
 PT venda (f) agressiva venda (f) sutil
 
@@ -9465,7 +9466,7 @@ PT estruturação (f) do trabalho
 EN   case
 PT estudo (m) de caso
 
-EN feasibility   case gap   case
+EN feasibility   case gap-  case
 +base   case:
 PT estudo (m) de viabilidade estudo (m) de intervalos
 
@@ -9611,7 +9612,7 @@ EN integrated management system
 +base system:
 PT sistema (m) integrado de gestão
 
-EN planning-programming system budgeting system  (PPBS)
+EN planning-programming system budgeting-system (PPBS)
 +base system:
 PT sistema (m) orçamentário de planejamento e programação
 
@@ -9702,7 +9703,7 @@ PT imposto (m) sobre circulação de mercadorias (ICM)
 EN taxable profit
 PT lucro (m) tributável
 
-EN double taxation relief
+EN double-taxation relief
 +base taxation relief:
 PT descarga (f) de impostos duplicados
 
@@ -9943,7 +9944,7 @@ PT chefe (m) de treinamento
 
 EN training within industry (TWI)
 +base training:
-PT treinamento (mj dentro da indústria
+PT treinamento (m) dentro da indústria
 
 EN analytical training
 +base training:
@@ -10004,7 +10005,7 @@ EN transportation
 PT meio (m) de transporte
 
 EN traveller's cheque
-PT cheque (mj de viagem
+PT cheque (m) de viagem
 
 EN decision tree
 +base tree:
@@ -10184,7 +10185,7 @@ EN variable costing
 +base variable:
 PT custeio (m) variável
 
-EN semi variable costs
+EN semi-variable costs
 +base variable:
 PT custos (mpl) semi-variáveis
 
@@ -10325,7 +10326,7 @@ EN work measurement
 +base work:
 PT medição (f) de trabalho
 
-EN clerical work measurement (CWM)
+EN clerical-work measurement (CWM)
 +base work:
 PT medição (f) de trabalho administrativo
 
@@ -10345,7 +10346,7 @@ EN work to-rule (to work)
 +base work:
 PT trabalhar estritamente de acordo com as normas de trabalho
 
-EN shift work
+EN shift-work
 +base work:
 PT trabalho (m) em turno
 

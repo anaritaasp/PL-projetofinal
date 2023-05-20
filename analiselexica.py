@@ -33,8 +33,8 @@ tokens = (
     'a_parenteses', # CWM (clerical work
     'a_parenteses_paragraph', # ROCE (return on capital\n
     'f_parenteses', # measurement)
-    'portugueseTranslation', #the portuguese sentence appears after more than \t before the end of the current line  
     'portugueseTranslationError', # example: treinamento (mj dentro da indústria
+    'portugueseTranslation', #the portuguese sentence appears after more than \t before the end of the current line  
     'paragraph', # token extra
 )
 
@@ -57,7 +57,7 @@ def t_normalword(t):#example: yearly report      OU     I.O.U. (I owe you)      
     t.lexer.word = t.value
     return t
 
-def t_baseword(t): #example: automatic data: \n  OU  administration:   ( pode ter tradução a seguir: "administração (f)" )
+def t_baseword(t): #example: automatic data: (espaços a seguir de :)'\n'(noutro token)  OU  administration:   ( pode ter tradução a seguir: "administração (f)" )
     r'[ \r\t\f]*\w[ \r\t\f\w\-]*:'
     t.lexer.push_state('ptsearch')
     t.value = t.value.strip(':')
@@ -84,11 +84,10 @@ def t_prefix_word(t): #example:   - of responsibilities (ROF)   OR   - of respon
     # print(t.value)
     return t
 
-# ERRO de FORMATO
 def t_prefix_word_error(t): # example: -, insurance and freight
     r'[ \r\t\f]*\-\,[ \r\t\f]\w[\w\-\,]*([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
-    t.value = re.sub("[ \r\t\f]*\-\,[ \r\t\f]+", t.lexer.word + " ", t.value).strip()
+    t.value = re.sub("[ \r\t\f]*\-", t.lexer.word, t.value).strip()
     return t
 
 def t_prefix_word_error_2(t): #  - volume ratio (P/V)\n
@@ -98,7 +97,7 @@ def t_prefix_word_error_2(t): #  - volume ratio (P/V)\n
     t.value = t.value.strip()
     return t 
 
-def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax tax (VATT)      OR       buyers'
+def t_middle1_word(t): #example:  value - tax (VAT)         OR        value - (VA)   OR    value - Tax Tax (VATT)      OR       buyers' -
     r'[ \r\t\f]*\w[\w\-\,\']*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-[ \r\t\f]+", " " + t.lexer.word + " ", t.value).strip()
@@ -110,8 +109,10 @@ def t_middle1_word_error(t): #example:  sales -\n
     t.value = re.sub("[ \r\t\f]*\-", t.lexer.word, t.value).strip()
     return t
 
+# ERRO DE FORMATO
 def t_middle1_word_error_2(t): # down.the -
     r'[ \r\t\f]*\w[\w\-\,\.]*[ \r\t\f]-([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\w[\w\-\,]*)?([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    print("\n!!! Detetado erro de formato na linha " + str(t.lexer.lineno) + " !!!\n")
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-", t.lexer.word, t.value)
     t.value = re.sub("\.", " ", t.value).strip()
@@ -144,8 +145,10 @@ def t_suffix_word(t): #example:  value tax final - (VTFA)
 # ERRO de FORMATO
 def t_suffix_error(t): #automatic data (ADP)-
     r'[ \r\t\f]*\w[\w\-\,]*[ \r\t\f]\w[\w\-\,]*[ \r\t\f]\(\w[\w\-\,]*\)-([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    print("\n!!! Detetado erro de formato na linha " + str(t.lexer.lineno) + " !!!\n")
     t.lexer.push_state('ptsearch')
-    t.value = re.sub("\-[ \r\t\f]", t.lexer.word + " ", t.value).strip()
+    list = t.value.split('(')
+    t.value = list[0] + t.lexer.word + " " + re.sub("\-[ \r\t\f]+", "", t.value).strip()
     return t
 
 def t_double_word(t): #example: - base -     OU           price - earnings - (PIE)
@@ -155,24 +158,25 @@ def t_double_word(t): #example: - base -     OU           price - earnings - (PI
     t.value = re.sub("[ \r\t\f]\-[ \r\t\f]", " " + t.lexer.word + " ", t.value).strip()
     return t
 
-# ERRO DE FORMATO
+# ERRO DE FORMATO 
 def t_prefix_error_word(t) : # example: -structuring
     r'[ \r\t\f]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
+    print("\n!!! Detetado erro de formato na linha " + str(t.lexer.lineno) + " !!!\n")
     t.lexer.push_state('ptsearch')
     t.value = re.sub("[ \r\t\f]*\-", t.lexer.word + " ", t.value).strip()
     return t
 
-# ERRO DE FORMATO
 def t_middle_error_word(t): #exameple: semi-costs
     r'[ \r\t\f]*\w[\w\,]*\-\w[\w\,]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
     t.lexer.push_state('ptsearch')
-    t.value = re.sub("\-", " " + t.lexer.word + " ", t.value).strip()
+    t.value = re.sub("\-", "-" + t.lexer.word + " ", t.value).strip()
     return t
 
-# ERRO DE FORMATO
-def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)
+def t_suffix_error_word(t): #example:  shift-       OU     resale price-(RPM)   OU    self- 
     r'[ \r\t\f]*(\w[\w\,]*[ \r\t\f])?\w[\w\,]*-([ \r\t\f]\w[\w\-,]*)*(\(\w*\))*([ \r\t\f]\([^\)]*\))?[ \r\t\f]{3}[ \r\t\f]*'
-    t.value = re.sub("\-", " " + t.lexer.word + " ", t.value).strip()
+    t.value = re.sub("\-\s", "-" + t.lexer.word + " ", t.value)
+    t.value = re.sub("\-\(", "-" + t.lexer.word + " (", t.value)
+    t.value = t.value.strip()
     t.lexer.push_state('ptsearch')
     return t
 
@@ -194,6 +198,7 @@ def t_a_parenteses(t): # CWM (clerical work     OU     EEC (European Economic Co
 # com paragrafo no final
 def t_a_parenteses_paragraph(t): # ROCE (return on capital\n
     r'[ \r\t\f]*(\w+[ \r\t\f])+\((\w[\w\,]*([ \r\t\f\-])?)+\n'
+    t.lexer.lineno += 1
     t.value = t.value.strip()
     return t
 
@@ -221,6 +226,17 @@ def t_no_hifen_paragraph(t): # return on capital\n
  performance -                   controle (m) orçamentário de rendimen-
                                  to
 '''
+
+# ERRO DE FORMATO
+def t_ptsearch_portugueseTranslationError(t): # example: treinamento (mj dentro da indústria
+    r'[^\n]*\(mj[^\n]*\n([ \r\t\f]{12}[^\n]*\n)*'
+    print("\n!!! Detetado erro de formato na linha " + str(t.lexer.lineno) + " !!!\n")
+    t.lexer.pop_state()
+    t.lexer.lineno += str(t.value).count('\n')
+    t.value = re.sub(r"\(mj", "(m)", t.value)
+    t.value = t.value.strip()
+    return t
+
 def t_ptsearch_portugueseTranslation(t): # includes () í ,
     r'[^\n]*\n([ \r\t\f]{12}[^\n]*\n)*'
     t.lexer.pop_state()
@@ -233,15 +249,6 @@ def t_ptsearch_portugueseTranslation(t): # includes () í ,
         elif t.value != "": # empty string 
             t.value += " "
         t.value += l.strip()
-    return t
-
-# ERRO DE FORMATO
-def t_ptsearch_portugueseTranslationError(t): # example: treinamento (mj dentro da indústria
-    r'[^\n]*\n([ \r\t\f]{12}[^\)\n]*\n)*'
-    t.lexer.pop_state()
-    t.lexer.lineno += str(t.value).count('\n')
-    t.value = re.sub
-    t.value = t.value.strip()
     return t
     
 t_ANY_ignore = ""

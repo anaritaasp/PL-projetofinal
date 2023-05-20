@@ -60,16 +60,16 @@ def main():
         print(" ------------------------------------")
         print(" 1) dic-finance-en.pt.txt")
         print(" 2) teste.txt")
-        print(" 0) SAIR")
+        print(" SAIR (qualquer outro dígito)")
         print()
-        print("Escreva aqui a opção: ", end ="")
+        print("Escreva aqui o dígito da opção: ", end ="")
         x = int(input())
 
         if x == 1:
             buildFile("dic-finance-en.pt.txt")
         elif x == 2:
             buildFile("teste.txt")
-        elif x == 0:
+        else:
             opcao = 0
 
     print()
