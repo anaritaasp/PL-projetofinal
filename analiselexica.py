@@ -209,7 +209,6 @@ def t_f_parenteses(t): # measurement)
     t.lexer.push_state('ptsearch')
     return t
 
-# às vezes pode n
 def t_no_hifen(t): # diferença em relação ao normalword: contém espaço no início
     r'[ \r\t\f]+\(?\w[\w\,\-]*([ \r\t\f]\w[\w\-\,]*)*([ \r\t\f]\([^\)]*\))?\)?[ \r\t\f]{3}[ \r\t\f]*'
     t.value = t.value.strip()
